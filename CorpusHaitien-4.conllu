@@ -1,0 +1,106 @@
+# sent_id = my_sample__1
+# text = SAN JUAN, Pòtoriko (AP) — Fanmi yon koup ameriken ke bandi kidnape ann Ayiti ap plede pou yo jwenn liberasyon.
+# text_fr = SAN JUAN, Porto Rico - et la famille d'un couple américain que les bandits ont kidnappé en Haïti est en train de plaider pour qu' ils trouvent leur libération.
+1	SAN	SAN	PROPN	_	_	19	unk	_	Gloss=SAN
+2	JUAN	JUAN	PROPN	_	_	1	flat:foreign@name	_	Gloss=JUAN|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	Pòtoriko	Pòtoriko	PROPN	_	_	1	conj:appos	_	Gloss=Porto Rico
+5	(	(	PUNCT	_	_	6	punct	_	_
+6	ak	ak	CCONJ	_	_	4	conj:appos	_	Gloss=et|SpaceAfter=No
+7	)	)	PUNCT	_	_	6	punct	_	_
+8	—	—	PUNCT	_	_	9	punct	_	_
+9	Fanmi	Fanmi	NOUN	_	_	19	subj	_	Gloss=famille
+10	yon	yon	DET	_	Definite=Ind|Number=Sing	11	det	_	Gloss=une
+11	koup	koup	NOUN	_	_	9	comp:obj	_	Gloss=coupe
+12	ameriken	ameriken	ADJ	_	_	11	mod	_	Gloss=américaine
+13	ke	ke	PRON	_	_	15	comp:obj	_	Gloss=que
+14	bandi	bandi	NOUN	_	_	15	subj	_	Gloss=bandit
+15	kidnape	kidnape	VERB	_	Number=Plur|Person=3|Tense=Past	11	mod@relcl	_	Gloss=kidnapper
+16	ann	ann	ADP	_	_	15	mod	_	Gloss=en
+17	Ayiti	Ayiti	PROPN	_	_	16	comp:obj	_	Gloss=Haïti
+18	ap	ap	AUX	_	_	19	aux	_	Gloss=PROG
+19	plede	plede	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=demander
+20	pou	pou	ADP	_	_	19	udep	_	Gloss=pour
+21	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	22	subj	_	Gloss=PRON
+22	jwenn	jwenn	VERB	_	_	20	comp:obj	_	Gloss=trouver
+23	liberasyon	liberasyon	NOUN	_	_	22	comp:obj	_	Gloss=libération|SpaceAfter=No
+24	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = my_sample__2
+# text = Nikese Toussaint di ke gang te kidnape frè l, madanm li ak yon twazyèm moun ki t ap vwayaje avèk yo 18 mas pase.
+# text_fr = Nikese Toussaint a dit que les gangs ont kidnappé son frère, sa femme et une troisième personne qui voyageaient avec eux le 18 mars dernier.
+1	Nikese	Nikese	PROPN	_	_	3	subj	_	Gloss=Nikese
+2	Toussaint	Toussaint	PROPN	_	_	1	flat:foreign@name	_	Gloss=Toussaint
+3	di	di	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=dire
+4	ke	ke	PRON	_	_	3	comp:obj	_	Gloss=que
+5	gang	gang	NOUN	_	_	7	subj	_	Gloss=gang
+6	te	te	AUX	_	_	7	aux	_	Gloss=marqueur du passé:
+7	kidnape	kidnape	VERB	_	Number=Plur|Person=3|Tense=Past	4	comp:obj	_	Gloss=Kidnapper
+8	frè	frè	NOUN	_	_	7	comp:obj	_	Gloss=frère
+9	l	l	DET	_	Number=Sing|Person=3|Poss=Yes	8	det	_	Gloss=PRON|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	madanm	madanm	NOUN	_	_	8	conj:coord	_	Gloss=madame
+12	li	li	DET	_	Number=Sing|Person=3|Poss=Yes	11	det	_	Gloss=PRON
+13	ak	ak	CCONJ	_	_	16	cc	_	Gloss=et
+14	yon	yon	DET	_	Definite=Ind|Number=Sing	16	det	_	Gloss=une
+15	twazyèm	twazyèm	NOUN	_	_	16	mod	_	Gloss=personne
+16	moun	moun	NOUN	_	_	11	conj:coord	_	Gloss=personne
+17	ki	ki	PRON	_	_	20	subj	_	Gloss=qui
+18	t	t	AUX	_	_	20	aux	_	Gloss=PAST
+19	ap	ap	AUX	_	_	20	aux	_	Gloss=PROG
+20	vwayaje	vwayaje	VERB	_	Number=Plur|Person=3|Tense=Past	16	mod@relcl	_	Gloss=voyager
+21	avèk	avèk	ADP	_	_	20	udep	_	Gloss=avec
+22	yo	yo	DET	_	Number=Plur|Person=3|PronType=Prs	21	comp:obj	_	Gloss=PRON
+23	18	18	NUM	_	_	20	mod	_	Gloss=18
+24	mas	mas	NOUN	_	_	23	mod	_	Gloss=mars
+25	pase	pase	ADJ	_	_	24	mod	_	Gloss=passé|SpaceAfter=No
+26	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = my_sample__3
+# text = Toussaint di nan yon entèvyou nan telefòn lendi ke gang nan mande $200,000 pou chak moun, e ke fanmi li pa gen kalite lajan sa a.
+# text_fr = Toussaint a dit dans un interview par téléphone lundi que le gang demande $200,000 pour chaque personne et que sa famille n'a pas cette somme d'argent.
+1	Toussaint	Toussaint	PROPN	_	_	2	subj	_	Gloss=Toussaint
+2	di	di	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=dire
+3	nan	nan	ADP	_	_	2	mod	_	Gloss=dans
+4	yon	yon	DET	_	Definite=Ind|Number=Sing	5	det	_	Gloss=un
+5	entèvyou	entèvyou	NOUN	_	_	3	comp:obj	_	Gloss=interview
+6	nan	nan	NOUN	_	_	2	mod	_	Gloss=au
+7	telefòn	telefòn	NOUN	_	_	6	comp:obj	_	Gloss=téléphone
+8	lendi	lendi	NOUN	_	_	2	mod	_	Gloss=lundi
+9	ke	ke	PRON	_	_	2	comp:obj	_	Gloss=que
+10	gang	gang	NOUN	_	_	12	subj	_	Gloss=gang
+11	nan	nan	DET	_	Definite=Def|Number=Sing	12	comp:obj@R	_	Gloss=le
+12	mande	mande	VERB	_	Number=Sing|Person=3|Tense=Pres	9	comp:obj	_	Gloss=demander
+13	$	$	X	_	_	14	mod	_	_
+14	200,000	200,000	NUM	_	NumType=Card	12	comp:obj@T	_	Gloss=deux cent mile
+15	pou	pou	ADP	_	_	14	mod	_	Gloss=pour
+16	chak	chak	DET	_	_	17	det	_	Gloss=chaque
+17	moun	moun	NOUN	_	_	15	comp:obj	_	Gloss=personne|SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	e	e	CCONJ	_	_	20	cc	_	Gloss=et
+20	ke	ke	PRON	_	_	9	conj:coord	_	Gloss=que
+21	fanmi	fanmi	NOUN	_	_	24	subj	_	Gloss=famille
+22	li	li	DET	_	Number=Sing|Person=3|Poss=Yes	21	det	_	Gloss=PRON
+23	pa	pa	PART	_	_	24	mod	_	Gloss=ne pas
+24	gen	gen	VERB	_	Number=Sing|Person=3|Tense=Pres	20	comp:obj	_	Gloss=avoir
+25	kalite	kalite	NOUN	_	_	26	mod	_	_
+26	lajan	lajan	NOUN	_	_	24	comp:obj	_	Gloss=argent
+27	sa	sa	DET	_	Number=Sing|PronType=Dem	26	det	_	Gloss=cet
+28	a	a	DET	_	_	27	mod	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = my_sample__4
+# text = Li te di ke FBI ap ede jwenn liberasyon yo.
+# text_fr = Il disait que le FBI aiderait pour trouver leur libération.
+1	Li	Li	PRON	_	Number=Sing|Person=3|PronType=Prs	3	subj	_	Gloss=PRON
+2	te	te	AUX	_	_	3	aux	_	Gloss=PAST
+3	di	di	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=dire
+4	ke	ke	PRON	_	_	3	comp:obj	_	Gloss=que
+5	FBI	FBI	PROPN	_	_	7	subj	_	Gloss=FBI
+6	ap	ap	AUX	_	_	7	aux	_	Gloss=PROG
+7	ede	ede	VERB	_	Number=Sing|Person=3|Tense=Pres	4	comp:obj	_	Gloss=aider
+8	jwenn	jwenn	VERB	_	VerbForm=Inf	7	comp:obj	_	Gloss=trouver
+9	liberasyon	liberasyon	NOUN	_	_	8	comp:obj	_	Gloss=libération
+10	yo	yo	DET	_	Number=Plur|Person=3|Poss=Yes	9	det	_	Gloss=PRON|SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
