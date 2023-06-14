@@ -13,8 +13,8 @@
 10	gouvènman	gouvènman 	NOUN	_	_	14	subj	_	Gloss=gouvernement
 11	Ameriken	ameriken 	ADJ	_	_	10	mod	_	Gloss=américain
 12	an	an	DET	_	Definite=Def|Number=Sing	11	det	_	Gloss=le
-13	o	o	X	_	_	7	comp:obj	_	Gloss=au
-14	kouran	kouran	NOUN	_	VerbForm=Vnoun	13	goeswith	_	Gloss=être au courant
+13			_	_	_	_	_	_	_
+14	okouran	okouran	NOUN	_	VerbForm=Vnoun	7	comp:obj	_	Gloss=être au courant
 15	de	de 	ADP	_	_	14	udep	_	Gloss=de
 16	rapò	rapò 	NOUN	_	_	15	comp:obj	_	Gloss=rapport
 17	ki	ki	PRON	_	_	18	subj	_	Gloss=qui
@@ -26,7 +26,7 @@
 23	sitwayen	sitwayen 	NOUN	_	_	21	comp:obj	_	Gloss=citoyen
 24	Ameriken	amirekèn	ADJ	_	_	23	mod	_	Gloss=américain
 25	ki	ki	PRON	_	_	26	subj	_	Gloss=qui
-26	disparèt	disparèt	VERB	_	Number=Plur|Person=3|Tense=Pres	24	comp:obj	_	Gloss=disparaître
+26	disparèt	disparèt	VERB	_	Number=Plur|Person=3|Tense=Pres	24	mod@relcl	_	Gloss=disparaître
 27	an	an	ADP	_	_	26	mod	_	Gloss=en
 28	Ayiti	Aiti	PROPN	_	_	27	comp:obj	_	Gloss=Haïti|SpaceAfter=No
 29	,	,	PUNCT	_	_	26	punct	_	_
@@ -50,10 +50,10 @@
 3	ak	ak	CCONJ	_	_	4	cc	_	Gloss=et
 4	Jean-Dickens	Jean-Dickens	PROPN	_	_	1	conj:coord@name	_	Gloss=Jean-Dickens
 5	Toussaint	Toussaint 	PROPN	_	_	4	flat:foreign@name	_	Gloss=Toussaint|SpaceAfter=No
-6	,	,	PUNCT	_	_	5	punct	_	_
-7	33	33	NUM	_	_	8	:num	_	Gloss=33
-8	zan	zan 	NOUN	_	_	4	comp:obj	_	Gloss=ans|SpaceAfter=No
-9	,	,	PUNCT	_	_	8	punct	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	33	33	NUM	_	_	8	det	_	Gloss=33
+8	zan	zan 	NOUN	_	_	1	parataxis	_	Gloss=ans|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
 10	disparèt	disparèt	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	Gloss=disparaître
 11	nan	nan	ADP	_	_	10	mod	_	Gloss=à
 12	Pòtoprens	Pòtoprens 	PROPN	_	_	11	comp:obj	_	Gloss=Port-au-Prince
@@ -61,11 +61,11 @@
 14	gang	gang	NOUN	_	_	16	subj	_	Gloss=gangs
 15	yo	yo	DET	_	Definite=Def|Number=Plur	14	det	_	Gloss=les
 16	kenbe	kenbe 	VERB	_	Number=Plur|Person=3|Tense=Pres	10	conj:coord	_	Gloss=tenir
-17	yo	yo	DET	_	Definite=Def	16	comp:obl	_	Gloss=les
+17	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	16	comp:obj	_	Gloss=PRON
 18	depi	depi 	ADP	_	_	16	mod	_	Gloss=depuis
 19	plizyè	plizyè	ADJ	_	_	20	mod	_	Gloss=plusieurs
 20	jou	jou 	NOUN	_	_	18	comp:obj	_	Gloss=jours|SpaceAfter=No
-21	,	, 	PUNCT	_	_	16	punct	_	_
+21	,	, 	PUNCT	_	_	24	punct	_	_
 22	dapre	dapre 	ADV	_	_	24	mod	_	Gloss=d'après
 23	yon	yon 	DET	_	Definite=Ind|Number=Sing	24	det	_	Gloss=une
 24	petisyon	petisyon 	NOUN	_	_	10	mod	_	Gloss=pétition
@@ -126,10 +126,10 @@
 4	Eta	Eta	NOUN	_	_	3	goeswith	_	Gloss=Etat
 5	di	di	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=dire|SpaceAfter=No
 6	:	:	PUNCT	_	_	5	punct	_	_
-7	"	"	PUNCT	_	_	9	punct	_	_
-8	Nou	Nou	PRON	_	Number=Plur|Person=1|PronType=Prs	9	subj	_	Gloss=PRON
-9	o	o	X	_	_	5	comp:obj	_	Gloss=au
-10	kouran	kouran 	NOUN	_	VerbForm=Vnoun	9	goeswith	_	Gloss=nounPred
+7	"	"	PUNCT	_	_	10	punct	_	_
+8	Nou	Nou	PRON	_	Number=Plur|Person=1|PronType=Prs	10	subj	_	Gloss=PRON
+9			_	_	_	_	_	_	_
+10	okouran	okouran 	NOUN	_	VerbForm=Vnoun	5	comp:obj	_	Gloss=nounPred
 11	de	de 	ADP	_	_	10	udep	_	Gloss=du
 12	rapò	rapò	NOUN	_	_	11	comp:obj	_	Gloss=rapport
 13	ki	ki 	PRON	_	_	14	subj	_	Gloss=qui
@@ -193,7 +193,7 @@
 9	demann	demann 	NOUN	_	_	8	comp:obl	_	Gloss=demande
 10	Reuters	Reuters 	PROPN	_	_	12	subj	_	Gloss=Reuters
 11	te	te	AUX	_	_	12	aux	_	Gloss=PAST
-12	fè	fè	VERB	_	Number=Sing|Person=3|Tense=Pqp	9	mod:relcl	_	Gloss=faire
+12	fè	fè	VERB	_	Number=Sing|Person=3|Tense=Pqp	9	mod@relcl	_	Gloss=faire
 13	pou	pou	ADP	_	_	12	mod	_	Gloss=pour
 14	kòmantè	kòmantè	NOUN	_	_	13	comp:obj	_	Gloss=commentaire|SpaceAfter=No
 15	.	.	PUNCT	_	_	8	punct	_	_
@@ -292,32 +292,32 @@
 2	17	17	NUM	_	_	3	det	_	Gloss=17
 3	misyonè	misyonè	NOUN	_	_	1	comp:obj	_	Gloss=missionnaire
 4	ki	ki 	PRON	_	_	5	cc	_	Gloss=qui
-5	moun	moun	NOUN	_	VerbForm=Vnoun	3	conj@relcl	_	Gloss=gens
+5	moun	moun	NOUN	_	VerbForm=Vnoun	3	mod@relcl	_	Gloss=gens
 6	Etazini	Etazini	PROPN	_	_	5	udep	_	Gloss=Etats-Unis
 7	ak	ak	CCONJ	_	_	8	cc	_	Gloss=et
 8	Kanada	kanada 	PROPN	_	_	6	conj:coord	_	Gloss=Kanada
 9	ke	ke	PRON	_	_	13	comp:obj	_	Gloss=que
-10	yon	yon	DET	_	Definite=Ind|Number=Sing	11	det	_	Gloss=un
+10	yon	yon	DET	_	_	11	det	_	Gloss=un
 11	gang	gang	NOUN	_	_	13	subj	_	Gloss=gang
-12	te	te	AUX	_	_	13	aux	_	Gloss=PAST
-13	kenbe	kenbe	VERB	_	Number=Sing|Person=3|Tense=Past	5	mod@relcl	_	Gloss=capturer
+12	te	te	AUX	_	_	13	aux	_	Gloss=marqueur du passé
+13	kenbe	kenbe	VERB	_	_	5	mod@relcl	_	Gloss=capturer
 14	pou	pou 	ADP	_	_	13	udep	_	Gloss=pour
 15	ranson	ranson	NOUN	_	_	14	comp:obj	_	Gloss=raison
 16	an	an	DET	_	_	13	udep	_	Gloss=la
 17	2021	2021	NUM	_	_	16	comp:obj	_	Gloss=2021
 18	pandan	pandan	SCONJ	_	_	13	mod	_	Gloss=pendant
-19	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	21	subj	_	Gloss=PRON
-20	tap	tap	AUX	_	_	21	aux	_	Gloss=PAST
-21	travay	travay 	VERB	_	Number=Plur|Person=3|Tense=Past	18	comp:obj	_	Gloss=travailler
+19	yo	yo	PRON	_	_	21	subj	_	Gloss=ils
+20	t ap	t ap	AUX	_	_	21	aux	_	Gloss=marqueur du passé: travaillaient
+21	travay	travay 	VERB	_	_	18	comp:obj	_	Gloss=travailler
 22	pou	pou	ADP	_	_	21	udep	_	Gloss=pour
 23	Christian	Christian	PROPN	_	_	22	comp:obj	_	Gloss=Christian
 24	Aid	Aid 	PROPN	_	_	23	flat:foreign@name	_	Gloss=Aid
 25	Ministries	Ministries 	PROPN	_	_	24	flat:foreign@name	_	Gloss=Ministries
 26	ki	ki	PRON	_	_	27	subj	_	Gloss=qui
-27	gen	gen	VERB	_	Number=Sing|Person=3|Tense=Pres	23	mod@relcl	_	Gloss=avoir
+27	gen	gen	VERB	_	_	23	mod@relcl	_	Gloss=avoir
 28	katye	katye	NOUN	_	_	27	comp:obj	_	Gloss=quartier
 29	jeneral	jeneral 	ADJ	_	_	28	mod	_	Gloss=général
-30	li	li 	DET	_	Number=Sing|Person=3|Poss=Yes	28	det	_	Gloss=PRON
+30	li	li 	DET	_	_	28	det	_	Gloss=son
 31	nan	nan 	ADP	_	_	27	udep	_	Gloss=dans
 32	Eta	Eta 	NOUN	_	_	31	comp:obj	_	Gloss=état
 33	Ohio	Ohio	PROPN	_	_	32	udep	_	Gloss=Ohio

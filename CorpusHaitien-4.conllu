@@ -91,7 +91,7 @@
 
 # sent_id = my_sample__4
 # text = Li te di ke FBI ap ede jwenn liberasyon yo.
-# text_fr = Il disait que le FBI aiderait pour trouver leur libération.
+# text_fr = Il disait que le FBI aiderait à trouver leur libération.
 1	Li	Li	PRON	_	Number=Sing|Person=3|PronType=Prs	3	subj	_	Gloss=PRON
 2	te	te	AUX	_	_	3	aux	_	Gloss=PAST
 3	di	di	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=dire
