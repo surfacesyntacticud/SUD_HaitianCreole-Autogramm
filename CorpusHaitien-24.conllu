@@ -10,7 +10,7 @@
 7	deklare	deklare 	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=déclarer
 8	Samdi	Samdi	NOUN	_	_	7	mod	_	Gloss=samedi|SpaceAfter=No
 9	,	,	PUNCT	_	_	7	punct	_	_
-10	gouvènman	gouvènman 	NOUN	_	_	14	subj	_	Gloss=gouvernement
+10	gouvènman	gouvènman 	NOUN	_	_	13	subj	_	Gloss=gouvernement
 11	Ameriken	ameriken 	ADJ	_	_	10	mod	_	Gloss=américain
 12	an	an	DET	_	Definite=Def|Number=Sing	11	det	_	Gloss=le
 13	o	o	X	_	_	7	comp:obj	_	Gloss=au
