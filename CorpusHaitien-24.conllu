@@ -13,8 +13,8 @@
 10	gouvènman	gouvènman 	NOUN	_	_	14	subj	_	Gloss=gouvernement
 11	Ameriken	ameriken 	ADJ	_	_	10	mod	_	Gloss=américain
 12	an	an	DET	_	Definite=Def|Number=Sing	11	det	_	Gloss=le
-13			_	_	_	_	_	_	_
-14	okouran	okouran	NOUN	_	VerbForm=Vnoun	7	comp:obj	_	Gloss=être au courant
+13	o	o	X	_	_	7	comp:obj	_	Gloss=au
+14	kouran	kouran	NOUN	_	VerbForm=Vnoun	13	goeswith	_	Gloss=être au courant
 15	de	de 	ADP	_	_	14	udep	_	Gloss=de
 16	rapò	rapò 	NOUN	_	_	15	comp:obj	_	Gloss=rapport
 17	ki	ki	PRON	_	_	18	subj	_	Gloss=qui
@@ -126,10 +126,10 @@
 4	Eta	Eta	NOUN	_	_	3	goeswith	_	Gloss=Etat
 5	di	di	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=dire|SpaceAfter=No
 6	:	:	PUNCT	_	_	5	punct	_	_
-7	"	"	PUNCT	_	_	10	punct	_	_
-8	Nou	Nou	PRON	_	Number=Plur|Person=1|PronType=Prs	10	subj	_	Gloss=PRON
-9			_	_	_	_	_	_	_
-10	okouran	okouran 	NOUN	_	VerbForm=Vnoun	5	comp:obj	_	Gloss=nounPred
+7	"	"	PUNCT	_	_	9	punct	_	_
+8	Nou	Nou	PRON	_	Number=Plur|Person=1|PronType=Prs	9	subj	_	Gloss=PRON
+9	o	o	X	_	_	5	comp:obj	_	Gloss=au
+10	kouran	kouran 	NOUN	_	VerbForm=Vnoun	9	goeswith	_	Gloss=nounPred
 11	de	de 	ADP	_	_	10	udep	_	Gloss=du
 12	rapò	rapò	NOUN	_	_	11	comp:obj	_	Gloss=rapport
 13	ki	ki 	PRON	_	_	14	subj	_	Gloss=qui
