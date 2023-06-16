@@ -92,15 +92,15 @@
 # sent_id = my_sample__4
 # text = Li te di ke FBI ap ede jwenn liberasyon yo.
 # text_fr = Il disait que le FBI aiderait à trouver leur libération.
-1	Li	Li	PRON	_	Number=Sing|Person=3|PronType=Prs	3	subj	_	Gloss=PRON
-2	te	te	AUX	_	_	3	aux	_	Gloss=PAST
-3	di	di	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=dire
-4	ke	ke	PRON	_	_	3	comp:obj	_	Gloss=que
+1	Li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	3	subj	_	Gloss=3SG
+2	te	te	AUX	_	Number=Sing|Person=3|Tense=Past	3	aux	_	Gloss=PAST
+3	di	di	VERB	_	_	0	root	_	Gloss=dire
+4	ke	ke	SCONJ	_	_	3	comp:obj	_	Gloss=que
 5	FBI	FBI	PROPN	_	_	7	subj	_	Gloss=FBI
-6	ap	ap	AUX	_	_	7	aux	_	Gloss=PROG
-7	ede	ede	VERB	_	Number=Sing|Person=3|Tense=Pres	4	comp:obj	_	Gloss=aider
-8	jwenn	jwenn	VERB	_	VerbForm=Inf	7	comp:obj	_	Gloss=trouver
+6	ap	ap	AUX	_	Aspect=Prog|Number=Sing|Person=3|Tense=Pres	7	aux	_	Gloss=PROG
+7	ede	ede	VERB	_	_	4	comp:obj	_	Gloss=aider
+8	jwenn	jwenn	VERB	_	_	7	comp:obj	_	Gloss=trouver
 9	liberasyon	liberasyon	NOUN	_	_	8	comp:obj	_	Gloss=libération
-10	yo	yo	DET	_	Number=Plur|Person=3|Poss=Yes	9	det	_	Gloss=PRON|SpaceAfter=No
+10	yo	yo	DET	_	Number=Plur|Person=3|Poss=Yes	9	det	_	Gloss=3PL|SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
