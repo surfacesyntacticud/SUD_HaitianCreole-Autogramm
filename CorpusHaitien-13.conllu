@@ -1,6 +1,6 @@
 # sent_id = my_sample__1
 # text = 39 Moun Mouri nan Dife nan Sant Migran Meksik Toupre Fwontyè ak Etazini
-# text_fr = 39 personnes meurent dans un incendie dans le centre migrant du Mexique tout prêt  de la frontière avec les Etats-Unis.
+# text_fr = 39 personnes meurent dans un incendie dans le centre des migrants au Mexique tout prêt  de la frontière avec les Etats-Unis.
 1	39	39	NUM	_	_	2	det	_	Gloss=39
 2	Moun	moun	NOUN	_	_	3	subj	_	Gloss=personne
 3	Mouri	mouri	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	Gloss=mourir
@@ -111,7 +111,7 @@
 31	Paso	paso	PROPN	_	_	30	flat@name	_	Gloss=Paso|SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	_
 33	Texas	Texas	PROPN	_	_	30	conj:appos	_	Gloss=Texas|SpaceAfter=No
-34	.	.	PUNCT	_	_	_	_	_	_
+34	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = my_sample__5
 # text = Anbilans, ponpye ak lòt kamyon ki soti nan mòg la te anvayi lye ensidan an.
