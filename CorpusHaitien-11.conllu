@@ -1,9 +1,9 @@
 # sent_id = my_sample__1
 # text = Meksik Arete 5 Moun an Koneksyon ak Dife ki Pete nan Sant pou Migran an
 # text_fr = Mexique arrête 5 personnes en rapport avec l'incendie qui a éclaté dans le centre du migrant
-# Status = WIP
+# Status = SILVER
 1	Meksik	meksik	NOUN	_	_	2	subj	_	Gloss=Mexique
-2	Arete	arete	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=Arrêter
+2	Arete	arete	VERB	_	Tense=Pres	0	root	_	Gloss=arrêter
 3	5	5	NOUN	_	_	4	det	_	Gloss=5
 4	Moun	moun	NOUN	_	_	2	comp:obj	_	Gloss=personne
 5	an	an	DET	_	_	4	udep	_	Gloss=en
@@ -11,7 +11,7 @@
 7	ak	ak	ADP	_	_	6	udep	_	Gloss=avec
 8	Dife	dife	NOUN	_	_	7	comp:obj	_	Gloss=incendie
 9	ki	ki	PRON	_	_	10	subj	_	Gloss=qui
-10	Pete	pete	NOUN	_	Number=Sing|Person=3|Tense=Pres	8	mod@relcl	_	Gloss=éclater
+10	Pete	pete	VERB	_	Tense=Pres	8	mod@relcl	_	Gloss=éclater
 11	nan	nan	ADP	_	_	10	udep	_	Gloss=dans
 12	Sant	sant	NOUN	_	_	11	comp:obj	_	Gloss=centre
 13	pou	pou	ADP	_	_	12	udep	_	Gloss=pour
@@ -21,46 +21,46 @@
 # sent_id = my_sample__2
 # text = Otorite meksiken arete 5 moun pou swadizan koneksyon yo ak yon dife ki te pete nan yon sant meksiken ki kenbe migran, kote 30 migran pèdi lavi yo.
 # text_fr = L'autorité mexicaine arrête 5 personnes pour leur soi-disant connexion avec l'incendie qui a éclaté dans un centre mexicain qui accueille les migrants, où 30 migrants perdent leur vie
-# Status = WIP
+# Status = SILVER
 1	Otorite	otorite	NOUN	_	_	3	subj	_	Gloss=autorité
 2	meksiken	meksiken	ADJ	_	_	1	mod	_	Gloss=mexicaine
-3	arete	arete	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=arrêter
+3	arete	arete	VERB	_	Tense=Pres	0	root	_	Gloss=arrêter
 4	5	5	NUM	_	_	5	det	_	Gloss=5
 5	moun	moun	NOUN	_	_	3	comp:obj	_	Gloss=personne
 6	pou	pou	ADP	_	_	3	udep	_	Gloss=pour
-7	swadizan	swadizan	NOUN	_	_	8	mod	_	Gloss=soi-disant
-8	koneksyon	koneksyon	NOUN	_	_	6	comp:obj	_	Gloss=correction
-9	yo	yo	PRON	_	Number=Sing|Person=3|Poss=Yes	8	det	_	Gloss=leur
+7	swadizan	swadizan	ADJ	_	_	8	mod	_	Gloss=soi-disant
+8	koneksyon	koneksyon	NOUN	_	_	6	comp:obj	_	Gloss=connection
+9	yo	yo	DET	_	Number=Plur|Person=3|Poss=Yes	8	det	_	Gloss=3PL
 10	ak	ak	ADP	_	_	8	udep	_	Gloss=avec
 11	yon	yon	DET	_	_	12	det	_	Gloss=un
 12	dife	dife	NOUN	_	_	10	comp:obj	_	Gloss=incendie
 13	ki	ki	PRON	_	_	15	subj	_	Gloss=qui
 14	te	te	AUX	_	_	15	aux	_	Gloss=PAST
-15	pete	pete	NOUN	_	Number=Sing|Person=3|Tense=Past	12	mod@relcl	_	Gloss=éclater
+15	pete	pete	VERB	_	_	12	mod@relcl	_	Gloss=éclater
 16	nan	nan	ADP	_	_	15	udep	_	Gloss=dans
 17	yon	yon	DET	_	_	18	det	_	Gloss=un
 18	sant	sant	NOUN	_	_	16	comp:obj	_	Gloss=centre
 19	meksiken	meksiken	ADJ	_	_	18	mod	_	Gloss=mexicain
 20	ki	ki	PRON	_	_	21	subj	_	Gloss=qui
-21	kenbe	kenbe	NOUN	_	Number=Sing|Person=3|Tense=Pres	18	mod@relcl	_	Gloss=accueille
+21	kenbe	kenbe	VERB	_	Tense=Pres	18	mod@relcl	_	Gloss=accueille
 22	migran	migran	NOUN	_	_	21	comp:obj	_	Gloss=migrant|SpaceAfter=No
 23	,	,	PUNCT	_	_	27	punct	_	_
 24	kote	kote	PRON	_	_	27	cc	_	Gloss=où
 25	30	30	NUM	_	_	26	det	_	Gloss=30
 26	migran	migran	NOUN	_	_	27	subj	_	Gloss=migrant
-27	pèdi	pèdi	VERB	_	Number=Plur|Person=3|Tense=Pres	18	mod@relcl	_	Gloss=perdre
+27	pèdi	pèdi	VERB	_	Tense=Pres	18	mod@relcl	_	Gloss=perdre
 28	lavi	lavi	NOUN	_	_	27	comp:obj	_	Gloss=vie
-29	yo	yo	ADP	_	Number=Plur|Person=3|Poss=Yes	28	det	_	SpaceAfter=No
+29	yo	yo	DET	_	Number=Plur|Person=3|Poss=Yes	28	det	_	Gloss=3PL|SpaceAfter=No
 30	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = my_sample__3
 # text = Anons arestasyon an fèt jedi, yon jou apre minis jistis Meksik la te anonse yon ankèt sou ansasinay nan kesyon dife a, apre yon video siveyans sanble moutre gad sekirite ki pa te fè anyen pou ede migran yo chape poul yo lè dife t ap anvayi selil kote yo te fèmen.
 # text_fr = L'annonce de l'arrestation est publiée jeudi, un jour après que le ministre de la justice de Mexique a annoncé une enquête sur l'assassinat dans la question de l'incendie, après qu'une vidéo de surveillance semble montrer l'agent de sécurité qui n'a rien fait pour aider les migrants à sauver leur peau quand l'incendie avait envahi la salle où ils ont été fermés.
-# Status = WIP
+# Status = SILVER
 1	Anons	anons	NOUN	_	_	4	subj	_	Gloss=annonce
 2	arestasyon	arestasyon	NOUN	_	_	1	comp:obj	_	Gloss=arrestation
 3	an	an	DET	_	Definite=Def|Number=Sing	2	det	_	Gloss=l'
-4	fèt	fèt	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=faire
+4	fèt	fèt	VERB	_	Tense=Pres	0	root	_	Gloss=faire
 5	jedi	jedi	NOUN	_	_	4	mod	_	Gloss=jeudi|SpaceAfter=No
 6	,	,	NOUN	_	_	4	punct	_	_
 7	yon	yon	DET	_	Definite=Ind|Number=Sing	8	det	_	Gloss=un
@@ -70,8 +70,8 @@
 11	jistis	jistis	NOUN	_	_	10	comp:obj	_	Gloss=justice
 12	Meksik	meksik	NOUN	_	_	11	mod	_	Gloss=Mexique
 13	la	la	DET	_	Definite=Def|Number=Sing	10	det	_	Gloss=le
-14	te	te	AUX	_	_	15	aux	_	_
-15	anonse	anonse	VERB	_	Number=Sing|Person=3|Tense=Pres	9	comp:obj	_	Gloss=annoncer
+14	te	te	AUX	_	_	15	aux	_	Gloss=PAST
+15	anonse	anonse	VERB	_	Tense=Pres	9	comp:obj	_	Gloss=annoncer
 16	yon	yon	DET	_	Definite=Ind|Number=Sing	17	det	_	Gloss=une
 17	ankèt	ankèt	NOUN	_	_	15	comp:obj	_	Gloss=enquête
 18	sou	sou	ADP	_	_	17	udep	_	Gloss=sur
@@ -85,31 +85,31 @@
 26	yon	yon	DET	_	Definite=Ind|Number=Sing	27	det	_	Gloss=une
 27	video	video	NOUN	_	_	29	subj	_	Gloss=vidéo
 28	siveyans	siveyans	NOUN	_	_	27	comp:obj	_	Gloss=surveillance
-29	sanble	sanble	VERB	_	Number=Sing|Person=3|Tense=Pres	25	comp:obj	_	Gloss=sembler
+29	sanble	sanble	VERB	_	Tense=Pres	25	comp:obj	_	Gloss=sembler
 30	moutre	moutre	VERB	_	VerbForm=Inf	29	comp:obj	_	Gloss=montrer
 31	gad	gad	NOUN	_	_	30	comp:obj	_	Gloss=agent
 32	sekirite	sekirite	NOUN	_	_	31	comp:obj	_	Gloss=sécurité
 33	ki	ki	PRON	_	_	36	subj	_	Gloss=qui
-34	pa	pa	PART	_	_	36	mod	_	Gloss=ne pas
-35	te	te	ADP	_	_	36	aux	_	Gloss=PAST
+34	pa	pa	ADV	_	_	36	mod	_	Gloss=NEG
+35	te	te	AUX	_	_	36	aux	_	Gloss=PAST
 36	fè	fè	VERB	_	_	31	mod@relcl	_	Gloss=faire
-37	anyen	anyen	PART	_	_	36	mod	_	Gloss=rien
+37	anyen	anyen	ADV	_	_	36	mod	_	Gloss=rien
 38	pou	pou	ADP	_	_	36	udep	_	Gloss=pour
 39	ede	ede	VERB	_	VerbForm=Inf	38	comp:obj	_	Gloss=aider
 40	migran	migran	NOUN	_	_	39	comp:obj	_	Gloss=migrant
 41	yo	yo	DET	_	Definite=Def|Number=Plur	40	det	_	Gloss=les
 42	chape	chape	VERB	_	_	39	comp:obj	_	Gloss=sauver
 43	poul	poul	NOUN	_	_	42	comp:obj	_	Gloss=peau
-44	yo	yo	ADP	_	Number=Plur|Person=3|Poss=Yes	43	det	_	Gloss=PRON
-45	lè	lè	ADJ	_	_	36	mod	_	Gloss=quand
+44	yo	yo	DET	_	Number=Plur|Person=3|Poss=Yes	43	det	_	Gloss=3PL
+45	lè	lè	SCONJ	_	_	36	mod	_	Gloss=quand
 46	dife	dife	NOUN	_	_	49	subj	_	Gloss=incendie
-47	t	t	AUX	_	_	49	aux	_	Gloss=PAST
+47	t	te	AUX	_	_	49	aux	_	Gloss=PAST
 48	ap	ap	AUX	_	_	49	aux	_	Gloss=PROG
-49	anvayi	anvayi	VERB	_	Number=Sing|Person=3|Tense=Pqp	45	comp:obj	_	Gloss=envahir
+49	anvayi	anvayi	VERB	_	_	45	comp:obj	_	Gloss=envahir
 50	selil	selil	NOUN	_	_	49	comp:obj	_	Gloss=salle
-51	kote	kote	NOUN	_	_	54	mod	_	Gloss=où
-52	yo	yo	ADP	_	Number=Plur|Person=3|PronType=Prs	54	subj	_	Gloss=3 PRON
+51	kote	kote	PRON	_	_	54	mod	_	Gloss=où
+52	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	54	subj	_	Gloss=3PL
 53	te	te	AUX	_	_	54	aux	_	Gloss=PAST
-54	fèmen	fèmen	VERB	_	Number=Plur|Person=3|Tense=Past	50	mod@relcl	_	Gloss=fermer|SpaceAfter=No
-55	.	.	NOUN	_	_	4	punct	_	_
+54	fèmen	fèmen	VERB	_	_	50	mod@relcl	_	Gloss=fermer|SpaceAfter=No
+55	.	.	PUNCT	_	_	4	punct	_	_
 
