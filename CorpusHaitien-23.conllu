@@ -45,7 +45,7 @@
 # Status = SILVER
 1	Pòtpawol	Pòtpawol 	NOUN	_	_	9	subj	_	Gloss=Porte parole
 2	adjwen	adjwen	ADJ	_	_	1	mod	_	Gloss=adjoint
-3	Depatman	Depatman 	NOUN	_	_	2	comp:obj	_	Gloss=département
+3	Depatman	Depatman 	NOUN	_	_	1	comp:obj	_	Gloss=département
 4	Deta	Deta	NOUN	_	_	3	comp:obj	_	Gloss=d'Etat
 5	a	a	DET	_	Definite=Def|Number=Sing	1	det	_	Gloss=le|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	_

@@ -149,7 +149,7 @@
 11	atann	atann	VERB	_	Tense=Pres	5	mod@relcl	_	Gloss=attendre
 12	a	a	ADP	_	_	11	comp:obl	_	Gloss=à
 13	sa	sa	DET	_	Number=Sing|PronType=Dem	12	comp:obj	_	Gloss=cela
-14	non	non	NOUN	_	_	13	det	_	Gloss=DET|SpaceAfter=No
+14	non	non	DET	_	_	13	det	_	Gloss=DET|SpaceAfter=No
 15	,	,	PUNCT	_	_	19	punct	_	_
 16	men	men	CCONJ	_	_	19	cc	_	Gloss=mais
 17	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	19	subj	_	Gloss=1SG

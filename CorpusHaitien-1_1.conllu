@@ -45,7 +45,7 @@
 # Status = SILVER
 1	Yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	2	det	_	Gloss=un
 2	fwa	fwa	NOUN	_	_	3	mod	_	Gloss=fois
-3	lè	lè	SCONJ	_	_	10	cc	_	Gloss=quand
+3	lè	lè	SCONJ	_	_	10	mod	_	Gloss=quand
 4	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	6	subj	_	Gloss=1SG
 5	te	te	AUX	_	_	6	aux	_	Gloss=PAST
 6	piti	piti	VERB	_	_	3	comp:obj	_	Gloss=petit|SpaceAfter=No
@@ -290,7 +290,7 @@
 12	minit	minit	NOUN	_	_	10	comp:obj	_	Gloss=minute
 13	ak	ak	ADP	_	_	9	udep	_	Gloss=avec
 14	nou	nou	PRON	_	Number=Plur|Person=2|PronType=Prs	13	comp:obj	_	Gloss=2PL
-15	si	si	SCONJ	_	_	19	cc	_	Gloss=si
+15	si	si	SCONJ	_	_	19	mod	_	Gloss=si
 16	sa	sa	PRON	_	Number=Sing|PronType=Dem	19	subj	_	Gloss=ça
 17	p	pa	ADV	_	_	19	mod	_	Gloss=ne pas
 18	ap	ap	AUX	_	_	19	aux	_	Gloss=PROG
@@ -308,10 +308,10 @@
 4	frison	frison	NOUN	_	_	2	comp:obj	_	Gloss=frisson
 5	vyolan	vyolan	ADJ	_	_	4	mod	_	Gloss=violent
 6	pran	pran	VERB	_	Tense=Pres	4	mod@relcl	_	Gloss=traverser, prendre
-7	m	mwen	DET	_	Number=Sing|Person=1|PronType=Prs	6	comp:obj	_	Gloss=1SG
+7	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	6	comp:obj	_	Gloss=1SG
 8	nan	nan	ADP	_	_	6	udep	_	Gloss=dans
 9	tout	tout	ADJ	_	_	10	mod	_	Gloss=tout
-10	kò	kò	ADP	_	_	8	comp:obj	_	Gloss=corps
+10	kò	kò	NOUN	_	_	8	comp:obj	_	Gloss=corps
 11	m	mwen	PRON	_	Number=Sing|Person=1|Poss=Yes	10	det	_	Gloss=1SG
 12	lè	lè	SCONJ	_	_	6	mod	_	Gloss=quand
 13	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	14	subj	_	Gloss=1SG
@@ -351,10 +351,10 @@
 # text_fr = Il n'est autre qu'un inconnu qui était dans la deuxième année.
 # Status = SILVER
 1	Li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	4	subj	_	Gloss=3SG
-2	pa	pa	ADV	_	_	3	mod	_	Gloss=NEG
+2	pa	pa	ADV	_	_	4	mod	_	Gloss=NEG
 3	t	te	AUX	_	_	4	aux	_	Gloss=PAST
 4	lòt	lòt	ADJ	_	_	0	root	_	Gloss=autre
-5	ke	ke	PRON	_	_	4	comp:obj	_	Gloss=que
+5	ke	ke	SCONJ	_	_	4	comp:obj	_	Gloss=que
 6	yon	yon	DET	_	Definite=Ind|Number=Sing	7	det	_	Gloss=un
 7	enkoni	enkoni	NOUN	_	_	5	comp:obj	_	Gloss=inconnu
 8	ki	ki	PRON	_	_	9	subj	_	Gloss=qui
@@ -448,7 +448,7 @@
 30	(	(	PUNCT	_	_	31	punct	_	_
 31	paske	paske	SCONJ	_	_	27	parataxis	_	Gloss=parce que
 32	se	se	VERB	_	Tense=Pres	31	comp:obj	_	Gloss=être
-33	li	li	DET	_	Number=Sing|Person=3|PronType=Prs	32	comp:obj	_	Gloss=3SG
+33	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	32	comp:obj	_	Gloss=3SG
 34	ki	ki	PRON	_	_	36	subj	_	Gloss=qui
 35	te	te	AUX	_	_	36	aux	_	Gloss=PAST
 36	prezidan	prezidan	NOUN	_	_	32	mod@relcl	_	Gloss=président|SpaceAfter=No

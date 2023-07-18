@@ -61,8 +61,8 @@
 # Status = SILVER
 1	Se	se	VERB	_	Tense=Pres	0	root	_	Gloss=être
 2	youn	youn	NUM	_	_	1	subj@expl	_	Gloss=l'un
-3	nan	nan	DET	_	Definite=Ind|Number=Plur	2	udep	_	Gloss=des
-4	ensidan	ensidan	NOUN	_	_	3	comp:obj	_	Gloss=incident
+3	nan	nan	DET	_	Definite=Ind|Number=Plur	4	det	_	Gloss=des
+4	ensidan	ensidan	NOUN	_	_	2	comp:obj	_	Gloss=incident
 5	kote	kote	PRON	_	PronType=Rel	8	mod	_	Gloss=où
 6	plis	plis	ADJ	_	_	7	det	_	Gloss=plus
 7	moun	moun	NOUN	_	_	8	subj	_	Gloss=gens, personne

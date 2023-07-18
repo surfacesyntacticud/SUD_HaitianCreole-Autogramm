@@ -52,7 +52,7 @@
 19	ap	ap	AUX	_	_	20	aux	_	Gloss=PROG
 20	vwayaje	vwayaje	VERB	_	Tense=Past	16	mod@relcl	_	Gloss=voyager
 21	avèk	avèk	ADP	_	_	20	udep	_	Gloss=avec
-22	yo	yo	DET	_	Number=Plur|Person=3|PronType=Prs	21	comp:obj	_	Gloss=3PL
+22	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	21	comp:obj	_	Gloss=3PL
 23	18	18	NUM	_	_	20	mod	_	Gloss=18
 24	mas	mas	NOUN	_	_	23	mod	_	Gloss=mars
 25	pase	pase	ADJ	_	_	24	mod	_	Gloss=passé|SpaceAfter=No
@@ -67,12 +67,12 @@
 3	nan	nan	ADP	_	_	2	mod	_	Gloss=dans
 4	yon	yon	DET	_	Definite=Ind|Number=Sing	5	det	_	Gloss=un
 5	entèvyou	entèvyou	NOUN	_	_	3	comp:obj	_	Gloss=interview
-6	nan	nan	NOUN	_	_	2	mod	_	Gloss=au
+6	nan	nan	ADP	_	_	2	mod	_	Gloss=au
 7	telefòn	telefòn	NOUN	_	_	6	comp:obj	_	Gloss=téléphone
 8	lendi	lendi	NOUN	_	_	2	mod	_	Gloss=lundi
 9	ke	ke	PRON	_	_	2	comp:obj	_	Gloss=que
 10	gang	gang	NOUN	_	_	12	subj	_	Gloss=gang
-11	nan	nan	DET	_	Definite=Def|Number=Sing	12	comp:obj@R	_	Gloss=le
+11	nan	nan	DET	_	Definite=Def|Number=Sing	10	det	_	Gloss=le
 12	mande	mande	VERB	_	Tense=Pres	9	comp:obj	_	Gloss=demander
 13	$	$	X	_	_	14	mod	_	Gloss=$
 14	200,000	200,000	NUM	_	NumType=Card	12	comp:obj@T	_	Gloss=200 000

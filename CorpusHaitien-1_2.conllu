@@ -57,7 +57,7 @@
 9	la	la	DET	_	Definite=Def	8	det	_	Gloss=la
 10	paske	paske	SCONJ	_	_	5	mod	_	Gloss=parce que
 11	fòk	fòk	VERB	_	Tense=Pres	10	comp:obj	_	Gloss=falloir
-12	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	14	aux	_	Gloss=1SG
+12	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	14	subj	_	Gloss=1SG
 13	te	te	AUX	_	_	14	aux	_	Gloss=PAST
 14	rantre	rantre	VERB	_	_	11	comp:obj	_	Gloss=rejoindre
 15	Jakmèl	jakmèl	PROPN	_	_	14	comp:obj	_	Gloss=jakmèl
@@ -295,7 +295,7 @@
 2	te	te	AUX	_	_	3	aux	_	Gloss=PAST
 3	abite	abite	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	Gloss=habiter
 4	Lamentin	Lamentin	PROPN	_	_	3	comp:obj	_	Gloss=lamentin
-5	54	54	NUM	_	_	4	comp:obj	_	Gloss=54|SpaceAfter=No
+5	54	54	NUM	_	_	4	mod	_	Gloss=54|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	Kafou	Kafou	PROPN	_	_	4	conj:appos	_	Gloss=kafou|SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	_

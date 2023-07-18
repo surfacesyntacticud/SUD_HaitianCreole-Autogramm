@@ -225,7 +225,7 @@
 12	Prezidan	prezidan	PROPN	_	_	11	comp:obj	_	Gloss=président
 13	Jovenel	Jovenel 	PROPN	_	_	12	flat@name	_	Gloss=Jovenel
 14	Moise	Moise 	PROPN	_	_	13	flat@name	_	Gloss=Moise
-15	an	an	ADV	_	_	11	udep	_	Gloss=en
+15	an	an	ADP	_	_	11	udep	_	Gloss=en
 16	2021	2021	NUM	_	_	15	comp:obj	_	Gloss=2021|SpaceAfter=No
 17	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -288,8 +288,8 @@
 11	koule	koule	VERB	_	Tense=Pres	8	comp:pred	_	Gloss=coulé
 12	epi	epi	CCONJ	_	_	17	cc	_	Gloss=et
 13	plizyè	plizyè	ADV	_	_	14	det	_	Gloss=plusieurs
-14	santèn	santèn	NUM	_	_	17	subj	_	Gloss=centaine
-15	milye	milye	NUM	_	_	14	comp:obj	_	Gloss=milliers
+14	santèn	santèn	NOUN	_	_	17	subj	_	Gloss=centaine
+15	milye	milye	NOUN	_	_	14	comp:obj	_	Gloss=milliers
 16	moun	moun	NOUN	_	_	15	comp:obj	_	Gloss=gens
 17	oblije	oblije	VERB	_	Tense=Pres	8	conj:coord	_	Gloss=obliger
 18	kouri	kouri	VERB	_	VerbForm=Inf	17	comp:obl	_	Gloss=courir
@@ -305,7 +305,7 @@
 1	Gen	Gen	VERB	_	Tense=Pres	0	root	_	Gloss=Avoir
 2	17	17	NUM	_	_	3	det	_	Gloss=17
 3	misyonè	misyonè	NOUN	_	_	1	comp:obj	_	Gloss=missionnaire
-4	ki	ki 	PRON	_	_	5	cc	_	Gloss=qui
+4	ki	ki 	PRON	_	_	5	subj	_	Gloss=qui
 5	moun	moun	NOUN	_	_	3	mod@relcl	_	Gloss=gens
 6	Etazini	Etazini	PROPN	_	_	5	udep	_	Gloss=Etats-Unis
 7	ak	ak	CCONJ	_	_	8	cc	_	Gloss=et
