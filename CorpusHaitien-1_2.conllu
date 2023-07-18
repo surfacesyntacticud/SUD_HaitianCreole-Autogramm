@@ -226,7 +226,7 @@
 1	Mwen	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj	_	Gloss=1SG
 2	vire	vire	VERB	_	Tense=Pres	0	root	_	Gloss=tourner
 3	pou	pou	ADP	_	_	2	udep	_	Gloss=pour
-4	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	5	comp:obj	_	Gloss=1SG
+4	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	5	subj	_	Gloss=1SG
 5	pale	pale	VERB	_	Tense=Pres	3	comp:obj	_	Gloss=parler
 6	ak	ak	ADP	_	_	5	comp:obj	_	Gloss=à, avec
 7	yon	yon	DET	_	Definite=Ind|Number=Sing	8	det	_	Gloss=un
@@ -236,9 +236,9 @@
 11	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	12	subj	_	Gloss=1SG
 12	tounen	tounen	VERB	_	Tense=Pres	10	comp:obj	_	Gloss=retourner, revenir
 13	pou	pou	ADP	_	_	12	udep	_	Gloss=pour
-14	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	15	det	_	Gloss=1SG
+14	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	15	subj	_	Gloss=1SG
 15	swiv	swiv	VERB	_	Tense=Pres	13	comp:obj	_	Gloss=suivre
-16	li	li	DET	_	Definite=Def|Number=Sing	15	det	_	SpaceAfter=No
+16	li	li	DET	_	Definite=Def|Number=Sing	15	comp:obj	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	_
 18	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	19	subj	_	Gloss=3SG
 19	gentan	gentan	ADV	_	_	2	conj:coord	_	Gloss=déjà

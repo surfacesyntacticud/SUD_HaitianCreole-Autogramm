@@ -1,0 +1,296 @@
+# sent_id = my_sample__1
+# text = LaRisi Tire 6 Misil Hypersonik Kinzhal
+# text_fr = La Russie a lancé 6 missiles hyper sonique Kinzhal.
+# Status = SILVER
+1	LaRisi	Larisi	PROPN	_	_	2	subj	_	Gloss=Russie
+2	Tire	tire	VERB	_	Tense=Pres	0	root	_	Gloss=lancer
+3	6	6	NUM	_	_	4	det	_	Gloss=6
+4	Misil	misil	NOUN	_	_	2	comp:obj	_	Gloss=missile
+5	Hypersonik	hypersonik	ADJ	_	_	4	mod	_	Gloss=hypersonique
+6	Kinzhal	kinzhal	PROPN	_	_	4	conj:appos	_	Gloss=Kinzhal
+
+# sent_id = my_sample__2
+# text = Nan foto sa a ke Lapolis Ikreynen distribye bay lapres ponpye ap enspekte dega ki fet nan yon bilding apre yoon atak ak misil sou vil Kyev, kapital Ikren, Vandredi 25 Fevriye 2022.
+# text_fr = Dans cette photo que la distribue à la presse du pompier qui inspecte le dégât ki se fait dans un building après une attaque avec missile sur la ville Kiev, la capitale de l'Ukraine, vendredi 25 févier 2022.
+# Status = SILVER
+1	Nan	nan	ADP	_	_	13	mod	_	Gloss=dans
+2	foto	foto	NOUN	_	_	1	comp:obj	_	Gloss=photo
+3	sa	sa	DET	_	Number=Sing|PronType=Dem	2	det	_	Gloss=DET
+4	a	a	DET	_	Definite=Def|Number=Sing	2	det	_	Gloss=DET
+5	ke	ke	SCONJ	_	_	8	comp:obj	_	Gloss=que
+6	Lapolis	Lapolis	NOUN	_	_	8	subj	_	Gloss=police
+7	Ikreynen	Ikreynen	ADJ	_	_	6	mod	_	Gloss=ukrainien
+8	distribye	distribye	VERB	_	Tense=Pres	2	mod@relcl	_	Gloss=distribuer
+9	bay	bay	VERB	_	_	8	comp:obj	_	Gloss=donner
+10	lapres	lapres	NOUN	_	_	9	comp:obj	_	Gloss=presse
+11	ponpye	ponpye	NOUN	_	_	13	subj	_	Gloss=pompier
+12	ap	ap	AUX	_	_	13	aux	_	Gloss=PROG
+13	enspekte	enspekte	VERB	_	Tense=Pres	0	root	_	Gloss=inspecter
+14	dega	dega	NOUN	_	_	13	comp:obj	_	Gloss=dégât
+15	ki	ki	PRON	_	_	16	subj	_	Gloss=qui
+16	fet	fet	VERB	_	Tense=Pres	14	mod@relcl	_	Gloss=faire
+17	nan	nan	ADP	_	_	16	udep	_	Gloss=dans
+18	yon	yon	DET	_	Definite=Ind|Number=Sing	19	det	_	_
+19	bilding	bilding	NOUN	_	_	17	comp:obj	_	Gloss=bâtiment
+20	apre	apre	ADP	_	_	13	mod	_	Gloss=après
+21	yoon	yoon	DET	_	Definite=Ind|Number=Sing	22	det	_	_
+22	atak	atak	NOUN	_	_	20	comp:obj	_	Gloss=attaque
+23	ak	ak	ADP	_	_	22	udep	_	Gloss=avec
+24	misil	misil	NOUN	_	_	23	comp:obj	_	Gloss=missile
+25	sou	sou	ADP	_	_	22	udep	_	Gloss=sur
+26	vil	vil	NOUN	_	_	25	comp:obj	_	Gloss=ville
+27	Kyev	Kyev	PROPN	_	_	26	mod	_	Gloss=Kiev|SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	kapital	kapital	NOUN	_	_	27	conj:appos	_	Gloss=capitale
+30	Ikren	Ikren	PROPN	_	_	29	mod	_	Gloss=Ukraine|SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	Vandredi	Vandredi	NOUN	_	_	13	mod	_	Gloss=vendredi
+33	25	25	NUM	_	_	32	mod	_	Gloss=25
+34	Fevriye	fevriye	NOUN	_	_	32	mod	_	Gloss=février
+35	2022.	2022.	NUM	_	_	34	mod	_	Gloss=2022
+
+# sent_id = my_sample__3
+# text = Apre vag frap misil ke LaRisi te lanse jedi sou Ikrèn, Ministè Defans Grand Bretay la di vandredi ke pwal gen plis tan ki pase anvan jan de frap sa yo fèt.
+# text_fr = après les vagues frappes de missiles que la Russie a lancé jeudi sur l'Ukraine, le ministère de la défense de la Grande Bretagne dit vendredi qu'il y aura plus de temps  qui se passent avant que ces genres de frappes ont été réalisées.
+# Status = SILVER
+1	Apre	apre	ADV	_	_	18	mod	_	Gloss=après
+2	vag	vag	NOUN	_	_	3	mod	_	Gloss=vagues
+3	frap	frap	VERB	_	_	1	comp:obj	_	Gloss=frappes
+4	misil	misil	NOUN	_	_	3	comp:obj	_	Gloss=missile
+5	ke	ke	PRON	_	_	8	comp:obj	_	Gloss=que
+6	LaRisi	Larisi	PROPN	_	_	8	subj	_	Gloss=Russie
+7	te	te	AUX	_	_	8	aux	_	Gloss=PAST
+8	lanse	lanse	VERB	_	Tense=Pres	3	mod:relcl	_	Gloss=lancer
+9	jedi	jedi	NOUN	_	_	8	mod	_	Gloss=jeudi
+10	sou	sou	ADP	_	_	8	udep	_	Gloss=sur
+11	Ikrèn	Ikrèn	NOUN	_	_	10	comp:obj	_	Gloss=Ukraine|SpaceAfter=No
+12	,	,	PUNCT	_	_	1	punct	_	_
+13	Ministè	ministè	NOUN	_	_	18	subj	_	Gloss=ministre
+14	Defans	defans	NOUN	_	_	13	comp:obj	_	Gloss=défense
+15	Grand	grand	PROPN	_	_	14	mod	_	Gloss=Grande
+16	Bretay	Bretay	PROPN	_	_	15	flat@name	_	Gloss=Bretagne
+17	la	la	DET	_	Definite=Def|Number=Sing	13	det	_	Gloss=DET
+18	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
+19	vandredi	vandredi	NOUN	_	_	18	mod	_	Gloss=vendredi
+20	ke	ke	PRON	_	_	18	comp:obj	_	Gloss=que
+21	pwal	pwal	NOUN	_	_	22	aux	_	Gloss=FUT
+22	gen	gen	VERB	_	Tense=Pres	20	comp:obj	_	Gloss=avoir
+23	plis	plis	ADJ	_	_	24	mod	_	Gloss=plus
+24	tan	tan	NOUN	_	_	22	comp:obj	_	Gloss=temps
+25	ki	ki	PRON	_	_	26	subj	_	Gloss=qui
+26	pase	pase	VERB	_	Tense=Pres	24	mod@relcl	_	Gloss=passer
+27	anvan	anvan	NOUN	_	_	26	mod	_	Gloss=avant
+28	jan	jan	NOUN	_	_	27	comp:obj	_	Gloss=genre
+29	de	de	ADP	_	_	28	udep	_	Gloss=de
+30	frap	frap	NOUN	_	_	29	comp:obj	_	Gloss=frappe
+31	sa	sa	DET	_	Number=Sing|PronType=Dem	28	det	_	Gloss=DET
+32	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	33	subj	_	Gloss=3PL
+33	fèt	fèt	VERB	_	Tense=Pres	28	mod@relcl	_	Gloss=faire, réaliser|SpaceAfter=No
+34	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = my_sample__4
+# text = Ministè a di LaRisi bezwen plis tan « pou li rasanble gwo mas misil ki fèk soti dirèkteman nan endistri a anvan li gen ase resous pou li debòde kapasite defans aeryen Ikrèn. »
+# text_fr = le ministère de la Russie a besoin plus de temps pour qu'elle rassemble les grandes masses de missiles qui viennent tout juste sortir dans l'industrie avant qu'elle ait assez de ressources aériennes déranger la capacité de défense aérienne de l'Ukraine.
+# Status = SILVER
+1	Ministè	ministè	NOUN	_	_	3	subj	_	Gloss=ministre
+2	a	a	DET	_	Definite=Def|Number=Sing	1	det	_	Gloss=DET
+3	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
+4	LaRisi	Larisi	PROPN	_	_	5	subj	_	Gloss=Russie
+5	bezwen	bezwen	NOUN	_	_	3	comp:obj	_	Gloss=besoin
+6	plis	plis	ADJ	_	_	7	mod	_	Gloss=plus
+7	tan	tan	NOUN	_	_	5	comp:obj	_	Gloss=temps
+8	«	«	PUNCT	_	_	9	punct	_	_
+9	pou	pou	ADP	_	_	7	udep	_	Gloss=pour
+10	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	11	subj	_	Gloss=3SG
+11	rasanble	rasanble	VERB	_	Tense=Pres	9	comp:obj	_	Gloss=rassembler
+12	gwo	gwo	ADJ	_	_	13	mod	_	Gloss=grand
+13	mas	mas	NOUN	_	_	11	comp:obj	_	Gloss=masse
+14	misil	misil	NOUN	_	_	13	comp:obj	_	Gloss=missile
+15	ki	ki	PRON	_	_	16	subj	_	Gloss=qui
+16	fèk	fèk	VERB	_	Tense=Pres	13	mod@relcl	_	Gloss=venir tout juste
+17	soti	soti	ADV	_	_	16	mod	_	Gloss=à peine
+18	dirèkteman	dirèkteman	ADV	_	_	16	mod	_	Gloss=directement
+19	nan	nan	ADP	_	_	16	udep	_	Gloss=dans
+20	endistri	endistri	NOUN	_	_	19	comp:obj	_	Gloss=industrie
+21	a	a	DET	_	Definite=Def|Number=Sing	20	det	_	Gloss=DET
+22	anvan	anvan	ADP	_	_	16	mod	_	Gloss=avant
+23	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	24	subj	_	Gloss=3SG
+24	gen	gen	VERB	_	Tense=Pres	22	comp:obj	_	Gloss=avoir
+25	ase	ase	ADV	_	_	24	mod	_	Gloss=assez
+26	resous	resous	NOUN	_	_	24	comp:obj	_	Gloss=ressource
+27	pou	pou	ADP	_	_	26	udep	_	Gloss=pour
+28	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	29	subj	_	Gloss=3SG
+29	debòde	debòde	VERB	_	Tense=Pres	27	comp:obj	_	Gloss=déborder
+30	kapasite	kapasite	NOUN	_	_	29	comp:obj	_	Gloss=capacité
+31	defans	defans	NOUN	_	_	30	comp:obj	_	Gloss=défense
+32	aeryen	aeryen	ADJ	_	_	31	mod	_	Gloss=aérienne
+33	Ikrèn	Ikrèn	PROPN	_	_	30	mod	_	Gloss=Ukraine|SpaceAfter=No
+34	.	.	PUNCT	_	_	3	punct	_	_
+35	»	»	PUNCT	_	_	3	punct	_	_
+
+# sent_id = my_sample__5
+# text = LaRisi te lanse yon pakèt atak misil toupatou nan Ikrèn jedi, kote li touye pou pi piti 6 moun e kite dè milye san chofaj ak elektrisite.
+# text_fr = la Russie a lancé de nombreuses attaques missiles dans tous les endroits à l'Ukraine jeudi, où elle a tué au minimum 6 personnes et a laissé des milliers de gens sans chauffage e sans électricité.
+# Status = SILVER
+1	LaRisi	Larisi	PROPN	_	_	3	subj	_	Gloss=Russie
+2	te	te	AUX	_	_	3	aux	_	Gloss=PAST
+3	lanse	lanse	VERB	_	Tense=Pres	0	root	_	Gloss=lancer
+4	yon	yon	DET	_	Definite=Ind|Number=Sing	5	det	_	Gloss=DET
+5	pakèt	pakèt	NOUN	_	_	3	comp:obj	_	Gloss=paquet
+6	atak	atak	NOUN	_	_	5	comp:obj	_	Gloss=attaque
+7	misil	misil	NOUN	_	_	6	mod	_	Gloss=missile
+8	toupatou	toupatou	ADJ	_	_	6	mod	_	Gloss=partout
+9	nan	nan	ADP	_	_	3	mod	_	Gloss=dans
+10	Ikrèn	Ikrèn	NOUN	_	_	9	comp:obj	_	Gloss=Ukraine
+11	jedi	jedi	NOUN	_	_	3	mod	_	Gloss=jeudi|SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	kote	kote	PRON	_	_	15	mod	_	Gloss=où
+14	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	15	subj	_	Gloss=3SG
+15	touye	touye	VERB	_	Tense=Pres	10	mod@relcl	_	Gloss=tuer
+16	pou	pou	ADP	_	_	15	mod	_	Gloss=pour
+17	pi	pi	ADV	_	_	18	mod	_	Gloss=au moins
+18	piti	piti	VERB	_	_	16	comp:obj	_	Gloss=petit
+19	6	6	NUM	_	_	20	det	_	Gloss=6
+20	moun	moun	NOUN	_	_	15	comp:obj	_	Gloss=personne
+21	e	e	CCONJ	_	_	22	cc	_	Gloss=et
+22	kite	kite	VERB	_	Tense=Pres	15	conj:coord	_	Gloss=quitter
+23	dè	dè	ADP	_	_	22	udep	_	Gloss=des
+24	milye	milye	NOUN	_	_	23	comp:obj	_	Gloss=milliers
+25	san	san	NOUN	_	_	22	udep	_	Gloss=sans
+26	chofaj	chofaj	NOUN	_	_	25	comp:obj	_	Gloss=chauffage
+27	ak	ak	ADP	_	_	28	cc	_	Gloss=et
+28	elektrisite	elektrisite	NOUN	_	_	26	conj:coord	_	Gloss=électricité|SpaceAfter=No
+29	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = my_sample__6
+# text = Sete pi gwo atak konsa ki fèt sou Ikrèn depi 3 semèn, kote fòs Ikrèn yo di yo desann 34 sou 81 misil ke LaRisi tire, kidonk yon pousantaj pi piti lontan pase sa li konn bare, epi li di li desann 4 drone ke Iran fabrike.
+# text_fr = C'était une grande attaque qui est faite sur l'Ukraine depuis 3 semaines, où les forces ukrainiennes disent  qu'ils descendent 34 missiles sur 81 missiles que la Russie a tirée, donc un pourcentage plus petit par rapport à ce qu'elle sait intercepter, puis elle dit qu'elle descend 4 drones que l'Iran a fabriqué.
+# Status = SILVER
+1	Se	Se	VERB	_	Tense=Pres	0	root	_	Gloss=être|wordform=Sete
+2	te	te	AUX	_	_	1	aux	_	Gloss=PAST
+3	pi	pi	ADV	_	_	5	mod	_	Gloss=plus
+4	gwo	gwo	ADJ	_	_	5	mod	_	Gloss=grand
+5	atak	atak	NOUN	_	_	1	comp:obj	_	Gloss=attaque
+6	konsa	konsa	NOUN	_	_	5	comp:obj	_	Gloss=ainsi
+7	ki	ki	PRON	_	_	8	subj	_	Gloss=qui
+8	fèt	fèt	VERB	_	Tense=Pres	6	mod@relcl	_	Gloss=faire
+9	sou	sou	ADP	_	_	8	udep	_	Gloss=sur
+10	Ikrèn	ikrèn	PROPN	_	_	9	comp:obj	_	Gloss=Ukraine
+11	depi	depi	ADP	_	_	5	mod	_	Gloss=depuis
+12	3	3	NUM	_	_	13	det	_	Gloss=3
+13	semèn	semèn	NOUN	_	_	11	comp:obj	_	Gloss=semaine|SpaceAfter=No
+14	,	,	PUNCT	_	_	19	punct	_	_
+15	kote	kote	PRON	_	_	19	mod	_	Gloss=où
+16	fòs	fòs	NOUN	_	_	19	subj	_	Gloss=force
+17	Ikrèn	ikrèn	PROPN	_	_	16	mod	_	Gloss=ukrainien
+18	yo	yo	DET	_	Definite=Def|Number=Plur	16	det	_	_
+19	di	di	VERB	_	Tense=Pres	5	mod@relcl	_	Gloss=dire
+20	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	21	subj	_	Gloss=3PL
+21	desann	desann	VERB	_	Tense=Pres	19	comp:obj	_	Gloss=descendre
+22	34	34	NUM	_	_	25	mod	_	Gloss=34
+23	sou	sou	ADP	_	_	22	udep	_	Gloss=sur
+24	81	81	NUM	_	_	23	comp:obj	_	Gloss=81
+25	misil	misil	NOUN	_	_	21	comp:obj	_	Gloss=missile
+26	ke	ke	PRON	_	_	28	comp:obj	_	Gloss=que
+27	LaRisi	Larisi	PROPN	_	_	28	subj	_	Gloss=Russie
+28	tire	tire	VERB	_	Tense=Pres	25	mod@relcl	_	Gloss=lancer, tirer|SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	_
+30	kidonk	kidonk	PRON	_	_	25	mod	_	Gloss=donc
+31	yon	yon	DET	_	Definite=Ind|Number=Sing	32	det	_	Gloss=DET
+32	pousantaj	pousantaj	NOUN	_	_	30	comp:obj	_	Gloss=pourcentage
+33	pi	pi	ADV	_	_	34	mod	_	Gloss=au minimum
+34	piti	piti	VERB	_	Tense=Pres	32	mod	_	_
+35	lontan	lontan	ADV	_	_	34	mod	_	Gloss=longtemps
+36	pase	pase	NOUN	_	_	35	comp:obj	_	Gloss=passé
+37	sa	sa	PRON	_	Number=Sing|PronType=Dem	36	det	_	_
+38	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	39	subj	_	Gloss=3SG
+39	konn	konn	VERB	_	Tense=Pres	32	mod:relcl	_	Gloss=savoir
+40	bare	bare	VERB	_	_	39	comp:obj	_	Gloss=intercepter|SpaceAfter=No
+41	,	,	PUNCT	_	_	44	punct	_	_
+42	epi	epi	CCONJ	_	_	44	cc	_	Gloss=et
+43	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	44	subj	_	Gloss=3SG
+44	di	di	VERB	_	Tense=Pres	19	conj:coord	_	Gloss=dire
+45	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	46	subj	_	Gloss=3SG
+46	desann	desann	VERB	_	Tense=Pres	44	comp:obj	_	Gloss=descendre
+47	4	4	NUM	_	_	48	det	_	Gloss=4
+48	drone	drone	NOUN	_	_	46	comp:obj	_	Gloss=drone
+49	ke	ke	PRON	_	_	51	comp:obj	_	Gloss=que
+50	Iran	Iran	PROPN	_	_	51	subj	_	Gloss=Iran
+51	fabrike	fabrike	VERB	_	Tense=Pres	48	mod@relcl	_	Gloss=fabriquer|SpaceAfter=No
+52	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = my_sample__7
+# text = Ministè Defans ris la di frap yo sete kòm revanj pou yon atak ki te fèt lòt jou la a sou rejyon Bryansk nan lwès LaRisi, e ki se, dapre Moskou, travay sabotè ki te soti Ikrèn.
+# text_fr = Le ministère de la défense ruse  dit que ces frappes étaient un revanche contre une attaque qui a été faite sur la région l'ouest de la Russie, et qui c'est, d'après Moscou, travail du saboteur qui sortait en Ukraine .
+# Status = SILVER
+1	Ministè	ministè	NOUN	_	_	5	subj	_	Gloss=ministre
+2	Defans	defans	NOUN	_	_	1	comp:obj	_	Gloss=défense
+3	ris	ris	ADJ	_	_	1	mod	_	Gloss=russe
+4	la	la	DET	_	Definite=Def|Number=Sing	1	det	_	Gloss=DET
+5	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
+6	frap	frap	NOUN	_	_	8	subj:obj	_	Gloss=frappe
+7	yo	yo	DET	_	Definite=Def|Number=Plur	6	det	_	Gloss=DET
+8	se	se	VERB	_	_	5	comp:obj	_	Gloss=être|wordform=sete
+9	te	te	AUX	_	_	8	aux	_	Gloss=PAST
+10	kòm	kòm	ADP	_	_	8	mod	_	Gloss=comme
+11	revanj	revanj	NOUN	_	_	10	comp:obj	_	Gloss=révanche
+12	pou	pou	ADP	_	_	11	udep	_	Gloss=pour
+13	yon	yon	DET	_	Definite=Ind|Number=Sing	14	det	_	Gloss=DET
+14	atak	atak	NOUN	_	_	12	comp:obj	_	Gloss=attaque
+15	ki	ki	PRON	_	_	17	subj	_	Gloss=qui
+16	te	te	AUX	_	_	17	aux	_	Gloss=PAST
+17	fèt	fèt	VERB	_	Tense=Past	14	mod@relcl	_	Gloss=faire
+18	lòt	lòt	ADJ	_	_	19	mod	_	Gloss=autre
+19	jou	jou	NOUN	_	_	17	mod	_	Gloss=jour
+20	la	la	DET	_	Definite=Def|Number=Sing	19	det	_	Gloss=DET
+21	a	a	DET	_	Definite=Def|Number=Sing	19	det	_	Gloss=DET
+22	sou	sou	ADP	_	_	17	udep	_	Gloss=sur
+23	rejyon	rejyon	NOUN	_	_	22	comp:obj	_	Gloss=région
+24	Bryansk	Bryansk	PROPN	_	_	23	comp:obj	_	Gloss=Briansk
+25	nan	nan	ADP	_	_	23	mod	_	Gloss=dans
+26	lwès	lwès	NOUN	_	_	25	comp:obj	_	Gloss=ouest
+27	LaRisi	Larisi	PROPN	_	_	26	comp:obj	_	Gloss=Russie|SpaceAfter=No
+28	,	,	PUNCT	_	_	17	punct	_	_
+29	e	e	CCONJ	_	_	31	cc	_	Gloss=et
+30	ki	ki	PRON	_	_	31	subj	_	Gloss=qui
+31	se	se	VERB	_	Tense=Pres	17	conj:coord	_	Gloss=être|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	punct	_	_
+33	dapre	dapre	ADP	_	_	31	mod	_	Gloss=d'après
+34	Moskou	Moskou	PROPN	_	_	33	comp:obj	_	Gloss=Moscou|SpaceAfter=No
+35	,	,	PUNCT	_	_	33	punct	_	_
+36	travay	travay	NOUN	_	Tense=Pres	31	comp:obj	_	Gloss=travail
+37	sabotè	sabotè	NOUN	_	_	36	comp:obj	_	Gloss=saboteur
+38	ki	ki	PRON	_	_	40	subj	_	Gloss=qui
+39	te	te	AUX	_	_	40	aux	_	Gloss=PAST
+40	soti	soti	VERB	_	_	37	mod@relcl	_	Gloss=sortir
+41	Ikrèn	Ikrèn	PROPN	_	_	40	comp:obj	_	Gloss=Ukraine|SpaceAfter=No
+42	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = my_sample__8
+# text = Ikrèn demanti akizasyon an e li di ke Moskou ka sèvi ak sa pou jistifye desizyon li pou ogmante pwòp ofansiv li.
+# text_fr = l'Ukraine a démenti l'accusation et elle dit que Moscou peut servir avec cela pour justifier sa décision pour augmenter  sa propre offensive.
+# Status = SILVER
+1	Ikrèn	ikrèn	PROPN	_	_	2	subj	_	Gloss=Ukraine
+2	demanti	demanti	VERB	_	_	0	root	_	Gloss=démentir
+3	akizasyon	akizasyon	NOUN	_	_	2	comp:obj	_	Gloss=accusation
+4	an	an	DET	_	Definite=Def|Number=Sing	3	det	_	Gloss=DET
+5	e	e	CCONJ	_	_	7	cc	_	Gloss=et
+6	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	7	subj	_	Gloss=3SG
+7	di	di	VERB	_	Tense=Pres	2	conj:coord	_	_
+8	ke	ke	SCONJ	_	_	7	comp:obj	_	Gloss=que
+9	Moskou	Moskou	PROPN	_	_	10	subj	_	Gloss=Moscou
+10	ka	ka	VERB	_	Tense=Pres	8	comp:obj	_	Gloss=pouvoir
+11	sèvi	sèvi	VERB	_	_	10	comp:obj	_	Gloss=servir
+12	ak	ak	ADP	_	_	11	udep	_	Gloss=avec
+13	sa	sa	PRON	_	Number=Sing|PronType=Dem	12	comp:obj	_	_
+14	pou	pou	ADP	_	_	11	udep	_	Gloss=pour
+15	jistifye	jistifye	VERB	_	_	14	comp:obj	_	Gloss=justifier
+16	desizyon	desizyon	NOUN	_	_	15	comp:obj	_	Gloss=décision
+17	li	li	DET	_	Number=Sing|Person=3|Poss=Yes	16	det	_	Gloss=DET
+18	pou	pou	ADP	_	_	16	udep	_	Gloss=pour
+19	ogmante	ogmante	VERB	_	_	18	comp:obj	_	Gloss=augmenter
+20	pwòp	pwòp	NOUN	_	_	21	mod	_	Gloss=propre
+21	ofansiv	ofansiv	NOUN	_	_	19	comp:obj	_	Gloss=offensive
+22	li	li	DET	_	Number=Sing|Person=3|Poss=Yes	21	det	_	Gloss=DET|SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
+
