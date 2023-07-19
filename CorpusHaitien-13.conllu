@@ -120,6 +120,7 @@
 # sent_id = my_sample__5
 # text = Anbilans, ponpye ak lòt kamyon ki soti nan mòg la te anvayi lye ensidan an.
 # text_fr = Ambulance, pompier et autres camions qui sortent dans la morgue ont envahi le lieu de l'incident.
+# Status = SILVER
 1	Anbilans	Anbilans	NOUN	_	_	13	subj	_	Gloss=ambulance|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	ponpye	ponpye	NOUN	_	_	1	conj:coord	_	Gloss=pompier
