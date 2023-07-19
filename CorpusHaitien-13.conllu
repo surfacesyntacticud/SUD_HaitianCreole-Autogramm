@@ -10,7 +10,7 @@
 6	nan	nan	ADP	_	_	5	udep	_	Gloss=dans
 7	sant	sant	NOUN	_	_	6	comp:obj	_	Gloss=centre
 8	migran	migran	NOUN	_	_	7	mod	_	Gloss=migrant
-9	Meksik	meksik	PRON	_	_	7	mod	_	Gloss=Mexique
+9	Meksik	meksik	PROPN	_	_	7	mod	_	Gloss=Mexique
 10	Toupre	Toupre 	ADV	_	_	11	mod	_	Gloss=tout prêt
 11	Fwontyè	fwontyè	NOUN	_	_	3	comp:obj	_	Gloss=frontière
 12	ak	ak	ADP	_	_	11	udep	_	Gloss=avec
@@ -21,14 +21,14 @@
 # text_fr = La ville de Mexico - Plus que trois douzaines migrants ont perdu leur vie dans un incendie qui éclaté dans un dortoir dans un centre où ils ferment les migrants mexicains tout prêt la frontière des Etats-Unis.
 # Status = SILVER
 1	MEXICO	Mexico	PROPN	_	_	12	unk	_	Gloss=MEXICO
-2	city	city	PROPN	_	_	1	flat:foreign@name	_	Gloss=ville
+2	city	city	PROPN	_	_	1	flat@name	_	Gloss=ville
 3	(	(	PUNCT	_	_	4	punct	_	_
-4	AP	Ap	X	_	_	2	unk	_	SpaceAfter=No
+4	AP	Ap	PROPN	_	_	2	unk	_	Gloss=Associated Press|SpaceAfter=No
 5	)	)	PUNCT	_	_	4	punct	_	_
 6	—	—	PUNCT	_	_	12	punct	_	_
-7	Plis	plis	ADJ	_	_	10	mod	_	Gloss=plus
-8	pase	pase	X	_	_	7	unk	_	_
-9	twa	twa	ADV	_	_	10	det	_	Gloss=trois
+7	Plis	plis	ADV	_	_	10	mod	_	Gloss=plus
+8	pase	pase	ADV	_	_	7	unk	_	Gloss=passé (que)
+9	twa	twa	NUM	_	_	10	det	_	Gloss=trois
 10	douzèn	douzèn	NOUN	_	_	12	subj	_	Gloss=douzaine
 11	migran	migran	NOUN	_	_	10	comp:obj	_	Gloss=migrant
 12	pèdi	pèdi	VERB	_	Tense=Pres	0	root	_	Gloss=perdre
@@ -46,7 +46,7 @@
 24	yon	yon	DET	_	Definite=Ind|Number=Sing	25	det	_	Gloss=DET
 25	sant	sant	NOUN	_	_	23	comp:obj	_	Gloss=centre
 26	kote	kote	PRON	_	PronType=Rel	28	mod	_	Gloss=où
-27	yo	yo	DET	_	Number=Plur|Person=3|PronType=Prs	28	subj	_	Gloss=3PL
+27	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	28	subj	_	Gloss=3PL
 28	fèmen	fèmen	VERB	_	Tense=Pres	25	mod@relcl	_	Gloss=fermer
 29	migran	migran	NOUN	_	_	28	comp:obj	_	Gloss=migrant
 30	Meksiken	Meksiken 	ADJ	_	_	29	mod	_	Gloss=méxicain
@@ -61,10 +61,10 @@
 # Status = SILVER
 1	Se	se	VERB	_	Tense=Pres	0	root	_	Gloss=être
 2	youn	youn	NUM	_	_	1	subj@expl	_	Gloss=l'un
-3	nan	nan	DET	_	Definite=Ind|Number=Plur	4	det	_	Gloss=des
-4	ensidan	ensidan	NOUN	_	_	2	comp:obj	_	Gloss=incident
+3	nan	nan	ADP	_	Definite=Ind|Number=Plur	2	det	_	Gloss=de
+4	ensidan	ensidan	NOUN	_	_	3	comp:obj	_	Gloss=incident
 5	kote	kote	PRON	_	PronType=Rel	8	mod	_	Gloss=où
-6	plis	plis	ADJ	_	_	7	det	_	Gloss=plus
+6	plis	plis	ADV	_	_	7	mod	_	Gloss=plus
 7	moun	moun	NOUN	_	_	8	subj	_	Gloss=gens, personne
 8	mouri	mouri	VERB	_	Tense=Pres	4	mod@relcl	_	Gloss=mourir
 9	nan	nan	ADP	_	_	8	udep	_	Gloss=dans
@@ -107,7 +107,7 @@
 23	etablisman	etablisman	NOUN	_	_	22	comp:obj	_	Gloss=établissement
 24	an	an	DET	_	Definite=Def|Number=Sing	23	det	_	Gloss=l'
 25	nan	nan	ADP	_	_	23	mod	_	Gloss=dans
-26	Ciudad	Ciudad	NOUN	_	_	25	comp:obj	_	Gloss=ville
+26	Ciudad	Ciudad	PROPN	_	_	25	comp:obj	_	Gloss=ville
 27	Juarez	Juarez 	PROPN	_	_	26	flat@name	_	Gloss=Juarez|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	_
 29	anfas	anfas	ADP	_	_	27	mod	_	Gloss=en face
@@ -127,7 +127,7 @@
 5	lòt	lòt	DET	_	_	6	det	_	Gloss=autre
 6	kamyon	kamyon	NOUN	_	_	3	conj:coord	_	Gloss=camion
 7	ki	ki	PRON	_	_	8	cc	_	Gloss=qui
-8	soti	soti	VERB	_	Tense=Pres	6	conj@relcl	_	Gloss=sortir
+8	soti	soti	VERB	_	Tense=Pres	6	mod@relcl	_	Gloss=sortir
 9	nan	nan	ADP	_	_	8	udep	_	Gloss=dans
 10	mòg	mòg	NOUN	_	_	9	comp:obj	_	Gloss=morgue
 11	la	la	DET	_	Definite=Def|Number=Sing	10	det	_	Gloss=la

@@ -18,7 +18,7 @@
 # Status = SILVER
 1	MOSCOU	moscou	PROPN	_	_	6	parataxis	_	Gloss=Moscou
 2	(	(	PUNCT	_	_	3	punct	_	_
-3	AP	ap	X	_	_	1	unk	_	SpaceAfter=No
+3	AP	ap	PROPN	_	_	1	unk	_	Gloss=Associated Press|SpaceAfter=No
 4	)	)	PUNCT	_	_	3	punct	_	_
 5	—	—	PUNCT	_	_	1	punct	_	_
 6	Lame	lame	NOUN	_	_	9	subj	_	Gloss=armée
@@ -39,7 +39,7 @@
 21	nikleyè	nikleyè	ADJ	_	_	20	mod	_	Gloss=nucléaire
 22	peyi	peyi	NOUN	_	_	20	comp:obj	_	Gloss=pays
 23	a	a	DET	_	_	22	det	_	Gloss=la|SpaceAfter=No
-24	.	.	NOUN	_	_	9	punct	_	_
+24	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = my_sample__3
 # text = Ministè Defans Ris la di Mèkredi ke lans misil mobil Yars pral fè mannèv nan 3 rejyon nan Siberi.

@@ -32,7 +32,7 @@
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	Meksik	Meksik	PROPN	_	_	1	conj:appos	_	Gloss=Mexique
 5	(	(	PUNCT	_	_	6	punct	_	_
-6	AP	ap	X	_	_	4	unk	_	SpaceAfter=No
+6	AP	ap	PROPN	_	_	4	unk	_	Gloss=Associated Press|SpaceAfter=No
 7	)	)	PUNCT	_	_	6	punct	_	_
 8	—	—	PUNCT	_	_	1	punct	_	_
 9	Otorite	otorite	NOUN	_	_	12	subj	_	Gloss=autorité
@@ -72,7 +72,7 @@
 43	moun	moun	NOUN	_	_	41	comp:obj	_	Gloss=personne
 44	ki	ki	PRON	_	_	46	subj	_	Gloss=qui
 45	te	te	AUX	_	_	46	aux	_	Gloss=PAST
-46	anba	anba	NOUN	_	_	43	mod@relcl	_	Gloss=arrêter, emprisonner
+46	anba	anba	VERB	_	_	43	mod@relcl	_	Gloss=arrêter, emprisonner
 47	kòd	kòd	NOUN	_	_	46	comp:obj	_	Gloss=corde
 48	nan	nan	ADP	_	_	46	udep	_	Gloss=dans
 49	sant	sant	NOUN	_	_	48	comp:obj	_	Gloss=centre
@@ -95,14 +95,14 @@
 10	Juarez	Juarez 	PROPN	_	_	9	flat@name	_	Gloss=Juarez
 11	te	te	AUX	_	_	12	aux	_	Gloss=PAST
 12	kontinye	kontinye	VERB	_	_	0	root	_	Gloss=verbe
-13	Mèkredi	mèkredi	NOUN	_	_	14	comp:obj	_	Gloss=mercredi
+13	Mèkredi	mèkredi	NOUN	_	_	12	mod	_	Gloss=mercredi
 14	pandan	pandan	ADP	_	_	12	mod	_	Gloss=pendant
 15	plizyè	plizyè	DET	_	_	16	det	_	Gloss=plusieurs
 16	santèn	santèn 	NOUN	_	_	20	subj	_	Gloss=centaine
 17	imigran	imigran	NOUN	_	_	16	comp:obj	_	Gloss=immigrant
 18	t	te	AUX	_	_	20	aux	_	Gloss=PAST
 19	ap	ap	AUX	_	_	20	aux	_	Gloss=PROG
-20	mache	mache	VERB	_	_	12	mod@relcl	_	Gloss=marcher
+20	mache	mache	VERB	_	_	14	comp:obj	_	Gloss=marcher
 21	pou	pou	ADP	_	_	20	udep	_	Gloss=pour
 22	rive	rive	VERB	_	_	21	comp:obj	_	Gloss=arriver
 23	nan	nan	ADP	_	_	22	comp:obl	_	Gloss=dans
@@ -131,7 +131,7 @@
 # Status = SILVER
 1	Otorite	Otorite	NOUN	_	_	4	subj	_	Gloss=autorité
 2	Meksiken	Meksiken	ADJ	_	_	1	mod	_	Gloss=mexicaine
-3	yo	yo	DET	_	Definite=Def|Number=Plur	2	det	_	Gloss=les
+3	yo	yo	DET	_	Definite=Def|Number=Plur	1	det	_	Gloss=DET
 4	sanble	sanble	VERB	_	Tense=Pres	0	root	_	Gloss=sembler
 5	lage	lage	VERB	_	VerbForm=Inf	4	comp:obj	_	Gloss=donner
 6	responsablite	responsablite	NOUN	_	_	5	comp:obl	_	Gloss=responsabilité
@@ -167,7 +167,7 @@
 12	san	san	ADP	_	_	9	mod	_	Gloss=sans
 13	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	15	subj	_	Gloss=3PL
 14	pa	pa	ADV	_	_	15	mod	_	Gloss=NEG
-15	chache	chache	VERB	_	Tense=Pres	12	mod	_	Gloss=chercher
+15	chache	chache	VERB	_	Tense=Pres	12	comp:obj	_	Gloss=chercher
 16	libere	libere	VERB	_	VerbForm=Inf	15	comp:obj	_	Gloss=libérer
 17	prizonye	prizonye	NOUN	_	_	16	comp:obj	_	Gloss=prisonier
 18	yo	yo	DET	_	Definite=Def|Number=Plur	17	det	_	Gloss=les|SpaceAfter=No

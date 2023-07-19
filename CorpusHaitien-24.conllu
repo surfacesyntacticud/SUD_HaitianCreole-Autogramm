@@ -4,7 +4,7 @@
 # Status = SILVER
 1	Yon	Yon 	DET	_	Definite=Ind|Number=Sing	2	det	_	Gloss=Un
 2	pòt	pòt 	NOUN	_	_	7	subj	_	Gloss=porte
-3	pawòl	pawòl 	NOUN	_	_	2	compound	_	Gloss=parole
+3	pawòl	pawòl 	NOUN	_	_	2	comp:obj	_	Gloss=parole
 4	Depatman	Depatman	NOUN	_	_	3	comp:obj	_	Gloss=département
 5	d	d	X	_	_	4	udep	_	Gloss=d'
 6	Eta	Eta	NOUN	_	_	5	goeswith	_	Gloss=Eta
@@ -13,7 +13,7 @@
 9	,	,	PUNCT	_	_	7	punct	_	_
 10	gouvènman	gouvènman 	NOUN	_	_	13	subj	_	Gloss=gouvernement
 11	Ameriken	ameriken 	ADJ	_	_	10	mod	_	Gloss=américain
-12	an	an	DET	_	Definite=Def|Number=Sing	11	det	_	Gloss=le
+12	an	an	DET	_	Definite=Def|Number=Sing	10	det	_	Gloss=DET
 13	o	o	X	_	_	7	comp:obj	_	Gloss=au
 14	kouran	kouran	NOUN	_	VerbForm=Vnoun	13	goeswith	_	Gloss=être au courant
 15	de	de 	ADP	_	_	14	udep	_	Gloss=de
@@ -23,17 +23,17 @@
 19	kòm	kòm	SCONJ	_	_	18	comp:obj	_	Gloss=comme
 20	kwa	kwa	PRON	_	_	19	unk	_	Gloss=quoi
 21	gen	gen 	VERB	_	_	19	comp:obj	_	Gloss=avoir
-22	2	2	NUM	_	_	23	det:num	_	Gloss=deux
+22	2	2	NUM	_	_	23	det	_	Gloss=2
 23	sitwayen	sitwayen 	NOUN	_	_	21	comp:obj	_	Gloss=citoyen
 24	Ameriken	amirekèn	ADJ	_	_	23	mod	_	Gloss=américain
 25	ki	ki	PRON	_	_	26	subj	_	Gloss=qui
-26	disparèt	disparèt	VERB	_	Tense=Pres	24	mod@relcl	_	Gloss=disparaître
-27	an	an	ADP	_	_	26	mod	_	Gloss=en
+26	disparèt	disparèt	VERB	_	Tense=Pres	23	mod@relcl	_	Gloss=disparaître
+27	an	an	ADP	_	_	26	udep	_	Gloss=en
 28	Ayiti	Aiti	PROPN	_	_	27	comp:obj	_	Gloss=Haïti|SpaceAfter=No
 29	,	,	PUNCT	_	_	26	punct	_	_
 30	apre	apre	ADP	_	_	31	mod	_	Gloss=après
 31	laprès	laprès 	NOUN	_	_	35	subj	_	Gloss=la presse
-32	nan	nan	ADP	_	_	31	mod	_	Gloss=dans
+32	nan	nan	ADP	_	_	31	udep	_	Gloss=dans
 33	eta	eta	NOUN	_	_	32	comp:obj	_	Gloss=eta
 34	Florid	Florid 	PROPN	_	_	33	comp:obj	_	Gloss=Floride
 35	rapòte	rapòte 	VERB	_	Tense=Pres	7	conj	_	Gloss=rapporter
@@ -51,13 +51,13 @@
 2	Toussaint	Toussaint 	PROPN	_	_	1	flat@name	_	Gloss=toussaint
 3	ak	ak	CCONJ	_	_	4	cc	_	Gloss=et
 4	Jean-Dickens	Jean-Dickens	PROPN	_	_	1	conj:coord	_	Gloss=Jean-Dickens
-5	Toussaint	Toussaint 	PROPN	_	_	4	flat:foreign@name	_	Gloss=Toussaint|SpaceAfter=No
+5	Toussaint	Toussaint 	PROPN	_	_	4	flat@name	_	Gloss=Toussaint|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	33	33	NUM	_	_	8	det	_	Gloss=33
 8	zan	zan 	NOUN	_	_	1	parataxis	_	Gloss=ans|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	disparèt	disparèt	VERB	_	Tense=Pres	0	root	_	Gloss=disparaître
-11	nan	nan	ADP	_	_	10	mod	_	Gloss=à
+11	nan	nan	ADP	_	_	10	udep	_	Gloss=à
 12	Pòtoprens	Pòtoprens 	PROPN	_	_	11	comp:obj	_	Gloss=Port-au-Prince
 13	e	e	CCONJ	_	_	16	cc	_	Gloss=et
 14	gang	gang	NOUN	_	_	16	subj	_	Gloss=gangs
@@ -68,14 +68,14 @@
 19	plizyè	plizyè	ADJ	_	_	20	mod	_	Gloss=plusieurs
 20	jou	jou 	NOUN	_	_	18	comp:obj	_	Gloss=jours|SpaceAfter=No
 21	,	, 	PUNCT	_	_	24	punct	_	_
-22	dapre	dapre 	ADV	_	_	24	mod	_	Gloss=d'après
+22	dapre	dapre 	ADV	_	_	10	mod	_	Gloss=d'après
 23	yon	yon 	DET	_	Definite=Ind|Number=Sing	24	det	_	Gloss=une
-24	petisyon	petisyon 	NOUN	_	_	10	mod	_	Gloss=pétition
+24	petisyon	petisyon 	NOUN	_	_	22	comp:obj	_	Gloss=pétition
 25	yon	yon 	DET	_	Definite=Ind|Number=Sing	26	det	_	Gloss=une
 26	dam	dam	NOUN	_	_	24	comp:obj	_	Gloss=dame
 27	ki	ki	PRON	_	_	28	subj	_	Gloss=qui
 28	di	di	VERB	_	Tense=Pres	24	mod@relcl	_	Gloss=dire
-29	li	li	DET	_	Number=Sing|Person=3|PronType=Prs	28	comp:obl	_	Gloss=3SG
+29	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	28	comp:obl	_	Gloss=3SG
 30	sa	sa	DET	_	PronType=Dem	31	det	_	Gloss=ce
 31	fanmi	fanmi	NOUN	_	_	34	subj	_	Gloss=famille
 32	koup	koup	NOUN	_	_	31	comp:obj	_	Gloss=famille
@@ -91,12 +91,12 @@
 # Status = SILVER
 1	Koup	Koup	NOUN	_	_	5	subj	_	Gloss=couple
 2	la	la	DET	_	Definite=Def|Number=Sing	1	det	_	Gloss=le
-3	t	te	AUX	_	_	5	aux	_	Gloss=PAST|wordform=tap
+3	t	te	AUX	_	_	5	aux	_	Gloss=PAST|SpaceAfter=No
 4	ap	ap	AUX	_	_	5	aux	_	Gloss=PROG
 5	vizite	vizite 	VERB	_	Number=Sing|Person=3|Tense=Imp	0	root	_	Gloss=visiter
 6	fanmi	fanmi 	NOUN	_	_	5	comp:obj	_	Gloss=famille
-7	yo	yo	PRON	_	Number=Sing|Person=3|Poss=Yes	6	det	_	Gloss=PRON
-8	an	an	ADP	_	_	5	mod	_	Gloss=en
+7	yo	yo	DET	_	Number=Sing|Person=3|Poss=Yes	6	det	_	Gloss=DET
+8	an	an	ADP	_	_	5	udep	_	Gloss=en
 9	Ayiti	Ayiti	PROPN	_	_	8	comp:obj	_	Gloss=Haïti
 10	epi	epi	CCONJ	_	_	11	cc	_	Gloss=puis
 11	asiste	asiste 	VERB	_	Number=Sing|Person=3|Tense=Imp	5	conj	_	Gloss=assister
@@ -107,7 +107,7 @@
 16	te	te	AUX	_	_	17	aux	_	Gloss=PAST
 17	kidnape	kidnape 	VERB	_	Number=Plur|Person=3|Tense=Past	14	comp:obj	_	Gloss=kidnapper
 18	yo	yo	PRON	_	Definite=Def|Number=Plur	17	comp:obj	_	Gloss=les
-19	nan	nan	ADP	_	_	17	mod	_	Gloss=dans
+19	nan	nan	ADP	_	_	17	udep	_	Gloss=dans
 20	yon	yon 	DET	_	Definite=Ind|Number=Sing	21	det	_	Gloss=un
 21	otobis	otobis 	NOUN	_	_	19	comp:obj	_	Gloss=autobus|SpaceAfter=No
 22	,	, 	PUNCT	_	_	17	punct	_	_
@@ -115,10 +115,10 @@
 24	sa	sa 	PRON	_	_	23	comp:obj	_	Gloss=cela
 25	yon	yon	DET	_	Definite=Ind|Number=Sing	26	det	_	Gloss=un
 26	manm	manm	NOUN	_	_	29	subj	_	Gloss=membre
-27	fanmi	fanmi	NOUN	_	_	26	udep	_	Gloss=famille
-28	yo	yo	PRON	_	Definite=Def|Number=Plur	27	det	_	Gloss=PRON
+27	fanmi	fanmi	NOUN	_	_	26	comp:obj	_	Gloss=famille
+28	yo	yo	DET	_	Definite=Def|Number=Plur	27	det	_	Gloss=DET
 29	di	di	VERB	_	Number=Sing|Person=3|Tense=Past	24	mod@relcl	_	Gloss=dire
-30	CNN	CNN	NOUN	_	_	29	comp:obj@R	_	Gloss=CNN|SpaceAfter=No
+30	CNN	CNN	PROPN	_	_	29	comp:obj	_	Gloss=CNN|SpaceAfter=No
 31	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = my_sample__4
@@ -145,7 +145,7 @@
 18	Ameriken	ameriken 	ADJ	_	_	17	mod	_	Gloss=américains
 19	ki	ki 	PRON	_	_	20	subj	_	Gloss=qui
 20	disparèt	disparèt 	VERB	_	Tense=Past	17	mod@relcl	_	Gloss=disparaittre
-21	an	an 	ADP	_	_	20	mod	_	Gloss=en
+21	an	an 	ADP	_	_	20	udep	_	Gloss=en
 22	Ayiti	Ayiti	PROPN	_	_	21	comp:obj	_	Gloss=Haiti|SpaceAfter=No
 23	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -167,12 +167,12 @@
 12	lokal	lokal	ADJ	_	_	11	mod	_	Gloss=local
 13	yo	yo	DET	_	Definite=Def|Number=Plur	11	det	_	Gloss=les
 14	pandan	pandan 	ADP	_	_	8	mod	_	Gloss=pendant
-15	y	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	17	subj	_	Gloss=3PL
-16	ap	ap	AUX	_	_	17	subj:aux	_	Gloss=PROG|wordform=yap
+15	y	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	17	subj	_	Gloss=3PL|SpaceAfter=No
+16	ap	ap	AUX	_	_	17	aux	_	Gloss=PROG|wordform=yap
 17	chache	chache	VERB	_	Tense=Pres	14	comp:obj	_	Gloss=chercher
 18	moun	moun	NOUN	_	_	17	comp:obj	_	Gloss=gens
-19	sa	sa	PRON	_	_	18	det	_	_
-20	yo	yo	PRON	_	Number=Plur|PronType=Dem	19	mod	_	Gloss=ces
+19	sa	sa	DET	_	PronType=Dem	18	mod	_	Gloss=DET
+20	yo	yo	DET	_	Number=Plur	18	det	_	Gloss=DET
 21	e	e	CCONJ	_	_	23	cc	_	Gloss=et
 22	nou	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	23	subj	_	Gloss=1PL
 23	pataje	pataje	VERB	_	Tense=Pres	8	conj:coord	_	Gloss=partageons
@@ -192,18 +192,18 @@
 # Status = SILVER
 1	Yon	Yon	DET	_	Definite=Ind|Number=Sing	2	det	_	Gloss=Un
 2	pòt	pòt	NOUN	_	_	9	subj	_	Gloss=porte
-3	pawòl	pawòl 	NOUN	_	_	2	compound	_	Gloss=parole
+3	pawòl	pawòl 	NOUN	_	_	2	comp:obj	_	Gloss=parole
 4	polis	polis	NOUN	_	_	3	comp:obj	_	Gloss=police
 5	nasyonal	nasyonal	ADJ	_	_	4	mod	_	Gloss=nationale
 6	Ayiti	Ayiti	PROPN	_	_	4	mod	_	Gloss=Haïti
-7	pa	pa	ADV	_	_	9	mod	_	Gloss=NEG
-8	t	te	AUX	_	_	9	aux	_	Gloss=PAST|wordform=pat
+7	pa	pa	ADV	_	_	9	mod	_	Gloss=NEG|SpaceAfter=No
+8	t	te	AUX	_	_	9	aux	_	Gloss=PAST
 9	reponn	reponn 	VERB	_	Tense=Past	0	root	_	Gloss=répondre
 10	demann	demann 	NOUN	_	_	9	comp:obl	_	Gloss=demande
 11	Reuters	Reuters 	PROPN	_	_	13	subj	_	Gloss=Reuters
 12	te	te	AUX	_	_	13	aux	_	Gloss=PAST
 13	fè	fè	VERB	_	Tense=Past	10	mod@relcl	_	Gloss=faire
-14	pou	pou	ADP	_	_	13	mod	_	Gloss=pour
+14	pou	pou	ADP	_	_	13	udep	_	Gloss=pour
 15	kòmantè	kòmantè	NOUN	_	_	14	comp:obj	_	Gloss=commentaire|SpaceAfter=No
 16	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -219,7 +219,7 @@
 6	Ayiti	Ayiti 	PROPN	_	_	5	goeswith	_	Gloss=Haïti
 7	ogmante	ogmante 	VERB	_	Tense=Pres	0	root	_	Gloss=augmenter
 8	pouvwa	pouvwa 	NOUN	_	_	7	comp:obj	_	Gloss=pouvoir
-9	yo	yo	PRON	_	Number=Sing|Poss=Yes	8	det	_	Gloss=3PL
+9	yo	yo	DET	_	Number=Sing|Poss=Yes	8	det	_	Gloss=DET
 10	depi	depi	ADV	_	_	7	mod	_	Gloss=depuis
 11	asasina	asasina	NOUN	_	_	10	comp:obj	_	Gloss=assassinat
 12	Prezidan	prezidan	PROPN	_	_	11	comp:obj	_	Gloss=président
@@ -234,7 +234,7 @@
 # text_fr = Maintenant, ils contrôlent une grande partie de la capitale et les provinces.
 # Status = SILVER
 1	Kounyea	Kounyea 	ADV	_	_	3	mod	_	Gloss=Mantenant
-2	yo	yo 	DET	_	Number=Plur|Person=3|PronType=Prs	3	subj	_	Gloss=3PL
+2	yo	yo 	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj	_	Gloss=3PL
 3	kontwole	kontwole 	VERB	_	Tense=Pres	0	root	_	Gloss=contrôler
 4	yon	yon	DET	_	Definite=Ind|Number=Sing	6	det	_	Gloss=une
 5	gwo	gwo	ADJ	_	_	6	mod	_	Gloss=grande
@@ -259,10 +259,10 @@
 7	mwa	mwa 	NOUN	_	_	6	comp:obj	_	Gloss=mois
 8	ki	ki 	PRON	_	_	9	subj	_	Gloss=qui
 9	pase	pase 	VERB	_	Tense=Pres	7	mod@relcl	_	Gloss=passer, écouler
-10	yo	yo 	PRON	_	Definite=Def|Number=Plur	7	det	_	Gloss=les
+10	yo	yo 	DET	_	Definite=Def|Number=Plur	7	det	_	Gloss=DET
 11	kote	kote 	ADV	_	_	14	mod	_	Gloss=Où
 12	gang	gang	NOUN	_	_	14	subj	_	Gloss=gangs
-13	yo	yo	DET	_	Definite=Def|Number=Plur	12	det	_	Gloss=les
+13	yo	yo	DET	_	Definite=Def|Number=Plur	12	det	_	Gloss=DET
 14	antre	antre 	VERB	_	Tense=Pres	7	mod@relcl	_	Gloss=entrer
 15	nan	nan	ADP	_	_	14	comp:obl	_	Gloss=dans
 16	lese	lese	VERB	_	VerbForm=Inf	15	comp:obj	_	Gloss=se battre
@@ -287,7 +287,7 @@
 10	san	san	NOUN	_	_	8	comp:obj	_	Gloss=sang
 11	koule	koule	VERB	_	Tense=Pres	8	comp:pred	_	Gloss=coulé
 12	epi	epi	CCONJ	_	_	17	cc	_	Gloss=et
-13	plizyè	plizyè	ADV	_	_	14	det	_	Gloss=plusieurs
+13	plizyè	plizyè	DET	_	_	14	det	_	Gloss=plusieurs
 14	santèn	santèn	NOUN	_	_	17	subj	_	Gloss=centaine
 15	milye	milye	NOUN	_	_	14	comp:obj	_	Gloss=milliers
 16	moun	moun	NOUN	_	_	15	comp:obj	_	Gloss=gens
@@ -321,13 +321,13 @@
 17	2021	2021	NUM	_	_	16	comp:obj	_	Gloss=2021
 18	pandan	pandan	ADP	_	_	13	mod	_	Gloss=pendant
 19	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	22	subj	_	Gloss=3PL
-20	t	te	AUX	_	_	22	aux	_	Gloss=PAST|wordform=tap
+20	t	te	AUX	_	_	22	aux	_	Gloss=PAST|SpaceAfter=No
 21	ap	ap	AUX	_	_	22	aux	_	Gloss=PROG
 22	travay	travay 	VERB	_	Tense=Past	18	comp:obj	_	Gloss=travailler
 23	pou	pou	ADP	_	_	22	udep	_	Gloss=pour
 24	Christian	Christian	PROPN	_	_	23	comp:obj	_	Gloss=Christian
-25	Aid	Aid 	PROPN	_	_	24	flat:foreign@name	_	Gloss=Aid
-26	Ministries	Ministries 	PROPN	_	_	25	flat:foreign@name	_	Gloss=Ministries
+25	Aid	Aid 	PROPN	_	_	24	flat@name	_	Gloss=Aid
+26	Ministries	Ministries 	PROPN	_	_	25	flat@name	_	Gloss=Ministries
 27	ki	ki	PRON	_	_	28	subj	_	Gloss=qui
 28	gen	gen	VERB	_	Tense=Pres	24	mod@relcl	_	Gloss=avoir
 29	katye	katye	NOUN	_	_	28	comp:obj	_	Gloss=quartier

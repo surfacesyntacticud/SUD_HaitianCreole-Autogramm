@@ -95,8 +95,8 @@
 24	pwose	pwosè	NOUN	_	_	21	conj:coord	_	Gloss=procès
 25	potansyèl	potansyèl	ADJ	_	_	24	mod	_	Gloss=potentiel
 26	lè	lè	SCONJ	_	_	20	mod	_	Gloss=quand
-27	l	li	PRON	_	Number=Sing|Person=3|PronType=Prs	29	subj	_	Gloss=3SG
-28	ap	ap	AUX	_	_	29	aux	_	Gloss=PROG|wordform=lap
+27	l	li	PRON	_	Number=Sing|Person=3|PronType=Prs	29	subj	_	Gloss=3SG|SpaceAfter=No
+28	ap	ap	AUX	_	_	29	aux	_	Gloss=PROG
 29	fè	fè	VERB	_	Tense=Pres	26	comp:obj	_	Gloss=faire
 30	envestisman	envestisman	NOUN	_	_	29	comp:obj	_	Gloss=investissement
 31	pou	pou	ADP	_	_	30	udep	_	Gloss=pour

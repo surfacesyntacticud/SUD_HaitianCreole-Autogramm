@@ -28,11 +28,11 @@
 1	SAN	San	PROPN	_	_	43	unk	_	Gloss=San
 2	DIEGO	Diego	PROPN	_	_	1	flat@name	_	Gloss=Diego
 3	(	(	PUNCT	_	_	4	punct	_	_
-4	AP	ap	PROPN	_	_	2	unk	_	Gloss=AP news|SpaceAfter=No
+4	AP	ap	PROPN	_	_	2	unk	_	Gloss=Associated Press|SpaceAfter=No
 5	)	)	PUNCT	_	_	4	punct	_	_
 6	—	—	PUNCT	_	_	1	punct	_	_
-7	Plis	plis	ADJ	_	_	10	mod	_	Gloss=plus
-8	pase	pase	ADJ	_	_	7	unk	_	Gloss=passé (que)
+7	Plis	plis	ADV	_	_	10	mod	_	Gloss=plus
+8	pase	pase	ADV	_	_	7	unk	_	Gloss=passé (que)
 9	20,000	20,000	NUM	_	_	10	det	_	Gloss=20 000
 10	Ikrenyen	ikrenyen	NOUN	_	_	43	dislocated	_	Gloss=ukrainien
 11	ki	ki	PRON	_	_	13	subj	_	Gloss=qui
@@ -96,7 +96,7 @@
 9	ke	ke	PRON	_	_	8	comp:obj	_	Gloss=que
 10	administrasyon	administrasyon	NOUN	_	_	13	subj	_	Gloss=administration
 11	Biden	Biden	PROPN	_	_	10	comp:obj	_	Gloss=Biden
-12	nan	nan	ADP	_	_	10	det	_	Gloss=de
+12	nan	nan	DET	_	_	10	det	_	Gloss=de
 13	enfòme	enfòme	VERB	_	Tense=Pres	9	comp:obj	_	Gloss=informer
 14	yo	yo	PRON	_	Definite=Def|Number=Plur	13	comp:obj	_	Gloss=les
 15	ke	ke	PRON	_	_	13	comp:obj	_	Gloss=que
@@ -142,14 +142,14 @@
 55	angle	angle	NOUN	_	_	54	comp:obj	_	Gloss=anglais
 56	“	“	PUNCT	_	_	57	punct	_	_
 57	Food	Food	NOUN	_	_	53	comp:obj	_	Gloss=Food
-58	Stamps	Stamps	PROPN	_	_	57	flat@name	_	Gloss=Stamps|SpaceAfter=No
+58	Stamps	Stamps	NOUN	_	_	57	flat@name	_	Gloss=Stamps|SpaceAfter=No
 59	”.	”.	PUNCT	_	_	57	punct	_	_
 
 # sent_id = my_sample__4
 # text = Pifò Ikrenyen te jwenn otorizasyon pou yo patisipe nan pwogram imanitè sa pou yon ane apre yo te fin travèse fwontyè Etazini ak Meksik pandan kèk mwa lè lagè a te koumanse.
 # Status = SILVER
 # text_fr = la majorité des ukrainiens ont trouvé l'autorisation pour participer à ce programme humanitaire pour une année après qu'ils ont fini de traverser la frontière des Etats-Unis avec le Mexique pendant quelques mois quand la guerre avait commencé.
-1	Pifò	Pifò	ADJ	_	_	2	mod	_	Gloss=majorité
+1	Pifò	Pifò	NOUN	_	_	2	mod	_	Gloss=majorité
 2	Ikrenyen	Ikrenyen	PROPN	_	_	4	subj	_	Gloss=ukrainien
 3	te	te	AUX	_	_	4	aux	_	Gloss=PAST
 4	jwenn	jwenn	VERB	_	Tense=Pres	0	root	_	Gloss=trouver

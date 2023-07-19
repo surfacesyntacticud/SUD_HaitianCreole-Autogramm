@@ -10,7 +10,7 @@
 6	2	2	NUM	_	_	7	det	_	Gloss=deux
 7	sitwayen	sitwayen	NOUN	_	_	5	comp:obj	_	Gloss=citoyen
 8	ameriken	ameriken	ADJ	_	_	7	mod	_	Gloss=américain
-9	an	an	ADP	_	_	5	mod	_	Gloss=en
+9	an	an	ADP	_	_	5	udep	_	Gloss=en
 10	Ayiti	Ayiti	PROPN	_	_	9	comp:obj	_	Gloss=Haïti
 
 # sent_id = my_sample__2
@@ -31,9 +31,9 @@
 12	foto	foto	NOUN	_	_	10	comp:obl	_	Gloss=photo
 13	jou	jou	NOUN	_	_	9	mod	_	Gloss=jour
 14	maryaj	maryaj	NOUN	_	_	13	mod	_	Gloss=mariage
-15	yo	yo	PRON	_	Number=Sing|Person=3|Poss=Yes	14	det	_	Gloss=3PL
-16	nan	nan	ADP	_	_	9	mod	_	Gloss=à
-17	Pompano	Pompano	PROPN	_	_	16	comp:obl	_	Gloss=Pompano
+15	yo	yo	DET	_	Number=Plur|Person=3|Poss=Yes	14	det	_	Gloss=DET
+16	nan	nan	ADP	_	_	9	udep	_	Gloss=à
+17	Pompano	Pompano	PROPN	_	_	16	comp:obj	_	Gloss=Pompano
 18	Beach	Beach	PROPN	_	_	17	flat@name	_	Gloss=Beach
 19	,	,	PUNCT	_	_	18	punct	_	_
 20	Florid	Florid	PROPN	_	_	18	conj:appos	_	Gloss=Floride|SpaceAfter=No
@@ -62,8 +62,8 @@
 17	2	2	NUM	_	_	18	det	_	Gloss=2
 18	sitwayen	sitwayen 	NOUN	_	_	16	comp:obj	_	Gloss=citoyens
 19	Ameriken	Ameriken	ADJ	_	_	18	mod	_	Gloss=américain
-20	an	an	ADP	_	_	16	mod	_	Gloss=en
-21	Ayiti	Ayiti	PROPN	_	_	20	comp:obl	_	Gloss=Haïti|SpaceAfter=No
+20	an	an	ADP	_	_	16	udep	_	Gloss=en
+21	Ayiti	Ayiti	PROPN	_	_	20	comp:obj	_	Gloss=Haïti|SpaceAfter=No
 22	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = my_sample__4
@@ -98,7 +98,7 @@
 2	te	te 	AUX	_	_	3	aux	_	Gloss=PAST
 3	refize	refize	VERB	_	Tense=Imp	0	root	_	Gloss=refuser
 4	bay	bay	VERB	_	VerbForm=Inf	3	comp:obj	_	Gloss=donner
-5	okenn	okenn	PART	_	_	7	det	_	Gloss=aucun
+5	okenn	okenn	DET	_	_	7	det	_	Gloss=aucun
 6	lòt	lòt 	ADJ	_	_	7	mod	_	Gloss=autre
 7	detay	detay	NOUN	_	_	4	comp:obj	_	Gloss=détail
 8	sou	sou 	ADP	_	_	7	udep	_	Gloss=sur

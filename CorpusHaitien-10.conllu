@@ -3,7 +3,7 @@
 # text_fr = Qu'est-ce que tu dois connaitre sur Alvin Bragg, l'avocat du district de Manhattan
 # Status = SILVER
 1	Kisa	kisa	ADV	_	_	4	mod	_	Gloss=qu'est-ce que
-2	pou	pou	VERB	_	VerbForm=Inf	1	unk	_	Gloss=devoir
+2	pou	pou	ADP	_	VerbForm=Inf	1	unk	_	Gloss=pour
 3	w	ou	PRON	_	Number=Sing|Person=2|PronType=Prs	4	subj	_	Gloss=2SG
 4	konnen	konnen	VERB	_	Tense=Pres	0	root	_	Gloss=connaître
 5	sou	sou	ADP	_	_	4	udep	_	Gloss=sur
@@ -37,7 +37,7 @@
 17	sou	sou	ADP	_	_	16	udep	_	Gloss=sous
 18	non	non	NOUN	_	_	17	comp:obj	_	Gloss=nom
 19	Donald	donald	PROPN	_	_	18	comp:obj	_	Gloss=Donald
-20	Trump	trump	PROPN	_	_	19	flat:foreign@name	_	Gloss=Trump
+20	Trump	trump	PROPN	_	_	19	flat@name	_	Gloss=Trump
 21	pandan	pandan	ADP	_	_	16	mod	_	Gloss=Pendant
 22	kanpay	kanpay	NOUN	_	_	21	comp:obj	_	Gloss=campagne
 23	prezidansyèl	prezidansyèl	ADJ	_	_	22	mod	_	Gloss=présidentielle
@@ -84,7 +84,7 @@
 19	sou	sou	ADP	_	_	18	udep	_	Gloss=sur
 20	akizasyon	akizasyon	NOUN	_	_	19	comp:obj	_	Gloss=accusation
 21	kriminèl	kriminèl	ADJ	_	_	20	mod	_	Gloss=criminel
-22	kont	kont	NOUN	_	_	20	mod	_	Gloss=contre
+22	kont	kont	NOUN	_	_	20	udep	_	Gloss=contre
 23	yon	yon	DET	_	_	25	det	_	Gloss=un
 24	ansyen	ansyen	ADJ	_	_	25	mod	_	Gloss=ancien
 25	prezidan	prezidan	NOUN	_	_	22	comp:obj	_	Gloss=président
@@ -103,7 +103,7 @@
 6	premye	premye	ADJ	_	_	7	mod	_	Gloss=premier
 7	avoka	avoka	NOUN	_	_	5	comp:obj	_	Gloss=avocat
 8	Nwa	nwa	ADJ	_	_	7	mod	_	Gloss=noir
-9	nan	nan	ADP	_	_	3	mod	_	Gloss=dans
+9	nan	nan	ADP	_	_	3	udep	_	Gloss=dans
 10	distri	distri	NOUN	_	_	9	comp:obj	_	Gloss=district
 11	Manhattan	manhattan	PROPN	_	_	10	comp:obj	_	Gloss=Manhattan
 12	an	an	ADP	_	_	3	mod	_	Gloss=en
@@ -116,7 +116,7 @@
 # text_fr = Sa carrière légale a inclue le travail qu'il a fait comme un procureur fédéral et un avocat du droit civique qui représentait  la maman d'Eric Garner
 1	Karyè	Karyè	NOUN	_	_	4	subj	_	Gloss=carrière
 2	legal	legal	ADJ	_	_	1	mod	_	Gloss=légale
-3	li	li	DET	_	Number=Sing|Person=3|Poss=Yes	2	det	_	Gloss=3SG
+3	li	li	DET	_	Number=Sing|Person=3|Poss=Yes	1	det	_	Gloss=DET
 4	gen	gen	VERB	_	Tense=Pres	0	root	_	Gloss=avoir
 5	ladan	ladan	NOUN	_	_	6	mod	_	Gloss=intérieur
 6	travay	travay	NOUN	_	_	4	comp:obj	_	Gloss=travail
@@ -129,7 +129,7 @@
 13	federal	federal	ADJ	_	_	12	mod	_	Gloss=fédéral
 14	ak	ak	CCONJ	_	_	15	cc	_	Gloss=et
 15	avoka	avoka	NOUN	_	_	12	conj:coord	_	Gloss=avocat
-16	dwa	dwa	NOUN	_	_	15	det	_	Gloss=droit
+16	dwa	dwa	NOUN	_	_	15	comp:obj	_	Gloss=droit
 17	sivik	sivik	ADJ	_	_	16	mod	_	Gloss=civique
 18	ki	ki	PRON	_	_	20	subj	_	Gloss=qui
 19	te	te	AUX	_	_	20	aux	_	Gloss=PAST
