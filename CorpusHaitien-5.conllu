@@ -60,24 +60,25 @@
 7	polis	polis	NOUN	_	_	6	comp:obj	_	Gloss=police
 8	nasyonal	nasyonal	ADJ	_	_	7	mod	_	Gloss=national
 9	Ayiti	Ayiti	PROPN	_	_	7	mod	_	Gloss=haïtien
-10	e	e	CCONJ	_	_	12	cc	_	Gloss=et
-11	lap	lap	ADV	_	_	12	aux	_	Gloss=PROG
-12	etidye	etidye	VERB	_	Tense=Pres	3	conj:coord	_	Gloss=étudier
-13	posibilite	posibilite	NOUN	_	_	12	comp:obj	_	Gloss=possibilité
-14	pou	pou	ADP	_	_	13	udep	_	Gloss=pour
-15	Nasyonzini	Nasyonzini	PROPN	_	_	17	subj	_	Gloss=Nations Unies
-16	ta	ta	AUX	_	_	17	aux	_	Gloss=COND
-17	jwe	jwe	VERB	_	Tense=Pres	14	comp:obj	_	Gloss=jouer
-18	yon	yon	DET	_	Definite=Ind|Number=Sing	19	det	_	Gloss=DET
-19	wol	wol	NOUN	_	_	17	comp:obj	_	Gloss=rôle
-20	nan	nan	ADP	_	_	19	udep	_	Gloss=dans
-21	jefò	jefò	NOUN	_	_	20	comp:obj	_	Gloss=effort
-22	pou	pou	ADP	_	_	19	udep	_	Gloss=pour
-23	tabli	tabli	NOUN	_	_	22	comp:obj	_	Gloss=établir, mettre
-24	lape	lape	NOUN	_	_	23	comp:obj	_	Gloss=paix
-25	an	an	ADP	_	_	23	mod	_	Gloss=en
-26	Ayiti	Ayiti	PROPN	_	_	25	comp:obj	_	Gloss=Haïti|SpaceAfter=No
-27	.	.	PUNCT	_	_	3	punct	_	_
+10	e	e	CCONJ	_	_	13	cc	_	Gloss=et
+11	l	li	PRON	_	Number=Sing|Person=3|PronType=Prs	13	subj	_	Gloss=3SG|SpaceAfter=No
+12	ap	ap	AUX	_	_	13	aux	_	Gloss=PROG
+13	etidye	etidye	VERB	_	Tense=Pres	3	conj:coord	_	Gloss=étudier
+14	posibilite	posibilite	NOUN	_	_	13	comp:obj	_	Gloss=possibilité
+15	pou	pou	ADP	_	_	14	udep	_	Gloss=pour
+16	Nasyonzini	Nasyonzini	PROPN	_	_	18	subj	_	Gloss=Nations Unies
+17	ta	ta	AUX	_	_	18	aux	_	Gloss=COND
+18	jwe	jwe	VERB	_	Tense=Pres	15	comp:obj	_	Gloss=jouer
+19	yon	yon	DET	_	Definite=Ind|Number=Sing	20	det	_	Gloss=DET
+20	wol	wol	NOUN	_	_	18	comp:obj	_	Gloss=rôle
+21	nan	nan	ADP	_	_	20	udep	_	Gloss=dans
+22	jefò	jefò	NOUN	_	_	21	comp:obj	_	Gloss=effort
+23	pou	pou	ADP	_	_	20	udep	_	Gloss=pour
+24	tabli	tabli	NOUN	_	_	23	comp:obj	_	Gloss=établir, mettre
+25	lape	lape	NOUN	_	_	24	comp:obj	_	Gloss=paix
+26	an	an	ADP	_	_	24	mod	_	Gloss=en
+27	Ayiti	Ayiti	PROPN	_	_	26	comp:obj	_	Gloss=Haïti|SpaceAfter=No
+28	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = my_sample__4
 # text = Se sa Prezidan Joe Biden fe konnen pandan vizit li nan peyi Kanada Vandredi 24 Mas la.

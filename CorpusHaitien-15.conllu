@@ -69,41 +69,42 @@
 # text = Ak veto li enpoze Lendi, Biden tap chache bloke yon mezi Repibliken yo adopte ki entèdi gouvenman an konsidere chanjman klimatik ni pwose potansyèl lè lap fè envestisman pou plan retrèt sitwayen Ameriken yo.
 # text_fr = avec le véto qu'il a imposé lundi, Biden cherchait à bloquer une mesure que les Républicains ont adopté qui interdit au gouvernement de considérer le changement  climatique et le procès potentiel quand il fait l'investissement pour le plan de retraite des citoyens américains
 # Status = SILVER
-1	Ak	ak	ADP	_	_	9	mod	_	Gloss=avec
+1	Ak	ak	ADP	_	_	10	mod	_	Gloss=avec
 2	veto	veto	NOUN	_	_	1	comp:obj	_	Gloss=véto
 3	li	li	DET	_	Number=Sing|Person=3|PronType=Prs	4	subj	_	Gloss=3SG
 4	enpoze	enpoze	VERB	_	Tense=Pres	2	mod@relcl	_	Gloss=imposer
 5	Lendi	Lendi	PROPN	_	_	4	comp:obj	_	Gloss=lundi|SpaceAfter=No
 6	,	,	PUNCT	_	_	4	punct	_	_
-7	Biden	Biden	PROPN	_	_	9	subj	_	Gloss=Biden
-8	tap	tap	AUX	_	_	9	aux	_	Gloss=PAST PROG
-9	chache	chache	VERB	_	Tense=Past	0	root	_	Gloss=chercher
-10	bloke	bloke	VERB	_	VerbForm=Inf	9	comp:obj	_	Gloss=bloquer
-11	yon	yon	DET	_	Definite=Ind|Number=Sing	12	det	_	Gloss=une
-12	mezi	mezi	NOUN	_	_	10	comp:obj	_	Gloss=mesure
-13	Repibliken	repibliken	NOUN	_	_	15	subj	_	Gloss=républicain
-14	yo	yo	DET	_	Definite=Def|Number=Plur	13	det	_	Gloss=les
-15	adopte	adopte	VERB	_	Tense=Pres	12	mod@relcl	_	_
-16	ki	ki	PRON	_	_	17	subj	_	Gloss=qui
-17	entèdi	entèdi	VERB	_	Tense=Pres	12	mod@relcl	_	Gloss=interdire
-18	gouvenman	gouvènman	NOUN	_	_	17	comp:obj	_	Gloss=gouvernement
-19	an	an	DET	_	Definite=Def|Number=Sing	18	det	_	_
-20	konsidere	konsidere	VERB	_	Tense=Pres	17	comp:obj	_	_
-21	chanjman	chanjman	NOUN	_	_	20	comp:obj	_	Gloss=changement
-22	klimatik	klimatik	ADJ	_	_	21	mod	_	Gloss=climatique
-23	ni	ni	DET	_	_	24	cc	_	Gloss=et, ni
-24	pwose	pwosè	NOUN	_	_	21	conj:coord	_	Gloss=procès
-25	potansyèl	potansyèl	ADJ	_	_	24	mod	_	Gloss=potentiel
-26	lè	lè	SCONJ	_	_	20	mod	_	Gloss=quand
-27	l	li	PRON	_	Number=Sing|Person=3|PronType=Prs	29	subj	_	Gloss=3SG|SpaceAfter=No
-28	ap	ap	AUX	_	_	29	aux	_	Gloss=PROG
-29	fè	fè	VERB	_	Tense=Pres	26	comp:obj	_	Gloss=faire
-30	envestisman	envestisman	NOUN	_	_	29	comp:obj	_	Gloss=investissement
-31	pou	pou	ADP	_	_	30	udep	_	Gloss=pour
-32	plan	plan	NOUN	_	_	31	comp:obj	_	Gloss=plan
-33	retrèt	retrèt	NOUN	_	_	32	comp:obj	_	Gloss=retraite
-34	sitwayen	sitwayen	NOUN	_	_	33	comp:obj	_	Gloss=citoyen
-35	Ameriken	ameriken	ADJ	_	_	34	mod	_	Gloss=américain
-36	yo	yo	DET	_	Definite=Def|Number=Plur	34	det	_	Gloss=les|SpaceAfter=No
-37	.	.	PUNCT	_	_	9	punct	_	_
+7	Biden	Biden	PROPN	_	_	10	subj	_	Gloss=Biden
+8	t	te	AUX	_	_	10	aux	_	Gloss=PAST|SpaceAfter=No
+9	ap	ap	AUX	_	_	10	aux	_	Gloss=PROG
+10	chache	chache	VERB	_	Tense=Past	0	root	_	Gloss=chercher
+11	bloke	bloke	VERB	_	VerbForm=Inf	10	comp:obj	_	Gloss=bloquer
+12	yon	yon	DET	_	Definite=Ind|Number=Sing	13	det	_	Gloss=une
+13	mezi	mezi	NOUN	_	_	11	comp:obj	_	Gloss=mesure
+14	Repibliken	repibliken	NOUN	_	_	16	subj	_	Gloss=républicain
+15	yo	yo	DET	_	Definite=Def|Number=Plur	14	det	_	Gloss=les
+16	adopte	adopte	VERB	_	Tense=Pres	13	mod@relcl	_	_
+17	ki	ki	PRON	_	_	18	subj	_	Gloss=qui
+18	entèdi	entèdi	VERB	_	Tense=Pres	13	mod@relcl	_	Gloss=interdire
+19	gouvenman	gouvènman	NOUN	_	_	18	comp:obj	_	Gloss=gouvernement
+20	an	an	DET	_	Definite=Def|Number=Sing	19	det	_	_
+21	konsidere	konsidere	VERB	_	Tense=Pres	18	comp:obj	_	_
+22	chanjman	chanjman	NOUN	_	_	21	comp:obj	_	Gloss=changement
+23	klimatik	klimatik	ADJ	_	_	22	mod	_	Gloss=climatique
+24	ni	ni	DET	_	_	25	cc	_	Gloss=et, ni
+25	pwose	pwosè	NOUN	_	_	22	conj:coord	_	Gloss=procès
+26	potansyèl	potansyèl	ADJ	_	_	25	mod	_	Gloss=potentiel
+27	lè	lè	SCONJ	_	_	21	mod	_	Gloss=quand
+28	l	li	PRON	_	Number=Sing|Person=3|PronType=Prs	30	subj	_	Gloss=3SG|SpaceAfter=No
+29	ap	ap	AUX	_	_	30	aux	_	Gloss=PROG
+30	fè	fè	VERB	_	Tense=Pres	27	comp:obj	_	Gloss=faire
+31	envestisman	envestisman	NOUN	_	_	30	comp:obj	_	Gloss=investissement
+32	pou	pou	ADP	_	_	31	udep	_	Gloss=pour
+33	plan	plan	NOUN	_	_	32	comp:obj	_	Gloss=plan
+34	retrèt	retrèt	NOUN	_	_	33	comp:obj	_	Gloss=retraite
+35	sitwayen	sitwayen	NOUN	_	_	34	comp:obj	_	Gloss=citoyen
+36	Ameriken	ameriken	ADJ	_	_	35	mod	_	Gloss=américain
+37	yo	yo	DET	_	Definite=Def|Number=Plur	35	det	_	Gloss=les|SpaceAfter=No
+38	.	.	PUNCT	_	_	10	punct	_	_
 
