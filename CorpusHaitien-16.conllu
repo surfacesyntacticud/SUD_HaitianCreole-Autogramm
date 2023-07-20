@@ -96,7 +96,7 @@
 13	kontwole	kontwole	VERB	_	Tense=Pres	7	mod@relcl	_	Gloss=contrôle
 14	majorite	majorite	NOUN	_	_	13	comp:obj	_	Gloss=majorité
 15	aksyon	aksyon	NOUN	_	_	14	comp:obj	_	Gloss=action
-16	Credit	credit	PRON	_	_	15	comp:obj	_	Gloss=Crédit
+16	Credit	credit	NOUN	_	_	15	comp:obj	_	Gloss=Crédit
 17	Suisse	suisse	PROPN	_	_	16	flat@name	_	Gloss=Suisse
 18	yo	yo	DET	_	Definite=Def|Number=Plur	15	det	_	Gloss=DET
 19	-	-	PUNCT	_	_	13	punct	_	_

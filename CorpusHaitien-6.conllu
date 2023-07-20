@@ -11,7 +11,7 @@
 7	Taiwan	taiwan	PROPN	_	_	6	comp:obj	_	Gloss=Taïwan
 8	Akoz	akoz	ADV	_	_	2	mod	_	Gloss=à cause de
 9	yon	yon	DET	_	Definite=Ind|Number=Sing	10	det	_	_
-10	Rankont	rankont	NOUN	_	_	8	subj	_	Gloss=rencontre
+10	Rankont	rankont	NOUN	_	_	8	comp:obj	_	Gloss=rencontre
 11	li	li	PRON	_	Number=Sing|Person=3|Poss=Yes	13	subj	_	Gloss=3SG
 12	Pral	pral	AUX	_	_	13	aux	_	Gloss=FUT
 13	Fè	fè	VERB	_	Tense=Pres	10	mod@relcl	_	Gloss=faire
@@ -26,18 +26,18 @@
 1	Prezidan	Prezidan	NOUN	_	_	0	root	_	Gloss=président
 2	Taiwan	Taiwan	PROPN	_	_	1	mod	_	Gloss=Taiwan
 3	Tsai	Tsai	PROPN	_	_	1	conj:appos	_	Gloss=Tsai
-4	Ing-wen	Ing-wen	PROPN	_	_	3	flat:foreign@name	_	Gloss=Ing-wen
+4	Ing-wen	Ing-wen	PROPN	_	_	3	flat@name	_	Gloss=Ing-wen
 5	(	(	PUNCT	_	_	6	punct	_	_
 6	mitan	mitan	NOUN	_	_	1	parataxis	_	Gloss=milieu|SpaceAfter=No
 7	)	)	PUNCT	_	_	6	punct	_	_
 8	ak	ak	CCONJ	_	_	9	cc	_	Gloss=et
 9	sekrete	sekretè	NOUN	_	_	1	conj:coord	_	Gloss=secrétaire
 10	jeneral	jeneral	ADJ	_	_	9	mod	_	Gloss=générale
-11	biwo	biwo	NOUN	_	_	9	udep	_	Gloss=bureau
+11	biwo	biwo	NOUN	_	_	9	mod	_	Gloss=bureau
 12	prezidans	prezidans	NOUN	_	_	11	comp:obj	_	Gloss=présidence
 13	la	la	DET	_	Definite=Def|Number=Sing	11	det	_	_
 14	Lin	Lin	PROPN	_	_	9	conj:appos	_	Gloss=Lin
-15	Chia-lung	Chia-lung 	PROPN	_	_	14	flat:foreign@name	_	Gloss=Chia-lung
+15	Chia-lung	Chia-lung 	PROPN	_	_	14	flat@name	_	Gloss=Chia-lung
 16	(	(	PUNCT	_	_	17	punct	_	_
 17	a	a	ADP	_	_	14	parataxis	_	Gloss=à
 18	goch	goch	NOUN	_	_	17	comp:obj	_	Gloss=gauche|SpaceAfter=No
@@ -47,7 +47,7 @@
 22	Afe	afè	NOUN	_	_	21	comp:obj	_	Gloss=affaire
 23	Etranje	etranjè	ADJ	_	_	22	mod	_	Gloss=étranger
 24	Joseph	Joseph	PROPN	_	_	21	conj:appos	_	Gloss=Joseph
-25	Wu	Wu	PROPN	_	_	24	flat:foreign@name	_	Gloss=Wu
+25	Wu	Wu	PROPN	_	_	24	flat@name	_	Gloss=Wu
 26	(	(	PUNCT	_	_	27	punct	_	_
 27	a	a	DET	_	_	21	parataxis	_	Gloss=à
 28	dwat	dwat	NOUN	_	_	27	comp:obj	_	Gloss=droite|SpaceAfter=No
@@ -113,7 +113,7 @@
 9	ak	ak	ADP	_	_	6	udep	_	Gloss=à
 10	Taiwan	taiwan	PROPN	_	_	9	comp:obj	_	Gloss=Taiwan
 11	nan	nan	DET	_	Definite=Def|Number=Sing	10	det	_	Gloss=le
-12	mande	mande	VERB	_	Tense=Pres	0	root:obj	_	Gloss=demander
+12	mande	mande	VERB	_	Tense=Pres	0	root	_	Gloss=demander
 13	pou	pou	ADP	_	_	12	udep	_	Gloss=pour
 14	oken	oken	DET	_	_	15	det	_	Gloss=aucun
 15	responsab	responsab	NOUN	_	_	18	subj	_	Gloss=responsable
@@ -131,7 +131,7 @@
 # text_fr = Tsai a laissé Taïwan mercredi pour aller à un pays étranger.
 # Status = SILVER
 1	Tsai	tsai	PROPN	_	_	2	subj	_	Gloss=Tsai
-2	pati	pati	ADV	_	Tense=Pres	0	root	_	Gloss=partir
+2	pati	pati	VERB	_	Tense=Pres	0	root	_	Gloss=partir
 3	kite	kite	VERB	_	VerbForm=Inf	2	comp:obj	_	Gloss=quitter
 4	Taiwan	Taiwan	PROPN	_	_	3	comp:obj	_	Gloss=Taiwan
 5	Mekredi	mekredi	NOUN	_	_	2	mod	_	Gloss=mercredi
@@ -178,7 +178,7 @@
 # text_fr = c'est pendant cet escale qu'il avait l'intention de rencontrer le leader de la chambre Kevin McCarthy.
 # Status = SILVER
 1	Se	se	VERB	_	Tense=Pres	0	root	_	Gloss=être
-2	pandan	pandan	ADP	_	_	1	comp:pred	_	Gloss=pendant
+2	pandan	pandan	ADV	_	_	1	mod	_	Gloss=pendant
 3	eskal	eskal	NOUN	_	_	2	comp:obj	_	Gloss=escale
 4	sa	sa	DET	_	Number=Sing|PronType=Dem	3	det	_	_
 5	a	a	DET	_	Definite=Def|Number=Sing	3	det	_	_
@@ -186,7 +186,7 @@
 7	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	8	subj	_	Gloss=3SG
 8	gen	gen	VERB	_	Tense=Pres	6	comp:obj	_	Gloss=avoir
 9	entansyon	entansyon	NOUN	_	_	8	comp:obj	_	Gloss=intension
-10	rankontre	rankontre	VERB	_	VerbForm=Inf	9	mod	_	Gloss=rencontrer
+10	rankontre	rankontre	VERB	_	VerbForm=Inf	9	comp:obj	_	Gloss=rencontrer
 11	Lidè	lidè	NOUN	_	_	10	comp:obj	_	Gloss=leader
 12	Lachanm	lachanm	NOUN	_	_	11	comp:obj	_	Gloss=chambre
 13	Kevin	Kevin	PROPN	_	_	11	conj:appos	_	Gloss=Kevin
@@ -199,7 +199,7 @@
 # Status = SILVER
 1	Ministe	ministe	NOUN	_	_	6	subj	_	Gloss=ministère
 2	Afè	afè	NOUN	_	Tense=Pres	1	comp:obj	_	Gloss=affaire
-3	Etranjè	etranjè	ADJ	_	_	2	comp:obj	_	Gloss=étranger
+3	Etranjè	etranjè	ADJ	_	_	2	mod	_	Gloss=étranger
 4	Lachin	Lachin	PROPN	_	_	1	mod	_	Gloss=Chine
 5	nan	nan	DET	_	Definite=Def|Number=Sing	4	det	_	Gloss=la
 6	blame	blame	VERB	_	Tense=Pres	0	root	_	Gloss=blâmer
@@ -221,7 +221,7 @@
 1	Li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	2	subj	_	Gloss=3SG
 2	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
 3	se	se	VERB	_	Tense=Pres	2	comp:obj	_	Gloss=être
-4	paske	paske	ADV	_	_	3	comp:pred	_	Gloss=parce que
+4	paske	paske	SCONJ	_	_	3	mod	_	Gloss=parce que
 5	Washington	Washington	PROPN	_	_	6	subj	_	Gloss=Washington
 6	ogmante	ogmante	VERB	_	Tense=Pres	4	comp:obj	_	Gloss=augmenter
 7	relasyon	relasyon	NOUN	_	_	6	comp:obj	_	Gloss=relation

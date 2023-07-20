@@ -44,10 +44,10 @@
 11	pou	pou	ADP	_	_	8	udep	_	Gloss=pour
 12	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	14	subj	_	Gloss=1SG
 13	ta	ta	AUX	_	_	14	aux	_	Gloss=COND
-14	la	la	ADV	_	_	11	comp:obj	_	Gloss=DET|SpaceAfter=No
+14	la	la	ADV	_	VerbForm=Vadv	11	comp:obj	_	Gloss=être là|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	sof	sof	ADP	_	_	8	mod	_	Gloss=sauf
-17	si	si	PRON	_	_	16	comp:obj	_	Gloss=si
+17	si	si	SCONJ	_	_	16	comp:obj	_	Gloss=si
 18	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	20	subj	_	Gloss=1SG
 19	ta	ta	AUX	_	_	20	aux	_	Gloss=COND
 20	di	di	VERB	_	Tense=Pres	17	comp:obj	_	Gloss=dire
@@ -103,7 +103,7 @@
 6	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	4	comp:obj@R	_	_
 7	jan	jan	NOUN	_	_	4	mod	_	Gloss=tel, façon
 8	l	li	PRON	_	Number=Sing|Person=3|PronType=Prs	9	subj	_	Gloss=3SG
-9	ye	ye	VERB	_	Tense=Pres	7	comp:obj	_	Gloss=être
+9	ye	ye	VERB	_	Tense=Pres	7	mod@relcl	_	Gloss=être
 10	a	a	DET	_	Definite=Def|Number=Sing	9	det	_	_
 11	epi	epi	CCONJ	_	_	13	cc	_	Gloss=puis
 12	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	13	subj	_	_
@@ -148,7 +148,7 @@
 10	t	te	AUX	_	_	11	aux	_	Gloss=PAST|wordform=pat
 11	atann	atann	VERB	_	Tense=Pres	5	mod@relcl	_	Gloss=attendre
 12	a	a	ADP	_	_	11	comp:obl	_	Gloss=à
-13	sa	sa	DET	_	Number=Sing|PronType=Dem	12	comp:obj	_	Gloss=cela
+13	sa	sa	PRON	_	Number=Sing|PronType=Dem	12	comp:obj	_	Gloss=cela
 14	non	non	DET	_	_	13	det	_	Gloss=DET|SpaceAfter=No
 15	,	,	PUNCT	_	_	19	punct	_	_
 16	men	men	CCONJ	_	_	19	cc	_	Gloss=mais

@@ -61,7 +61,7 @@
 # Status = SILVER
 1	Se	se	VERB	_	Tense=Pres	0	root	_	Gloss=être
 2	youn	youn	NUM	_	_	1	subj@expl	_	Gloss=l'un
-3	nan	nan	ADP	_	Definite=Ind|Number=Plur	2	det	_	Gloss=de
+3	nan	nan	ADP	_	Definite=Ind|Number=Plur	2	udep	_	Gloss=de
 4	ensidan	ensidan	NOUN	_	_	3	comp:obj	_	Gloss=incident
 5	kote	kote	PRON	_	PronType=Rel	8	mod	_	Gloss=où
 6	plis	plis	ADV	_	_	7	mod	_	Gloss=plus
@@ -97,7 +97,7 @@
 13	aliyen	aliyen	VERB	_	Tense=Pres	0	root	_	Gloss=aligner
 14	kèk	kèk	DET	_	_	15	det	_	Gloss=quelques
 15	kadav	kadav	NOUN	_	_	13	comp:obj	_	Gloss=cadavre
-16	ke	ke	PRON	_	_	19	cc	_	Gloss=que
+16	ke	ke	PRON	_	PronType=Rel	19	comp:obj	_	Gloss=que
 17	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	19	subj	_	Gloss=3PL
 18	te	te	AUX	_	_	19	aux	_	Gloss=PAST
 19	kouvri	kouvri	VERB	_	Tense=Pres	15	mod@relcl	_	Gloss=couvrir
@@ -127,7 +127,7 @@
 4	ak	ak	CCONJ	_	_	6	cc	_	Gloss=et
 5	lòt	lòt	DET	_	_	6	det	_	Gloss=autre
 6	kamyon	kamyon	NOUN	_	_	3	conj:coord	_	Gloss=camion
-7	ki	ki	PRON	_	_	8	cc	_	Gloss=qui
+7	ki	ki	PRON	_	_	8	subj	_	Gloss=qui
 8	soti	soti	VERB	_	Tense=Pres	6	mod@relcl	_	Gloss=sortir
 9	nan	nan	ADP	_	_	8	udep	_	Gloss=dans
 10	mòg	mòg	NOUN	_	_	9	comp:obj	_	Gloss=morgue

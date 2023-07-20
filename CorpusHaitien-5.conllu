@@ -155,7 +155,7 @@
 13	anvizaje	anvizaje	VERB	_	Tense=Pres	11	mod@relcl	_	Gloss=envisager
 14	fè	fè	VERB	_	VerbForm=Inf	13	comp:obj	_	Gloss=faire
 15	kounyela	kounya	ADV	_	_	13	mod	_	Gloss=maintenant
-16	a	a	DET	_	Definite=Def|Number=Sing	15	det	_	SpaceAfter=No
+16	a	a	DET	_	Definite=Def|Number=Sing	13	det	_	SpaceAfter=No
 17	."	."	PUNCT	_	_	4	punct	_	_
 
 # sent_id = my_sample__7
@@ -215,7 +215,7 @@
 8	fas	fas	NOUN	_	_	7	comp:obj	_	Gloss=face
 9	ak	ak	ADP	_	_	8	udep	_	Gloss=à
 10	sa	sa	PRON	_	_	9	comp:obj	_	Gloss=3SG|SpaceAfter=No
-11	k	ki	SCONJ	_	_	13	subj	_	Gloss=qui|SpaceAfter=No
+11	k	ki	PRON	_	_	13	subj	_	Gloss=qui|SpaceAfter=No
 12	ap	ap	AUX	_	_	13	aux	_	Gloss=PROG
 13	pase	pase	VERB	_	Tense=Pres	10	mod@relcl	_	Gloss=passer
 14	an	an	ADP	_	_	13	udep	_	Gloss=en
@@ -243,7 +243,7 @@
 # text_fr = donc, je crois à ce que le premier Ministre Trudeau a dit sur l'affaire fait beaucoup de sens .
 # Status = SILVER
 1	Kidonk	kidonk	ADV	_	_	3	mod	_	Gloss=donc
-2	mwen	mwen	PRON	_	Number=Sing|Person=1|Poss=Yes	3	subj	_	Gloss=1SG
+2	mwen	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj	_	Gloss=1SG
 3	kwè	kwè	VERB	_	Tense=Pres	0	root	_	Gloss=croire
 4	sa	sa	PRON	_	Number=Sing|PronType=Dem	12	subj	_	_
 5	Premye	premye	ADJ	_	_	6	mod	_	Gloss=premier
@@ -265,7 +265,7 @@
 1	Pi	pi	ADJ	_	_	2	mod	_	Gloss=plus
 2	gwo	gwo	ADJ	_	_	3	mod	_	Gloss=grand
 3	bagay	bagay	NOUN	_	_	16	subj	_	Gloss=chose
-4	nou	nou	DET	_	Number=Plur|Person=1|PronType=Prs	5	subj	_	Gloss=1PL
+4	nou	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	5	subj	_	Gloss=1PL
 5	ka	ka	VERB	_	Tense=Pres	3	mod@relcl	_	Gloss=pouvoir
 6	fè	fè	VERB	_	VerbForm=Inf	5	comp:obj	_	Gloss=faire
 7	e	e	CCONJ	_	_	8	cc	_	Gloss=et
@@ -287,9 +287,9 @@
 23	pou	pou	ADP	_	_	18	udep	_	Gloss=pour
 24	fè	fè	VERB	_	_	23	comp:obj	_	Gloss=faire
 25	fas	fas	NOUN	_	_	24	comp:obj	_	Gloss=face
-26	ak	ak	CCONJ	_	_	25	udep	_	Gloss=à
+26	ak	ak	ADP	_	_	25	udep	_	Gloss=à
 27	pwoblèm	pwoblèm	NOUN	_	_	26	comp:obj	_	Gloss=problème
-28	yo	yo	DET	_	Number=Plur|Person=3|PronType=Prs	29	subj	_	Gloss=3PL
+28	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	29	subj	_	Gloss=3PL
 29	konstate	konstate	VERB	_	Tense=Pres	27	mod@relcl	_	Gloss=constater|SpaceAfter=No
 30	.	.	PUNCT	_	_	16	punct	_	_
 
@@ -313,14 +313,14 @@
 14	Nasyonzini	Nasyonzini	PROPN	_	_	13	comp:obj	_	Gloss=Nations Unies
 15	ta	ta	AUX	_	_	16	aux	_	Gloss=COND
 16	ka	ka	VERB	_	Mood=Cnd	7	comp:obj	_	Gloss=pouvoir|wordform=taka
-17	jwe	jwe	VERB	_	_	16	conj:obj	_	Gloss=jouer
+17	jwe	jwe	VERB	_	_	16	comp:obj	_	Gloss=jouer
 18	yon	yon	DET	_	Definite=Ind|Number=Sing	21	det	_	Gloss=DET
 19	pi	pi	ADV	_	_	20	mod	_	Gloss=plus
 20	gwo	gwo	ADJ	_	_	21	mod	_	Gloss=grand
 21	wòl	wòl	NOUN	_	_	17	comp:obj	_	Gloss=rôle
 22	nan	nan	ADP	_	_	21	udep	_	Gloss=dans
 23	jefò	jefò	NOUN	_	_	22	comp:obj	_	Gloss=effort
-24	sa	sa	DET	_	Number=Sing|PronType=Dem	23	det	_	Gloss=DET
+24	sa	sa	ADJ	_	_	23	mod	_	Gloss=ADJ.DEM.
 25	a	a	DET	_	_	23	det	_	Gloss=DET|SpaceAfter=No
 26	.	.	PUNCT	_	_	3	punct	_	_
 

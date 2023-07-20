@@ -108,7 +108,7 @@
 21	pa	pa	ADV	_	_	24	mod	_	Gloss=NEG
 22	t	te	AUX	_	_	24	aux	_	Gloss=PAST
 23	ap	ap	AUX	_	_	24	aux	_	Gloss=PROG
-24	la	la	ADV	_	_	19	comp:obj	_	Gloss=là|SpaceAfter=No
+24	la	la	ADV	_	VerbFrom=Vadv	19	comp:obj	_	Gloss=être là|SpaceAfter=No
 25	,	,	PUNCT	_	_	24	punct	_	_
 26	jis	jis	ADV	_	_	24	mod	_	Gloss=juste
 27	pou	pou	ADP	_	_	24	comp:obj	_	Gloss=pour
@@ -158,7 +158,7 @@
 12	aprè	aprè	CCONJ	_	_	14	cc	_	Gloss=ensuite, après
 13	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	14	subj	_	Gloss=3SG
 14	remèsye	remèsye	VERB	_	_	2	conj:coord	_	Gloss=remercier
-15	n	nou	ADP	_	Number=Plur|Person=1|PronType=Prs	14	comp:obj	_	Gloss=1PL
+15	n	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	14	comp:obj	_	Gloss=1PL
 16	epi	epi	CCONJ	_	_	18	cc	_	Gloss=et
 17	l	li	PRON	_	Number=Sing|Person=3|PronType=Prs	18	subj	_	Gloss=3SG
 18	ale	ale	VERB	_	_	14	conj:coord	_	Gloss=partir|SpaceAfter=No
@@ -387,7 +387,7 @@
 1	Nou	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	3	subj	_	_
 2	pa	pa	ADV	_	_	3	mod	_	Gloss=NEG
 3	imajine	imajine	VERB	_	Tense=Pres	0	root	_	Gloss=imaginer
-4	n	nou	DET	_	Number=Plur|Person=1|PronType=Prs	3	comp:obj@expl	_	Gloss=1PL
+4	n	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	3	comp:obj@expl	_	Gloss=1PL
 5	kijanm	kijanm	ADV	_	_	6	mod	_	Gloss=comment
 6	anvi	anvi	VERB	_	Tense=Pres	3	comp:obj	_	Gloss=avoir envie de
 7	konn	konnen	VERB	_	VerbForm=Inf	6	comp:obj	_	Gloss=connaitre

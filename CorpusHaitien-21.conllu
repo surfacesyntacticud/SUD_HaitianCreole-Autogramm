@@ -51,7 +51,7 @@
 4	la	la	DET	_	Definite=Def|Number=Sing	1	det	_	Gloss=le
 5	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
 6	Mèkredi	mèkredi	NOUN	_	_	5	mod	_	Gloss=mercredi
-7	ke	ke	PRON	_	_	5	comp:obj	_	Gloss=que
+7	ke	ke	SCONJ	_	_	5	comp:obj	_	Gloss=que
 8	lans	lans	NOUN	_	_	13	subj	_	Gloss=lance
 9	misil	misil	NOUN	_	_	8	mod	_	Gloss=missile
 10	mobil	mobil	ADJ	_	_	9	mod	_	Gloss=mobile

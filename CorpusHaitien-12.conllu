@@ -46,7 +46,7 @@
 17	sou	sou	ADP	_	_	16	udep	_	Gloss=sur
 18	8	8	NUM	_	_	19	det	_	Gloss=8
 19	anplwaye	anplwaye	NOUN	_	_	17	comp:obj	_	Gloss=employé
-20	oswa	oswa	ADP	_	_	21	cc	_	Gloss=ou bien
+20	oswa	oswa	CCONJ	_	_	21	cc	_	Gloss=ou bien
 21	otorite	otorite 	NOUN	_	_	19	conj:coord	_	Gloss=autorité
 22	pou	pou	ADP	_	_	16	udep	_	Gloss=pour
 23	konnen	konnen	VERB	_	_	22	comp:obj	_	Gloss=savoir

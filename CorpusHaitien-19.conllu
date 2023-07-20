@@ -93,13 +93,13 @@
 6	sa	sa	DET	_	Definite=Def|Number=Sing	5	det	_	_
 7	yo	yo	DET	_	Number=Plur|Person=3|PronType=Prs	5	det	_	_
 8	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
-9	ke	ke	PRON	_	_	8	comp:obj	_	Gloss=que
+9	ke	ke	SCONJ	_	_	8	comp:obj	_	Gloss=que
 10	administrasyon	administrasyon	NOUN	_	_	13	subj	_	Gloss=administration
 11	Biden	Biden	PROPN	_	_	10	comp:obj	_	Gloss=Biden
 12	nan	nan	DET	_	_	10	det	_	Gloss=de
 13	enfòme	enfòme	VERB	_	Tense=Pres	9	comp:obj	_	Gloss=informer
 14	yo	yo	PRON	_	Definite=Def|Number=Plur	13	comp:obj	_	Gloss=les
-15	ke	ke	PRON	_	_	13	comp:obj	_	Gloss=que
+15	ke	ke	SCONJ	_	_	13	comp:obj	_	Gloss=que
 16	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	18	subj	_	Gloss=3SG
 17	ap	ap	AUX	_	_	18	aux	_	Gloss=PROG
 18	travay	travay	VERB	_	Tense=Pres	15	comp:obj	_	Gloss=travailler
@@ -109,7 +109,7 @@
 22	an	an	DET	_	Definite=Def|Number=Sing	21	det	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	25	punct	_	_
 24	men	men	CCONJ	_	_	25	cc	_	Gloss=mais
-25	ke	ke	PRON	_	_	15	conj:coord	_	Gloss=que
+25	ke	ke	SCONJ	_	_	15	conj:coord	_	Gloss=que
 26	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	28	subj	_	Gloss=3SG
 27	pa	pa	ADV	_	_	28	mod	_	Gloss=NEG
 28	di	di	VERB	_	Tense=Pres	25	comp:obj	_	Gloss=dire
@@ -132,7 +132,7 @@
 45	tankou	tankou	ADV	_	_	44	mod	_	Gloss=tel que, comme
 46	èd	èd	NOUN	_	_	45	comp:obj	_	Gloss=aide
 47	lòjman	lòjman	NOUN	_	_	46	mod	_	Gloss=logement
-48	ak	ak	ADP	_	_	49	cc	_	Gloss=avec
+48	ak	ak	CCONJ	_	_	49	cc	_	Gloss=et
 49	koupon	koupon	NOUN	_	_	46	conj:coord	_	Gloss=kit, coupon
 50	manje	manje	NOUN	_	_	49	mod	_	Gloss=nourriture|SpaceAfter=No
 51	,	,	PUNCT	_	_	53	punct	_	_

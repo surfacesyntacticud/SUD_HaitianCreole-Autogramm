@@ -34,7 +34,7 @@
 1	Nikese	Nikese	PROPN	_	_	3	subj	_	Gloss=Nikese
 2	Toussaint	Toussaint	PROPN	_	_	1	flat@name	_	Gloss=Toussaint
 3	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
-4	ke	ke	PRON	_	_	3	comp:obj	_	Gloss=que
+4	ke	ke	SCONJ	_	_	3	comp:obj	_	Gloss=que
 5	gang	gang	NOUN	_	_	7	subj	_	Gloss=gang
 6	te	te	AUX	_	_	7	aux	_	Gloss=PAST
 7	kidnape	kidnape	VERB	_	Tense=Past	4	comp:obj	_	Gloss=Kidnapper
@@ -70,7 +70,7 @@
 6	nan	nan	ADP	_	_	2	udep	_	Gloss=au
 7	telefòn	telefòn	NOUN	_	_	6	comp:obj	_	Gloss=téléphone
 8	lendi	lendi	NOUN	_	_	2	mod	_	Gloss=lundi
-9	ke	ke	PRON	_	_	2	comp:obj	_	Gloss=que
+9	ke	ke	SCONJ	_	_	2	comp:obj	_	Gloss=que
 10	gang	gang	NOUN	_	_	12	subj	_	Gloss=gang
 11	nan	nan	DET	_	Definite=Def|Number=Sing	10	det	_	Gloss=le
 12	mande	mande	VERB	_	Tense=Pres	9	comp:obj	_	Gloss=demander
@@ -81,7 +81,7 @@
 17	moun	moun	NOUN	_	_	15	comp:obj	_	Gloss=personne|SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	_
 19	e	e	CCONJ	_	_	20	cc	_	Gloss=et
-20	ke	ke	PRON	_	_	9	conj:coord	_	Gloss=que
+20	ke	ke	SCONJ	_	_	9	conj:coord	_	Gloss=que
 21	fanmi	fanmi	NOUN	_	_	24	subj	_	Gloss=famille
 22	li	li	DET	_	Number=Sing|Person=3|Poss=Yes	21	det	_	Gloss=3SG
 23	pa	pa	ADV	_	_	24	mod	_	Gloss=NEG

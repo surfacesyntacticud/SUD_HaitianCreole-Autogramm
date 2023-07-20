@@ -36,7 +36,7 @@
 32	nan	nan	ADP	_	_	31	udep	_	Gloss=dans
 33	eta	eta	NOUN	_	_	32	comp:obj	_	Gloss=eta
 34	Florid	Florid 	PROPN	_	_	33	comp:obj	_	Gloss=Floride
-35	rapòte	rapòte 	VERB	_	Tense=Pres	7	conj	_	Gloss=rapporter
+35	rapòte	rapòte 	VERB	_	Tense=Pres	7	conj:coord	_	Gloss=rapporter
 36	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	37	subj	_	Gloss=3PL
 37	kidnape	kidnape	VERB	_	Tense=Pres	35	comp:obj	_	Gloss=kidnapper
 38	yon	yon	DET	_	Definite=Ind|Number=Sing	39	det	_	Gloss=une
@@ -99,7 +99,7 @@
 8	an	an	ADP	_	_	5	udep	_	Gloss=en
 9	Ayiti	Ayiti	PROPN	_	_	8	comp:obj	_	Gloss=Haïti
 10	epi	epi	CCONJ	_	_	11	cc	_	Gloss=puis
-11	asiste	asiste 	VERB	_	Number=Sing|Person=3|Tense=Imp	5	conj	_	Gloss=assister
+11	asiste	asiste 	VERB	_	Number=Sing|Person=3|Tense=Imp	5	conj:coord	_	Gloss=assister
 12	yon	yon 	DET	_	Definite=Ind|Number=Sing	13	det	_	Gloss=un
 13	festival	festival	NOUN	_	_	11	comp:obj	_	Gloss=festival
 14	lè	lè	SCONJ	_	_	11	mod	_	Gloss=quand
@@ -177,7 +177,7 @@
 22	nou	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	23	subj	_	Gloss=1PL
 23	pataje	pataje	VERB	_	Tense=Pres	8	conj:coord	_	Gloss=partageons
 24	enfòmasyon	enfòmasyon 	NOUN	_	_	23	comp:obj	_	Gloss=informations
-25	ak	ak	CCONJ	_	_	23	comp:obl	_	Gloss=avec
+25	ak	ak	ADP	_	_	23	comp:obl	_	Gloss=avec
 26	fanmi	fanmi	NOUN	_	_	25	comp:obj	_	Gloss=familles
 27	yo	yo	DET	_	Number=Plur|Poss=Yes	26	det	_	Gloss=3PL
 28	nenpòt	nenpòt 	ADV	_	_	31	mod	_	Gloss=n'importe
@@ -267,7 +267,7 @@
 15	nan	nan	ADP	_	_	14	comp:obl	_	Gloss=dans
 16	lese	lese	VERB	_	VerbForm=Inf	15	comp:obj	_	Gloss=se battre
 17	frape	frape	VERB	_	VerbForm=Inf	16	comp:aux	_	Gloss=se battre
-18	ak	ak	CCONJ	_	_	17	comp:obl	_	Gloss=à
+18	ak	ak	ADP	_	_	17	comp:obl	_	Gloss=à
 19	lapolis	lapolis 	NOUN	_	_	18	comp:obj	_	Gloss=police|SpaceAfter=No
 20	.	. 	PUNCT	_	_	3	punct	_	_
 

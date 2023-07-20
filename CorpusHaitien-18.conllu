@@ -17,7 +17,7 @@
 2	foto	foto	NOUN	_	_	1	comp:obj	_	Gloss=photo
 3	sa	sa	DET	_	Number=Sing|PronType=Dem	2	det	_	Gloss=DET
 4	a	a	DET	_	Definite=Def|Number=Sing	2	det	_	Gloss=DET
-5	ke	ke	SCONJ	_	_	8	comp:obj	_	Gloss=que
+5	ke	ke	PRON	_	_	8	comp:obj	_	Gloss=que
 6	Lapolis	Lapolis	NOUN	_	_	8	subj	_	Gloss=police
 7	Ikreynen	Ikreynen	ADJ	_	_	6	mod	_	Gloss=ukrainien
 8	distribye	distribye	VERB	_	Tense=Pres	2	mod@relcl	_	Gloss=distribuer
@@ -60,7 +60,7 @@
 5	ke	ke	PRON	_	_	8	comp:obj	_	Gloss=que
 6	LaRisi	Larisi	PROPN	_	_	8	subj	_	Gloss=Russie
 7	te	te	AUX	_	_	8	aux	_	Gloss=PAST
-8	lanse	lanse	VERB	_	Tense=Pres	3	mod:relcl	_	Gloss=lancer
+8	lanse	lanse	VERB	_	Tense=Pres	3	mod@relcl	_	Gloss=lancer
 9	jedi	jedi	NOUN	_	_	8	mod	_	Gloss=jeudi
 10	sou	sou	ADP	_	_	8	udep	_	Gloss=sur
 11	Ikrèn	Ikrèn	NOUN	_	_	10	comp:obj	_	Gloss=Ukraine|SpaceAfter=No
@@ -72,8 +72,8 @@
 17	la	la	DET	_	Definite=Def|Number=Sing	13	det	_	Gloss=DET
 18	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
 19	vandredi	vandredi	NOUN	_	_	18	mod	_	Gloss=vendredi
-20	ke	ke	PRON	_	_	18	comp:obj	_	Gloss=que
-21	pwal	pwal	NOUN	_	_	22	aux	_	Gloss=FUT
+20	ke	ke	SCONJ	_	_	18	comp:obj	_	Gloss=que
+21	pwal	pwal	AUX	_	_	22	aux	_	Gloss=FUT
 22	gen	gen	VERB	_	Tense=Pres	20	comp:obj	_	Gloss=avoir
 23	plis	plis	ADJ	_	_	24	mod	_	Gloss=plus
 24	tan	tan	NOUN	_	_	22	comp:obj	_	Gloss=temps
@@ -156,9 +156,9 @@
 22	kite	kite	VERB	_	Tense=Pres	15	conj:coord	_	Gloss=quitter
 23	dè	dè	ADP	_	_	22	udep	_	Gloss=des
 24	milye	milye	NOUN	_	_	23	comp:obj	_	Gloss=milliers
-25	san	san	NOUN	_	_	22	udep	_	Gloss=sans
+25	san	san	ADP	_	_	22	udep	_	Gloss=sans
 26	chofaj	chofaj	NOUN	_	_	25	comp:obj	_	Gloss=chauffage
-27	ak	ak	ADP	_	_	28	cc	_	Gloss=et
+27	ak	ak	CCONJ	_	_	28	cc	_	Gloss=et
 28	elektrisite	elektrisite	NOUN	_	_	26	conj:coord	_	Gloss=électricité|SpaceAfter=No
 29	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -195,16 +195,16 @@
 27	LaRisi	Larisi	PROPN	_	_	28	subj	_	Gloss=Russie
 28	tire	tire	VERB	_	Tense=Pres	25	mod@relcl	_	Gloss=lancer, tirer|SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	_
-30	kidonk	kidonk	PRON	_	_	25	mod	_	Gloss=donc
+30	kidonk	kidonk	CCONJ	_	_	25	mod	_	Gloss=donc
 31	yon	yon	DET	_	Definite=Ind|Number=Sing	32	det	_	Gloss=DET
 32	pousantaj	pousantaj	NOUN	_	_	30	comp:obj	_	Gloss=pourcentage
 33	pi	pi	ADV	_	_	34	mod	_	Gloss=au minimum
-34	piti	piti	VERB	_	Tense=Pres	32	mod	_	_
+34	piti	piti	ADV	_	Tense=Pres	32	mod	_	_
 35	lontan	lontan	ADV	_	_	34	mod	_	Gloss=longtemps
 36	pase	pase	NOUN	_	_	35	comp:obj	_	Gloss=passé
 37	sa	sa	PRON	_	Number=Sing|PronType=Dem	36	det	_	_
 38	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	39	subj	_	Gloss=3SG
-39	konn	konn	VERB	_	Tense=Pres	32	mod:relcl	_	Gloss=savoir
+39	konn	konn	VERB	_	Tense=Pres	32	mod@relcl	_	Gloss=savoir
 40	bare	bare	VERB	_	_	39	comp:obj	_	Gloss=intercepter|SpaceAfter=No
 41	,	,	PUNCT	_	_	44	punct	_	_
 42	epi	epi	CCONJ	_	_	44	cc	_	Gloss=et
@@ -228,7 +228,7 @@
 3	ris	ris	ADJ	_	_	1	mod	_	Gloss=russe
 4	la	la	DET	_	Definite=Def|Number=Sing	1	det	_	Gloss=DET
 5	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
-6	frap	frap	NOUN	_	_	8	subj:obj	_	Gloss=frappe
+6	frap	frap	NOUN	_	_	8	subj	_	Gloss=frappe
 7	yo	yo	DET	_	Definite=Def|Number=Plur	6	det	_	Gloss=DET
 8	se	se	VERB	_	_	5	comp:obj	_	Gloss=être|wordform=sete
 9	te	te	AUX	_	_	8	aux	_	Gloss=PAST

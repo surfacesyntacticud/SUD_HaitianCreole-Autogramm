@@ -59,7 +59,7 @@
 38	LaRisi	Larisi	PROPN	_	_	37	comp:obj	_	Gloss=Russie|SpaceAfter=No
 39	,	,	PUNCT	_	_	41	punct	_	_
 40	ak	ak	CCONJ	_	_	41	cc	_	Gloss=et
-41	fristrasyon	fristrasyon	NOUN	_	_	21	conj:coord	_	Gloss=frustration
+41	fristrasyon	fristrasyon	NOUN	_	_	23	conj:coord	_	Gloss=frustration
 42	Ewòp	ewòp	ADJ	_	_	41	mod	_	Gloss=Europe
 43	poutèt	poutèt	NOUN	_	_	41	mod	_	Gloss=à cause de
 44	plan	plan	NOUN	_	_	46	subj	_	Gloss=plan
@@ -111,7 +111,7 @@
 25	envesti	envesti	NOUN	_	_	24	comp:obj	_	Gloss=investissement
 26	nan	nan	ADP	_	_	25	udep	_	Gloss=dans
 27	teknoloji	teknoloji	NOUN	_	_	26	comp:obj	_	Gloss=technologie
-28	pwòp	pwòp	NOUN	_	_	27	mod:obj	_	Gloss=propre
+28	pwòp	pwòp	NOUN	_	_	27	mod	_	Gloss=propre
 29	ki	ki	PRON	_	_	30	subj	_	Gloss=qui
 30	baze	baze	VERB	_	Tense=Pres	27	mod@relcl	_	Gloss=baser
 31	sou	sou	ADP	_	_	30	udep	_	Gloss=sur
@@ -151,7 +151,7 @@
 10	diplomatik	diplomatik	ADJ	_	_	9	mod	_	Gloss=diplomatique
 11	nan	nan	ADP	_	_	9	udep	_	Gloss=dans
 12	wo-nivo	wo-nivo	ADJ	_	_	11	comp:obj	_	Gloss=haut niveau
-13	ak	ak	CCONJ	_	_	9	udep	_	Gloss=avec
+13	ak	ak	ADP	_	_	9	udep	_	Gloss=avec
 14	lidè	lidè	NOUN	_	_	13	comp:obj	_	Gloss=dirigeant
 15	Ewòp	ewòp	PROPN	_	_	14	mod	_	Gloss=Europe
 16	yo	yo	DET	_	Definite=Def|Number=Plur	14	det	_	Gloss=DET

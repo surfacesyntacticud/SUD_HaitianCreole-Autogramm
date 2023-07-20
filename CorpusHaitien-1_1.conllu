@@ -6,7 +6,7 @@
 2	jou	jou	NOUN	_	_	13	mod	_	Gloss=jour
 3	je	je	NOUN	_	_	5	subj	_	Gloss=yeux
 4	m	mwen	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	Gloss=DET
-5	tonbe	tonbe	VERB	_	Tense=Pres	2	comp:obj	_	Gloss=tomber
+5	tonbe	tonbe	VERB	_	Tense=Pres	2	mod@relcl	_	Gloss=tomber
 6	sou	sou	ADP	_	_	5	udep	_	Gloss=sur
 7	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	6	comp:obj	_	Gloss=3SG
 8	a	a	DET	_	Number=Sing|Definite=Ind	5	det	_	SpaceAfter=No
@@ -150,9 +150,9 @@
 23	yo	yo	PRON	_	Number=Plur|Person=1|Poss=Yes	21	det	_	Gloss=1PL
 24	de	de	ADP	_	_	18	comp:obj	_	Gloss=du
 25	maryaj	maryaj	NOUN	_	_	24	comp:obj	_	Gloss=mariage
-26	yon	yon	DET	_	Definite=Ind|Number=Sing	27	det	_	Gloss=une
+26	yon	yon	DET	_	Definite=Ind|Number=Sing	25	det	_	Gloss=DET
 27	sè	sè	NOUN	_	_	25	comp:obj	_	Gloss=sœur
-28	m	mwen	PRON	_	Number=Sing|Person=1|Poss=Yes	27	det	_	Gloss=1SG
+28	m	mwen	DET	_	Number=Sing|Person=1|Poss=Yes	27	det	_	Gloss=DET
 29	mwen	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	31	subj	_	Gloss=1SG
 30	t	te	AUX	_	_	31	aux	_	Gloss=PAST
 31	ale	ale	VERB	_	Tense=Past	25	mod@relcl	_	_
@@ -191,7 +191,7 @@
 11	ak	ak	CCONJ	_	_	14	cc	_	Gloss=et
 12	yon	yon	DET	_	_	14	det	_	Gloss=une
 13	ti	ti	ADJ	_	_	14	mod	_	Gloss=petite
-14	sè	sè	NOUN	_	_	7	conj:coord	_	Gloss=sœur
+14	sè	sè	NOUN	_	_	10	conj:coord	_	Gloss=sœur
 15	bò	bò	ADP	_	_	14	mod	_	Gloss=à coté de
 16	manman	manman	NOUN	_	_	15	comp:obj	_	Gloss=maman
 17	epi	epi	CCONJ	_	_	20	cc	_	Gloss=puis
@@ -212,7 +212,7 @@
 # Status = SILVER
 1	Pandan	Pandan	ADP	_	_	9	mod	_	Gloss=pendant
 2	je	je	NOUN	_	_	4	subj	_	Gloss=yeux
-3	m	mwen	PRON	_	Number=Sing|Person=1|Poss=Yes	2	det	_	Gloss=1SG
+3	m	mwen	DET	_	Number=Sing|Person=1|Poss=Yes	2	det	_	Gloss=DET
 4	fèmen	fèmen	VERB	_	Tense=Pres	1	comp:obj	_	Gloss=fermer|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	9	subj	_	Gloss=1SG
@@ -230,7 +230,7 @@
 18	,	,	PUNCT	_	_	19	punct	_	_
 19	se	se	VERB	_	Tense=Pres	14	mod	_	Gloss=être
 20	lè	lè	NOUN	_	_	19	comp:obj	_	Gloss=moment
-21	sa	sa	PRON	_	Number=Sing|PronType=Dem	20	det	_	Gloss=ce
+21	sa	sa	ADJ	_	PronType=Dem	20	mod	_	Gloss=ce
 22	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	23	subj	_	Gloss=1SG
 23	tande	tande	VERB	_	Tense=Pres	20	mod@relcl	_	Gloss=entendre
 24	pòt	pòt	NOUN	_	_	27	comp:obj	_	Gloss=porte
@@ -265,8 +265,8 @@
 6	fèmen	fèmen	ADJ	_	_	5	mod	_	Gloss=fermés
 7	epi	epi	CCONJ	_	_	10	cc	_	Gloss=et
 8	tèt	tèt	NOUN	_	_	10	subj	_	Gloss=tête
-9	mwen	mwen	PRON	_	Number=Sing|Person=1|Poss=Yes	8	det	_	Gloss=1SG
-10	bese	bese	VERB	_	Tense=Pres	5	conj:coord	_	Gloss=baisser
+9	mwen	mwen	DET	_	Number=Sing|Person=1|Poss=Yes	8	det	_	Gloss=DET
+10	bese	bese	VERB	_	Tense=Pres	4	conj:coord	_	Gloss=baisser
 11	sou	sou	ADP	_	_	10	udep	_	Gloss=sur
 12	biwo	biwo	NOUN	_	_	11	comp:obj	_	Gloss=bureau
 13	a	a	DET	_	Definite=Def|Number=Sing	12	det	_	SpaceAfter=No
@@ -322,7 +322,7 @@
 18	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	19	subj	_	Gloss=1SG
 19	gade	gade	VERB	_	Tense=Pres	17	comp:obj	_	Gloss=regarder
 20	moun	moun	NOUN	_	_	19	comp:obj	_	Gloss=personne
-21	ki	ki	PRON	_	_	22	cc	_	Gloss=qui
+21	ki	ki	PRON	_	_	22	subj	_	Gloss=qui
 22	pale	pale	VERB	_	Tense=Pres	20	mod@relcl	_	Gloss=parler
 23	a	a	DET	_	Number=Sing|Definite=Ind	22	det	_	Gloss=DET
 24	mwen	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	25	subj	_	Gloss=1SG
@@ -332,7 +332,7 @@
 28	jennon	jennon	NOUN	_	_	26	comp:obj	_	Gloss=jeune homme
 29	m	m	X	_	_	28	goeswith	_	Gloss=m
 30	wo	wo	ADJ	_	_	28	mod	_	Gloss=haut
-31	ak	ak	CCONJ	_	_	28	mod	_	Gloss=avec
+31	ak	ak	ADP	_	_	28	mod	_	Gloss=avec
 32	tout	tout	ADJ	_	_	33	mod	_	Gloss=tout
 33	souri	souri	NOUN	_	_	31	comp:obj	_	Gloss=sourire
 34	sou	sou	ADP	_	_	33	udep	_	Gloss=sur
@@ -353,7 +353,7 @@
 1	Li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	4	subj	_	Gloss=3SG
 2	pa	pa	ADV	_	_	4	mod	_	Gloss=NEG
 3	t	te	AUX	_	_	4	aux	_	Gloss=PAST
-4	lòt	lòt	ADJ	_	_	0	root	_	Gloss=autre
+4	lòt	lòt	ADJ	_	VerbForm=Vadj	0	root	_	Gloss=autre
 5	ke	ke	SCONJ	_	_	4	comp:obj	_	Gloss=que
 6	yon	yon	DET	_	Definite=Ind|Number=Sing	7	det	_	Gloss=un
 7	enkoni	enkoni	NOUN	_	_	5	comp:obj	_	Gloss=inconnu
@@ -396,9 +396,9 @@
 9	mwen	mwen	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	Gloss=DET
 10	chak	chak	DET	_	_	11	det	_	Gloss=chaque
 11	fwa	fwa	NOUN	_	_	6	mod	_	Gloss=fois
-12	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	13	comp:obj	_	Gloss=1SG
-13	gade	gade	VERB	_	_	11	comp:obj	_	Gloss=regarder
-14	l	li	PRON	_	Number=Sing|Person=3|PronType=Prs	13	subj	_	Gloss=3SG|SpaceAfter=No
+12	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	13	subj	_	Gloss=1SG
+13	gade	gade	VERB	_	_	11	mod@relcl	_	Gloss=regarder
+14	l	li	PRON	_	Number=Sing|Person=3|PronType=Prs	13	comp:obj	_	Gloss=3SG|SpaceAfter=No
 15	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = my_sample__17
@@ -469,7 +469,7 @@
 9	monte	monte	VERB	_	Tense=Pres	7	mod@relcl	_	Gloss=monter
 10	nan	nan	ADP	_	_	9	udep	_	Gloss=dans
 11	tèt	tèt	NOUN	_	_	10	comp:obj	_	Gloss=tête
-12	mwen	mwen	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	Gloss=1SG
+12	mwen	mwen	DET	_	Number=Sing|Person=1|Poss=Yes	11	det	_	Gloss=DET
 13	se	se	VERB	_	Tense=Pres	0	root	_	Gloss=être
 14	te	te	AUX	_	_	13	aux	_	Gloss=PAST
 15	"	"	PUNCT	_	_	16	punct	_	_

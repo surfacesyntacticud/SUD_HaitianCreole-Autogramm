@@ -42,7 +42,7 @@
 22	kanpay	kanpay	NOUN	_	_	21	comp:obj	_	Gloss=campagne
 23	prezidansyèl	prezidansyèl	ADJ	_	_	22	mod	_	Gloss=présidentielle
 24	ane	ane	NOUN	_	_	16	mod	_	Gloss=année
-25	2016	2016	NUM	_	_	24	comp:obj	_	Gloss=2016
+25	2016	2016	NUM	_	_	24	mod	_	Gloss=2016
 26	la	la	DET	_	_	24	det	_	Gloss=l'
 27	vin	vini	VERB	_	Tense=Pres	0	root	_	Gloss=venir
 28	santre	santre	VERB	_	_	27	comp:obj	_	Gloss=centrer
@@ -78,13 +78,13 @@
 13	nan	nan	ADP	_	_	5	udep	_	Gloss=dans
 14	kòmansman	kòmansman	NOUN	_	_	15	mod	_	Gloss=début
 15	ane	ane	NOUN	_	_	13	comp:obj	_	Gloss=année
-16	2023	2023	NUM	_	_	15	comp:obj	_	Gloss=2023
+16	2023	2023	NUM	_	_	15	mod	_	Gloss=2023
 17	kapab	kapab	VERB	_	Tense=Pres	0	root	_	Gloss=pouvoir
 18	debouche	debouche	VERB	_	_	17	comp:obj	_	Gloss=déboucher
 19	sou	sou	ADP	_	_	18	udep	_	Gloss=sur
 20	akizasyon	akizasyon	NOUN	_	_	19	comp:obj	_	Gloss=accusation
 21	kriminèl	kriminèl	ADJ	_	_	20	mod	_	Gloss=criminel
-22	kont	kont	NOUN	_	_	20	udep	_	Gloss=contre
+22	kont	kont	ADP	_	_	20	udep	_	Gloss=contre
 23	yon	yon	DET	_	_	25	det	_	Gloss=un
 24	ansyen	ansyen	ADJ	_	_	25	mod	_	Gloss=ancien
 25	prezidan	prezidan	NOUN	_	_	22	comp:obj	_	Gloss=président
@@ -108,7 +108,7 @@
 11	Manhattan	manhattan	PROPN	_	_	10	comp:obj	_	Gloss=Manhattan
 12	an	an	ADP	_	_	3	mod	_	Gloss=en
 13	Novanm	novanm	NOUN	_	_	12	comp:obj	_	Gloss=Novembre
-14	2021.	2021.	NUM	_	_	13	comp:obj	_	Gloss=2021
+14	2021.	2021.	NUM	_	_	13	mod	_	Gloss=2021
 
 # sent_id = my_sample__5
 # text = Karyè legal li gen ladan travay li te fè kòm yon pwosekitè federal ak avoka dwa sivik ki te reprezante manman Eric Garner.

@@ -45,7 +45,7 @@
 21	kenbe	kenbe	VERB	_	Tense=Pres	18	mod@relcl	_	Gloss=accueille
 22	migran	migran	NOUN	_	_	21	comp:obj	_	Gloss=migrant|SpaceAfter=No
 23	,	,	PUNCT	_	_	27	punct	_	_
-24	kote	kote	PRON	_	_	27	cc	_	Gloss=où
+24	kote	kote	PRON	_	_	27	mod	_	Gloss=où
 25	30	30	NUM	_	_	26	det	_	Gloss=30
 26	migran	migran	NOUN	_	_	27	subj	_	Gloss=migrant
 27	pèdi	pèdi	VERB	_	Tense=Pres	18	mod@relcl	_	Gloss=perdre
