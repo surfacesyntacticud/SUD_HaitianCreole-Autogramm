@@ -8,7 +8,7 @@
 4	konnen	konnen	VERB	_	Tense=Pres	0	root	_	Gloss=connaître
 5	sou	sou	ADP	_	_	4	udep	_	Gloss=sur
 6	Alvin	Alvin	PROPN	_	_	5	comp:obj	_	Gloss=Alvin
-7	Bragg	Bragg 	PROPN	_	_	6	flat@name	_	Gloss=Bragg|SpaceAfter=No
+7	Bragg	Bragg	PROPN	_	_	6	flat@name	_	Gloss=Bragg|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	avoka	avoka	NOUN	_	_	6	conj:appos	_	Gloss=avocat
 10	distri	distri	NOUN	_	_	9	comp:obj	_	Gloss=district

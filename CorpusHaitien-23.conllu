@@ -43,9 +43,9 @@
 # text = Pòtpawol adjwen Depatman Deta a, Vendant Patel konfime Jedi 30 mas 2023 ke yo kidnape 2 sitwayen Ameriken an Ayiti.
 # text_fr = Le porte-parole adjoint du département d'Etat, Vendant Patel confirme le jeudi 30 mars 2023 qu'ils ont kidnappé deux citoyens américains en Haïti.
 # Status = SILVER
-1	Pòtpawol	Pòtpawol 	NOUN	_	_	9	subj	_	Gloss=Porte parole
+1	Pòtpawol	Pòtpawol	NOUN	_	_	9	subj	_	Gloss=Porte parole
 2	adjwen	adjwen	ADJ	_	_	1	mod	_	Gloss=adjoint
-3	Depatman	Depatman 	NOUN	_	_	1	comp:obj	_	Gloss=département
+3	Depatman	Depatman	NOUN	_	_	1	comp:obj	_	Gloss=département
 4	Deta	Deta	NOUN	_	_	3	comp:obj	_	Gloss=d'Etat
 5	a	a	DET	_	Definite=Def|Number=Sing	1	det	_	Gloss=le|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	_
@@ -54,13 +54,13 @@
 9	konfime	konfime	VERB	_	Tense=Pres	0	root	_	Gloss=confirmer
 10	Jedi	jedi	NOUN	_	_	9	mod	_	Gloss=jeudi
 11	30	30	NUM	_	_	10	mod	_	Gloss=30
-12	mas	mas 	NOUN	_	_	11	mod	_	Gloss=mars
+12	mas	mas	NOUN	_	_	11	mod	_	Gloss=mars
 13	2023	2023	NUM	_	_	12	mod	_	Gloss=2023
 14	ke	ke	SCONJ	_	_	9	comp:obj	_	Gloss=que
 15	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Rel	16	subj	_	Gloss=3PL
 16	kidnape	kidnape	VERB	_	Tense=Pres	14	comp:obj	_	Gloss=kidnapper
 17	2	2	NUM	_	_	18	det	_	Gloss=2
-18	sitwayen	sitwayen 	NOUN	_	_	16	comp:obj	_	Gloss=citoyens
+18	sitwayen	sitwayen	NOUN	_	_	16	comp:obj	_	Gloss=citoyens
 19	Ameriken	Ameriken	ADJ	_	_	18	mod	_	Gloss=américain
 20	an	an	ADP	_	_	16	udep	_	Gloss=en
 21	Ayiti	Ayiti	PROPN	_	_	20	comp:obj	_	Gloss=Haïti|SpaceAfter=No
@@ -73,7 +73,7 @@
 1	Li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	2	subj	_	Gloss=3SG
 2	ajoute	ajoute	VERB	_	Tense=Pres	0	root	_	Gloss=ajouter
 3	ke	ke	SCONJ	_	_	2	comp:obj	_	Gloss=que
-4	Washington	Washington 	PROPN	_	_	5	subj	_	Gloss=Washington
+4	Washington	Washington	PROPN	_	_	5	subj	_	Gloss=Washington
 5	an	an	ADP	_	_	3	comp:obj	_	Gloss=en
 6	kontak	kontak	NOUN	_	_	5	comp:obj	_	Gloss=contact
 7	ak	ak	ADP	_	_	6	udep	_	Gloss=avec
@@ -95,14 +95,14 @@
 # text_fr = Patel refusait de donner d'autres détails sur le dossier.
 # Status = SILVER
 1	Patel	Patel	PROPN	_	_	3	subj	_	Gloss=Patel
-2	te	te 	AUX	_	_	3	aux	_	Gloss=PAST
+2	te	te	AUX	_	_	3	aux	_	Gloss=PAST
 3	refize	refize	VERB	_	Tense=Imp	0	root	_	Gloss=refuser
 4	bay	bay	VERB	_	VerbForm=Inf	3	comp:obj	_	Gloss=donner
 5	okenn	okenn	DET	_	_	7	det	_	Gloss=aucun
-6	lòt	lòt 	ADJ	_	_	7	mod	_	Gloss=autre
+6	lòt	lòt	ADJ	_	_	7	mod	_	Gloss=autre
 7	detay	detay	NOUN	_	_	4	comp:obj	_	Gloss=détail
-8	sou	sou 	ADP	_	_	7	udep	_	Gloss=sur
+8	sou	sou	ADP	_	_	7	udep	_	Gloss=sur
 9	dosye	dosye	NOUN	_	_	8	comp:obj	_	Gloss=dossier
 10	a	a	DET	_	Definite=Def|Number=Sing	9	det	_	Gloss=le|SpaceAfter=No
-11	.	. 	PUNCT	_	_	3	punct	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
 

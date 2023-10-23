@@ -11,7 +11,7 @@
 7	sant	sant	NOUN	_	_	6	comp:obj	_	Gloss=centre
 8	migran	migran	NOUN	_	_	7	mod	_	Gloss=migrant
 9	Meksik	meksik	PROPN	_	_	7	mod	_	Gloss=Mexique
-10	Toupre	Toupre 	ADV	_	_	11	mod	_	Gloss=tout prêt
+10	Toupre	Toupre	ADV	_	_	11	mod	_	Gloss=tout prêt
 11	Fwontyè	fwontyè	NOUN	_	_	3	comp:obj	_	Gloss=frontière
 12	ak	ak	ADP	_	_	11	udep	_	Gloss=avec
 13	Etazini	Etazini	PROPN	_	_	12	comp:obj	_	Gloss=Etats-Unis
@@ -49,7 +49,7 @@
 27	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	28	subj	_	Gloss=3PL
 28	fèmen	fèmen	VERB	_	Tense=Pres	25	mod@relcl	_	Gloss=fermer
 29	migran	migran	NOUN	_	_	28	comp:obj	_	Gloss=migrant
-30	Meksiken	Meksiken 	ADJ	_	_	29	mod	_	Gloss=méxicain
+30	Meksiken	Meksiken	ADJ	_	_	29	mod	_	Gloss=méxicain
 31	toupre	toupre	ADP	_	_	19	mod	_	Gloss=tout prêt
 32	fwontyè	fwontyè	NOUN	_	_	31	comp:obj	_	Gloss=frontière
 33	Etazini	Etazini	PROPN	_	_	32	comp:obj	_	Gloss=Etats-Unis|SpaceAfter=No
@@ -108,7 +108,7 @@
 24	an	an	DET	_	Definite=Def|Number=Sing	23	det	_	Gloss=l'
 25	nan	nan	ADP	_	_	23	mod	_	Gloss=dans
 26	Ciudad	Ciudad	PROPN	_	_	25	comp:obj	_	Gloss=ville
-27	Juarez	Juarez 	PROPN	_	_	26	flat@name	_	Gloss=Juarez|SpaceAfter=No
+27	Juarez	Juarez	PROPN	_	_	26	flat@name	_	Gloss=Juarez|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	_
 29	anfas	anfas	ADP	_	_	27	mod	_	Gloss=en face
 30	El	el	PROPN	_	_	29	comp:obj	_	Gloss=El

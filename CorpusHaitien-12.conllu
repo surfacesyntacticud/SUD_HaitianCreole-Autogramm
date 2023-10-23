@@ -47,7 +47,7 @@
 18	8	8	NUM	_	_	19	det	_	Gloss=8
 19	anplwaye	anplwaye	NOUN	_	_	17	comp:obj	_	Gloss=employé
 20	oswa	oswa	CCONJ	_	_	21	cc	_	Gloss=ou bien
-21	otorite	otorite 	NOUN	_	_	19	conj:coord	_	Gloss=autorité
+21	otorite	otorite	NOUN	_	_	19	conj:coord	_	Gloss=autorité
 22	pou	pou	ADP	_	_	16	udep	_	Gloss=pour
 23	konnen	konnen	VERB	_	_	22	comp:obj	_	Gloss=savoir
 24	si	si	SCONJ	_	_	23	comp:obj	_	Gloss=si
@@ -91,14 +91,14 @@
 6	a	a	DET	_	Definite=Def|Number=Sing	5	det	_	Gloss=l'
 7	nan	nan	ADP	_	_	5	udep	_	Gloss=dans
 8	vil	vil	NOUN	_	_	7	comp:obj	_	Gloss=ville
-9	Ciudad	Ciudad 	PROPN	_	_	8	comp:obj	_	Gloss=Ciudad
-10	Juarez	Juarez 	PROPN	_	_	9	flat@name	_	Gloss=Juarez
+9	Ciudad	Ciudad	PROPN	_	_	8	comp:obj	_	Gloss=Ciudad
+10	Juarez	Juarez	PROPN	_	_	9	flat@name	_	Gloss=Juarez
 11	te	te	AUX	_	_	12	aux	_	Gloss=PAST
 12	kontinye	kontinye	VERB	_	_	0	root	_	Gloss=verbe
 13	Mèkredi	mèkredi	NOUN	_	_	12	mod	_	Gloss=mercredi
 14	pandan	pandan	ADP	_	_	12	mod	_	Gloss=pendant
 15	plizyè	plizyè	DET	_	_	16	det	_	Gloss=plusieurs
-16	santèn	santèn 	NOUN	_	_	20	subj	_	Gloss=centaine
+16	santèn	santèn	NOUN	_	_	20	subj	_	Gloss=centaine
 17	imigran	imigran	NOUN	_	_	16	comp:obj	_	Gloss=immigrant
 18	t	te	AUX	_	_	20	aux	_	Gloss=PAST
 19	ap	ap	AUX	_	_	20	aux	_	Gloss=PROG
@@ -107,7 +107,7 @@
 22	rive	rive	VERB	_	_	21	comp:obj	_	Gloss=arriver
 23	nan	nan	ADP	_	_	22	comp:obl	_	Gloss=dans
 24	yon	yon	DET	_	_	25	det	_	Gloss=un
-25	pòtay	pòtay 	NOUN	_	_	23	comp:obj	_	Gloss=portail
+25	pòtay	pòtay	NOUN	_	_	23	comp:obj	_	Gloss=portail
 26	ki	ki	PRON	_	_	28	subj	_	Gloss=qui
 27	toupre	toupre	ADV	_	_	28	mod	_	Gloss=tout prêt de
 28	fwontyè	fwontyè	NOUN	_	_	25	mod@relcl	_	Gloss=frontière
@@ -139,7 +139,7 @@
 8	yo	yo	DET	_	Definite=Def|Number=Plur	7	det	_	Gloss=les
 9	sou	sou	ADP	_	_	5	comp:obj	_	Gloss=à
 10	kontraktè	kontraktè	NOUN	_	_	9	comp:obj	_	Gloss=contracteur
-11	prive	prive 	ADJ	_	_	10	mod	_	Gloss=privé
+11	prive	prive	ADJ	_	_	10	mod	_	Gloss=privé
 12	ki	ki	PRON	_	_	15	subj	_	Gloss=qui
 13	t	te	AUX	_	_	15	aux	_	Gloss=PAST
 14	ap	ap	AUX	_	_	15	aux	_	Gloss=PROG
@@ -154,7 +154,7 @@
 # text_fr = La vidéo a montré que les gardes qui couraient pour la fumée sans qu'ils ne menent aucune action pour libérer les prisoniers
 # Status = SILVER
 1	Videyo	Videyo	NOUN	_	_	3	subj	_	Gloss=vidéo
-2	te	te 	AUX	_	_	3	aux	_	Gloss=PAST
+2	te	te	AUX	_	_	3	aux	_	Gloss=PAST
 3	montre	montre	VERB	_	Tense=Pres	0	root	_	_
 4	gad	gad	NOUN	_	_	3	comp:obj	_	Gloss=garde
 5	yo	yo	DET	_	Definite=Def|Number=Plur	4	det	_	Gloss=les

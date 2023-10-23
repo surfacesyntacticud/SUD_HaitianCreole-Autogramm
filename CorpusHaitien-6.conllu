@@ -37,7 +37,7 @@
 12	prezidans	prezidans	NOUN	_	_	11	comp:obj	_	Gloss=présidence
 13	la	la	DET	_	Definite=Def|Number=Sing	11	det	_	_
 14	Lin	Lin	PROPN	_	_	9	conj:appos	_	Gloss=Lin
-15	Chia-lung	Chia-lung 	PROPN	_	_	14	flat@name	_	Gloss=Chia-lung
+15	Chia-lung	Chia-lung	PROPN	_	_	14	flat@name	_	Gloss=Chia-lung
 16	(	(	PUNCT	_	_	17	punct	_	_
 17	a	a	ADP	_	_	14	parataxis	_	Gloss=à
 18	goch	goch	NOUN	_	_	17	comp:obj	_	Gloss=gauche|SpaceAfter=No
