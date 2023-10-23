@@ -27,7 +27,7 @@
 # Status = SILVER
 1	SAN	San	PROPN	_	_	43	unk	_	Gloss=San
 2	DIEGO	Diego	PROPN	_	_	1	flat@name	_	Gloss=Diego
-3	(	(	PUNCT	_	_	4	punct	_	_
+3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
 4	AP	ap	PROPN	_	_	2	unk	_	Gloss=Associated Press|SpaceAfter=No
 5	)	)	PUNCT	_	_	4	punct	_	_
 6	—	—	PUNCT	_	_	1	punct	_	_
@@ -140,10 +140,11 @@
 53	rele	rele	VERB	_	Tense=Pres	49	mod@relcl	_	Gloss=appeler
 54	ann	an	ADP	_	_	53	udep	_	Gloss=en
 55	angle	angle	NOUN	_	_	54	comp:obj	_	Gloss=anglais
-56	“	“	PUNCT	_	_	57	punct	_	_
+56	“	“	PUNCT	_	_	57	punct	_	SpaceAfter=No
 57	Food	Food	NOUN	_	_	53	comp:obj	_	Gloss=Food
 58	Stamps	Stamps	NOUN	_	_	57	flat@name	_	Gloss=Stamps|SpaceAfter=No
-59	”.	”.	PUNCT	_	_	57	punct	_	_
+59	”	”	PUNCT	_	_	57	punct	_	SpaceAfter=No
+60	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = my_sample__4
 # text = Pifò Ikrenyen te jwenn otorizasyon pou yo patisipe nan pwogram imanitè sa pou yon ane apre yo te fin travèse fwontyè Etazini ak Meksik pandan kèk mwa lè lagè a te koumanse.

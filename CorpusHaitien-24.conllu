@@ -131,7 +131,7 @@
 4	Eta	Eta	NOUN	_	_	3	goeswith	_	Gloss=Etat
 5	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire|SpaceAfter=No
 6	:	:	PUNCT	_	_	5	punct	_	_
-7	"	"	PUNCT	_	_	9	punct	_	_
+7	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
 8	Nou	Nou	PRON	_	Number=Plur|Person=1|PronType=Prs	9	subj	_	Gloss=1PL
 9	o	o	X	_	_	5	comp:obj	_	Gloss=au
 10	kouran	kouran	NOUN	_	VerbForm=Vnoun	9	goeswith	_	Gloss=courant

@@ -6,8 +6,8 @@
 2	JUAN	JUAN	PROPN	_	_	1	flat@name	_	Gloss=JUAN|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	Pòtoriko	Pòtoriko	PROPN	_	_	1	conj:appos	_	Gloss=Porto Rico
-5	(	(	PUNCT	_	_	6	punct	_	_
-6	ak	ak	X	_	_	4	unk	_	Gloss=ak|SpaceAfter=No
+5	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	AP	ap	PROPN	_	_	4	unk	_	Gloss=Associated Press|SpaceAfter=No
 7	)	)	PUNCT	_	_	6	punct	_	_
 8	—	—	PUNCT	_	_	9	punct	_	_
 9	Fanmi	Fanmi	NOUN	_	_	19	subj	_	Gloss=famille
@@ -74,7 +74,7 @@
 10	gang	gang	NOUN	_	_	12	subj	_	Gloss=gang
 11	nan	nan	DET	_	Definite=Def|Number=Sing	10	det	_	Gloss=le
 12	mande	mande	VERB	_	Tense=Pres	9	comp:obj	_	Gloss=demander
-13	$	$	SYM	_	_	12	comp:obj	_	Gloss=$
+13	$	$	SYM	_	_	12	comp:obj	_	Gloss=$|SpaceAfter=No
 14	200,000	200,000	NUM	_	NumType=Card	13	det	_	Gloss=200 000
 15	pou	pou	ADP	_	_	12	udep	_	Gloss=pour
 16	chak	chak	DET	_	_	17	det	_	Gloss=chaque

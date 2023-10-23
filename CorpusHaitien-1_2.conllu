@@ -123,7 +123,7 @@
 # text = "Ou pa janm konnen sa k ap vin dèyè envitasyon sa m rate a..."
 # Status = SILVER
 # text_fr = "On ne sait jamais ce qui viendrait après cette invitation que j'ai raté..."
-1	"	"	PUNCT	_	_	5	punct	_	_
+1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
 2	Ou	ou	PRON	_	Number=Sing|Person=2|PronType=Prs	5	subj	_	Gloss=2SG
 3	pa	pa	ADV	_	_	5	mod	_	Gloss=NEG
 4	janm	janm	ADV	_	_	5	mod	_	Gloss=jamais
@@ -242,9 +242,10 @@
 17	,	,	PUNCT	_	_	19	punct	_	_
 18	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	21	subj	_	Gloss=3SG
 19	gentan	gentan	ADV	_	_	21	mod	_	Gloss=déjà
-20	"	"	PUNCT	_	_	21	punct	_	_
+20	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
 21	disparèt	disparèt	VERB	_	Number=Plur|Person=3|Tense=Pres	2	conj:coord	_	Gloss=disparaître|SpaceAfter=No
-22	".	".	PUNCT	_	_	21	punct	_	_
+22	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = my_sample__30
 # text = M pa bezwen di n kijanm santi m.

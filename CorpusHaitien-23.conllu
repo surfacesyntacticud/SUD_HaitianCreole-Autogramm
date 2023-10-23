@@ -6,10 +6,10 @@
 2	Deta	Deta	NOUN	_	_	1	comp:obj	_	Gloss=d'Eta
 3	Konfime	konfime	VERB	_	Tense=Pres	0	root	_	Gloss=confirmer
 4	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	5	subj	_	Gloss=3PL
-5	kidnape	kidnape	VERB	_	Tense=Pres	3	comp:obj	_	Gloss=kidnapper
+5	Kidnape	kidnape	VERB	_	Tense=Pres	3	comp:obj	_	Gloss=kidnapper
 6	2	2	NUM	_	_	7	det	_	Gloss=deux
-7	sitwayen	sitwayen	NOUN	_	_	5	comp:obj	_	Gloss=citoyen
-8	ameriken	ameriken	ADJ	_	_	7	mod	_	Gloss=américain
+7	Sitwayen	sitwayen	NOUN	_	_	5	comp:obj	_	Gloss=citoyen
+8	Ameriken	ameriken	ADJ	_	_	7	mod	_	Gloss=américain
 9	an	an	ADP	_	_	5	udep	_	Gloss=en
 10	Ayiti	Ayiti	PROPN	_	_	9	comp:obj	_	Gloss=Haïti
 

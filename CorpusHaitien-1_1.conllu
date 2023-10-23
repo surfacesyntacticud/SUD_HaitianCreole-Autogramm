@@ -59,7 +59,7 @@
 14	a	a	DET	_	Definite=Def|Number=Sing	12	det	_	Gloss=l'
 15	nan	nan	ADP	_	_	11	udep	_	Gloss=dans
 16	flè	flè	NOUN	_	_	15	comp:obj	_	Gloss=fleur
-17	yo	yo	DET	_	Definite=Def|Number=Plur	16	det	_	=les
+17	yo	yo	DET	_	Definite=Def|Number=Plur	16	det	_	Gloss=les
 18	epi	epi	CCONJ	_	_	21	cc	_	Gloss=et
 19	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	21	subj	_	Gloss=1SG
 20	te	te	AUX	_	_	21	aux	_	Gloss=PAST
@@ -276,7 +276,7 @@
 # text = "Bonswa, m ka fè yon ti pale pandan kèk minit ak nou si sa p ap deranje n?"
 # text_fr = bonsoir, je peux faire un petit échange pendant quelques minutes avec vous si ça vous dérange pas?
 # Status = SILVER
-1	"	"	PUNCT	_	_	2	punct	_	_
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Bonswa	Bonswa	INTJ	_	_	0	root	_	Gloss=bonsoir|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	5	subj	_	Gloss=1SG
@@ -369,7 +369,7 @@
 # text = "Wi, avanse non mesye," klas la reponn.
 # text_fr = Oui, "avancez monsieur," la classe a répondu.
 # Status = SILVER
-1	"	"	PUNCT	_	_	4	punct	_	_
+1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
 2	Wi	wi	INTJ	_	_	4	discourse	_	Gloss=oui|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	avanse	avanse	VERB	_	_	10	comp:obj	_	Gloss=avancer
@@ -445,7 +445,7 @@
 27	klas	klas	NOUN	_	_	26	comp:obj	_	Gloss=classe
 28	li	li	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	Gloss=3SG
 29	a	a	DET	_	Definite=Def|Number=Sing	27	det	_	_
-30	(	(	PUNCT	_	_	31	punct	_	_
+30	(	(	PUNCT	_	_	31	punct	_	SpaceAfter=No
 31	paske	paske	SCONJ	_	_	27	parataxis	_	Gloss=parce que
 32	se	se	VERB	_	Tense=Pres	31	comp:obj	_	Gloss=être
 33	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	32	comp:obj	_	Gloss=3SG
@@ -472,7 +472,7 @@
 12	mwen	mwen	DET	_	Number=Sing|Person=1|Poss=Yes	11	det	_	Gloss=DET
 13	se	se	VERB	_	Tense=Pres	0	root	_	Gloss=être
 14	te	te	AUX	_	_	13	aux	_	Gloss=PAST
-15	"	"	PUNCT	_	_	16	punct	_	_
+15	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
 16	ale	ale	VERB	_	VerbForm=Inf	13	comp:obj	_	Gloss=aller
 17	nan	nan	ADP	_	_	16	udep	_	Gloss=dans
 18	fèt	fèt	NOUN	_	_	17	comp:obj	_	Gloss=fête

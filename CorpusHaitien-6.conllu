@@ -27,7 +27,7 @@
 2	Taiwan	Taiwan	PROPN	_	_	1	mod	_	Gloss=Taiwan
 3	Tsai	Tsai	PROPN	_	_	1	conj:appos	_	Gloss=Tsai
 4	Ing-wen	Ing-wen	PROPN	_	_	3	flat@name	_	Gloss=Ing-wen
-5	(	(	PUNCT	_	_	6	punct	_	_
+5	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
 6	mitan	mitan	NOUN	_	_	1	parataxis	_	Gloss=milieu|SpaceAfter=No
 7	)	)	PUNCT	_	_	6	punct	_	_
 8	ak	ak	CCONJ	_	_	9	cc	_	Gloss=et
@@ -38,7 +38,7 @@
 13	la	la	DET	_	Definite=Def|Number=Sing	11	det	_	_
 14	Lin	Lin	PROPN	_	_	9	conj:appos	_	Gloss=Lin
 15	Chia-lung	Chia-lung	PROPN	_	_	14	flat@name	_	Gloss=Chia-lung
-16	(	(	PUNCT	_	_	17	punct	_	_
+16	(	(	PUNCT	_	_	17	punct	_	SpaceAfter=No
 17	a	a	ADP	_	_	14	parataxis	_	Gloss=à
 18	goch	goch	NOUN	_	_	17	comp:obj	_	Gloss=gauche|SpaceAfter=No
 19	)	)	PUNCT	_	_	18	punct	_	_
@@ -48,7 +48,7 @@
 23	Etranje	etranjè	ADJ	_	_	22	mod	_	Gloss=étranger
 24	Joseph	Joseph	PROPN	_	_	21	conj:appos	_	Gloss=Joseph
 25	Wu	Wu	PROPN	_	_	24	flat@name	_	Gloss=Wu
-26	(	(	PUNCT	_	_	27	punct	_	_
+26	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
 27	a	a	DET	_	_	21	parataxis	_	Gloss=à
 28	dwat	dwat	NOUN	_	_	27	comp:obj	_	Gloss=droite|SpaceAfter=No
 29	),	),	PUNCT	_	_	28	punct	_	_
