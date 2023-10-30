@@ -180,7 +180,7 @@
 25	ak	ak	ADP	_	_	23	comp:obl	_	Gloss=avec
 26	fanmi	fanmi	NOUN	_	_	25	comp:obj	_	Gloss=familles
 27	yo	yo	DET	_	Number=Plur|Poss=Yes	26	det	_	Gloss=3PL
-28	nenpòt	nenpòt	ADV	_	_	31	mod	_	Gloss=n'importe
+28	nempòt	nempòt	ADV	_	_	31	mod	_	Gloss=n'importe
 29	kijan	kijan	ADV	_	_	28	unk	_	Gloss=comment
 30	nou	nou	PRON	_	Number=Sing|Person=1|PronType=Prs	31	subj	_	Gloss=1PL
 31	kapab	kapab	VERB	_	Tense=Pres	26	mod@relcl	_	Gloss=pouvoir|SpaceAfter=No
@@ -234,7 +234,7 @@
 # text_fr = Maintenant, ils contrôlent une grande partie de la capitale et les provinces.
 # Status = SILVER
 1	Kounyea	Kounyea	ADV	_	_	3	mod	_	Gloss=Mantenant
-2	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj	_	Gloss=3PL
+2	yon	yon	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj	_	Gloss=3PL
 3	kontwole	kontwole	VERB	_	Tense=Pres	0	root	_	Gloss=contrôler
 4	yon	yon	DET	_	Definite=Ind|Number=Sing	6	det	_	Gloss=une
 5	gwo	gwo	ADJ	_	_	6	mod	_	Gloss=grande
@@ -334,7 +334,7 @@
 30	jeneral	jeneral	ADJ	_	_	29	mod	_	Gloss=général
 31	li	li	DET	_	Number=Sing|Person=3|Poss=Yes	29	det	_	Gloss=3PL
 32	nan	nan	ADP	_	_	29	udep	_	Gloss=dans
-33	Eta	Eta	NOUN	_	_	32	comp:obj	_	Gloss=état
+33	eta	eta	NOUN	_	_	32	comp:obj	_	Gloss=état
 34	Ohio	Ohio	PROPN	_	_	33	flat@name	_	Gloss=Ohio
 35	nan	nan	ADP	_	_	33	mod	_	Gloss=dans
 36	sant	sant	NOUN	_	_	35	comp:obj	_	Gloss=centre

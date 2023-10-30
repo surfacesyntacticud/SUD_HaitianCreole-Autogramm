@@ -8,8 +8,8 @@
 4	nan	nan	ADP	_	_	3	mod	_	Gloss=dans
 5	Dife	Dife	NOUN	_	_	4	comp:obj	_	Gloss=incendie
 6	nan	nan	ADP	_	_	5	udep	_	Gloss=dans
-7	sant	sant	NOUN	_	_	6	comp:obj	_	Gloss=centre
-8	migran	migran	NOUN	_	_	7	mod	_	Gloss=migrant
+7	Sant	sant	NOUN	_	_	6	comp:obj	_	Gloss=centre
+8	Migran	migran	NOUN	_	_	7	mod	_	Gloss=migrant
 9	Meksik	meksik	PROPN	_	_	7	mod	_	Gloss=Mexique
 10	Toupre	Toupre	ADV	_	_	11	mod	_	Gloss=tout prêt
 11	Fwontyè	fwontyè	NOUN	_	_	3	comp:obj	_	Gloss=frontière
@@ -21,7 +21,7 @@
 # text_fr = La ville de Mexico - Plus que trois douzaines migrants ont perdu leur vie dans un incendie qui éclaté dans un dortoir dans un centre où ils ferment les migrants mexicains tout prêt la frontière des Etats-Unis.
 # Status = SILVER
 1	MEXICO	Mexico	PROPN	_	_	12	unk	_	Gloss=MEXICO
-2	city	city	PROPN	_	_	1	flat@name	_	Gloss=ville
+2	CITY	city	PROPN	_	_	1	flat@name	_	Gloss=ville
 3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
 4	AP	Ap	PROPN	_	_	2	unk	_	Gloss=Associated Press|SpaceAfter=No
 5	)	)	PUNCT	_	_	4	punct	_	_

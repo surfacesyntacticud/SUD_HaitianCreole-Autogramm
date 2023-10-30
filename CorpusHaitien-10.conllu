@@ -125,7 +125,7 @@
 9	fè	fè	VERB	_	Tense=Past	6	mod@relcl	_	Gloss=faire
 10	kòm	kòm	ADV	_	_	9	mod	_	Gloss=comme
 11	yon	yon	DET	_	Definite=Ind|Number=Sing	12	det	_	Gloss=un
-12	pwokirè	pwokirè	NOUN	_	_	10	comp:obj	_	Gloss=procureur
+12	pwosekitè	pwosekitè	NOUN	_	_	10	comp:obj	_	Gloss=procureur
 13	federal	federal	ADJ	_	_	12	mod	_	Gloss=fédéral
 14	ak	ak	CCONJ	_	_	15	cc	_	Gloss=et
 15	avoka	avoka	NOUN	_	_	12	conj:coord	_	Gloss=avocat

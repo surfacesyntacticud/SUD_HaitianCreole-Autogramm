@@ -166,7 +166,7 @@
 # text = Sete pi gwo atak konsa ki fèt sou Ikrèn depi 3 semèn, kote fòs Ikrèn yo di yo desann 34 sou 81 misil ke LaRisi tire, kidonk yon pousantaj pi piti lontan pase sa li konn bare, epi li di li desann 4 drone ke Iran fabrike.
 # text_fr = C'était une grande attaque qui est faite sur l'Ukraine depuis 3 semaines, où les forces ukrainiennes disent  qu'ils descendent 34 missiles sur 81 missiles que la Russie a tirée, donc un pourcentage plus petit par rapport à ce qu'elle sait intercepter, puis elle dit qu'elle descend 4 drones que l'Iran a fabriqué.
 # Status = SILVER
-1	Se	Se	VERB	_	Tense=Pres	0	root	_	Gloss=être|wordform=Sete
+1	Se	Se	VERB	_	Tense=Pres	0	root	_	Gloss=être|SpaceAfter=No|wordform=Sete
 2	te	te	AUX	_	_	1	aux	_	Gloss=PAST
 3	pi	pi	ADV	_	_	5	mod	_	Gloss=plus
 4	gwo	gwo	ADJ	_	_	5	mod	_	Gloss=grand
@@ -230,7 +230,7 @@
 5	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
 6	frap	frap	NOUN	_	_	8	subj	_	Gloss=frappe
 7	yo	yo	DET	_	Definite=Def|Number=Plur	6	det	_	Gloss=DET
-8	se	se	VERB	_	_	5	comp:obj	_	Gloss=être|wordform=sete
+8	se	se	VERB	_	_	5	comp:obj	_	Gloss=être|SpaceAfter=No|wordform=sete
 9	te	te	AUX	_	_	8	aux	_	Gloss=PAST
 10	kòm	kòm	ADP	_	_	8	comp:pred	_	Gloss=comme
 11	revanj	revanj	NOUN	_	_	10	comp:obj	_	Gloss=révanche

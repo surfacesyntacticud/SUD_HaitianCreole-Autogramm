@@ -70,11 +70,11 @@
 2	menase	menase	VERB	_	Tense=Pres	0	root	_	_
 3	pou	pou	ADP	_	_	2	udep	_	Gloss=pour
 4	l	li	PRON	_	Number=Sing|Person=3|PronType=Prs	6	subj	_	Gloss=3SG
-5	"	"	PUNCT	_	_	6	punct	_	_
+5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
 6	kontrekare	kontrekare	VERB	_	Tense=Pres	3	comp:obj	_	Gloss=affronter
 7	yon	yon	DET	_	Definite=Ind|Number=Sing	8	det	_	_
 8	fason	fason	NOUN	_	_	6	mod	_	Gloss=façon
-9	rezoli	rezolu	ADJ	_	_	8	mod	_	Gloss=résolu|SpaceAfter=No
+9	rezolu	rezolu	ADJ	_	_	8	mod	_	Gloss=résolu|SpaceAfter=No
 10	"	"	PUNCT	_	_	6	punct	_	_
 11	rankont	rankont	NOUN	_	_	6	comp:obj	_	Gloss=rencontre
 12	prezidan	prezidan	NOUN	_	_	16	subj	_	Gloss=président

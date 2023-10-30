@@ -11,8 +11,8 @@
 7	Komisyon	komisyon	NOUN	_	_	6	comp:obj	_	Gloss=commission
 8	Ewopeyen	ewopeyen	ADJ	_	_	7	mod	_	Gloss=européenne
 9	Ursula	ursula	PROPN	_	_	6	conj:appos	_	Gloss=Ursula
-10	Von	Von	PROPN	_	_	9	flat@name	_	Gloss=Von
-11	Der	Der	PROPN	_	_	10	flat@name	_	Gloss=Der
+10	von	von	PROPN	_	_	9	flat@name	_	Gloss=von
+11	der	der	PROPN	_	_	10	flat@name	_	Gloss=der
 12	Leyen	Leyen	PROPN	_	_	11	flat@name	_	Gloss=Leyen
 
 # sent_id = 17__2

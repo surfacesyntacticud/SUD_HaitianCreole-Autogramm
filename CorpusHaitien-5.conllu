@@ -311,7 +311,7 @@
 12	l	li	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	Gloss=3SG
 13	entèmedyè	entèmedyè	NOUN	_	_	11	comp:obj	_	Gloss=intermédiaire
 14	Nasyonzini	Nasyonzini	PROPN	_	_	13	comp:obj	_	Gloss=Nations Unies
-15	ta	ta	AUX	_	_	16	aux	_	Gloss=COND
+15	ta	ta	AUX	_	_	16	aux	_	Gloss=COND|SpaceAfter=No
 16	ka	ka	VERB	_	Mood=Cnd	7	comp:obj	_	Gloss=pouvoir|wordform=taka
 17	jwe	jwe	VERB	_	_	16	comp:obj	_	Gloss=jouer
 18	yon	yon	DET	_	Definite=Ind|Number=Sing	21	det	_	Gloss=DET
