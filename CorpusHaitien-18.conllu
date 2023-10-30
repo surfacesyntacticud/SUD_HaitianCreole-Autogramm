@@ -232,7 +232,7 @@
 7	yo	yo	DET	_	Definite=Def|Number=Plur	6	det	_	Gloss=DET
 8	se	se	VERB	_	_	5	comp:obj	_	Gloss=être|wordform=sete
 9	te	te	AUX	_	_	8	aux	_	Gloss=PAST
-10	kòm	kòm	ADP	_	_	8	mod	_	Gloss=comme
+10	kòm	kòm	ADP	_	_	8	comp:pred	_	Gloss=comme
 11	revanj	revanj	NOUN	_	_	10	comp:obj	_	Gloss=révanche
 12	pou	pou	ADP	_	_	11	udep	_	Gloss=pour
 13	yon	yon	DET	_	Definite=Ind|Number=Sing	14	det	_	Gloss=DET
@@ -258,7 +258,7 @@
 33	dapre	dapre	ADP	_	_	31	mod	_	Gloss=d'après
 34	Moskou	Moskou	PROPN	_	_	33	comp:obj	_	Gloss=Moscou|SpaceAfter=No
 35	,	,	PUNCT	_	_	33	punct	_	_
-36	travay	travay	NOUN	_	Tense=Pres	31	comp:obj	_	Gloss=travail
+36	travay	travay	NOUN	_	Tense=Pres	31	comp:pred	_	Gloss=travail
 37	sabotè	sabotè	NOUN	_	_	36	comp:obj	_	Gloss=saboteur
 38	ki	ki	PRON	_	_	40	subj	_	Gloss=qui
 39	te	te	AUX	_	_	40	aux	_	Gloss=PAST

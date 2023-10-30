@@ -6,17 +6,17 @@
 2	pòt	pòt	NOUN	_	_	7	subj	_	Gloss=porte
 3	pawòl	pawòl	NOUN	_	_	2	comp:obj	_	Gloss=parole
 4	Depatman	Depatman	NOUN	_	_	3	comp:obj	_	Gloss=département
-5	d	d	X	_	_	4	udep	_	Gloss=d'
-6	Eta	Eta	NOUN	_	_	5	goeswith	_	Gloss=Eta
+5	d	d	NOUN	_	_	4	comp:obj	_	Gloss=d'Etat
+6	Eta	Eta	X	_	_	5	goeswith	_	_
 7	deklare	deklare	VERB	_	Tense=Pres	0	root	_	Gloss=déclarer
 8	Samdi	Samdi	NOUN	_	_	7	mod	_	Gloss=samedi|SpaceAfter=No
 9	,	,	PUNCT	_	_	7	punct	_	_
 10	gouvènman	gouvènman	NOUN	_	_	13	subj	_	Gloss=gouvernement
 11	Ameriken	ameriken	ADJ	_	_	10	mod	_	Gloss=américain
 12	an	an	DET	_	Definite=Def|Number=Sing	10	det	_	Gloss=DET
-13	o	o	X	_	_	7	comp:obj	_	Gloss=au
-14	kouran	kouran	NOUN	_	VerbForm=Vnoun	13	goeswith	_	Gloss=être au courant
-15	de	de	ADP	_	_	14	udep	_	Gloss=de
+13	o	o	ADJ	_	_	7	comp:obj	_	Gloss=au courant
+14	kouran	kouran	X	_	_	13	goeswith	_	_
+15	de	de	ADP	_	_	13	comp:obl	_	Gloss=de
 16	rapò	rapò	NOUN	_	_	15	comp:obj	_	Gloss=rapport
 17	ki	ki	PRON	_	_	18	subj	_	Gloss=qui
 18	di	di	VERB	_	Tense=Pres	16	mod@relcl	_	Gloss=dire
@@ -28,7 +28,7 @@
 24	Ameriken	amirekèn	ADJ	_	_	23	mod	_	Gloss=américain
 25	ki	ki	PRON	_	_	26	subj	_	Gloss=qui
 26	disparèt	disparèt	VERB	_	Tense=Pres	23	mod@relcl	_	Gloss=disparaître
-27	an	an	ADP	_	_	26	udep	_	Gloss=en
+27	an	an	ADP	_	_	26	mod	_	Gloss=en
 28	Ayiti	Aiti	PROPN	_	_	27	comp:obj	_	Gloss=Haïti|SpaceAfter=No
 29	,	,	PUNCT	_	_	26	punct	_	_
 30	apre	apre	ADP	_	_	31	mod	_	Gloss=après
@@ -127,15 +127,15 @@
 # Status = SILVER
 1	Pòtpawòl	Pòtpawòl	NOUN	_	_	5	subj	_	Gloss=Porte parole
 2	Depatman	Depatman	NOUN	_	_	1	comp:obj	_	Gloss=département
-3	d	de	X	_	_	2	comp:obj	_	Gloss=d'
-4	Eta	Eta	NOUN	_	_	3	goeswith	_	Gloss=Etat
+3	d	de	NOUN	_	_	2	comp:obj	_	Gloss=d'
+4	Eta	Eta	X	_	_	3	goeswith	_	Gloss=Etat
 5	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire|SpaceAfter=No
 6	:	:	PUNCT	_	_	5	punct	_	_
 7	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
 8	Nou	Nou	PRON	_	Number=Plur|Person=1|PronType=Prs	9	subj	_	Gloss=1PL
-9	o	o	X	_	_	5	comp:obj	_	Gloss=au
-10	kouran	kouran	NOUN	_	VerbForm=Vnoun	9	goeswith	_	Gloss=courant
-11	de	de	ADP	_	_	10	udep	_	Gloss=du
+9	o	o	ADJ	_	_	5	comp:obj	_	Gloss=au
+10	kouran	kouran	X	_	VerbForm=Vnoun	9	goeswith	_	Gloss=courant
+11	de	de	ADP	_	_	9	comp:obl	_	Gloss=du
 12	rapò	rapò	NOUN	_	_	11	comp:obj	_	Gloss=rapport
 13	ki	ki	PRON	_	_	14	subj	_	Gloss=qui
 14	di	di	VERB	_	Tense=Pres	12	mod@relcl	_	Gloss=dire
@@ -215,8 +215,8 @@
 2	yo	yo	DET	_	Definite=Def|Number=Plur	1	det	_	Gloss=les
 3	nan	nan	ADP	_	_	7	mod	_	Gloss=en
 4	peyi	peyi	NOUN	_	_	3	comp:obj	_	Gloss=pays
-5	d	de	X	_	_	4	comp:obj	_	Gloss=de
-6	Ayiti	Ayiti	PROPN	_	_	5	goeswith	_	Gloss=Haïti
+5	d	de	PROPN	_	_	4	comp:obj	_	Gloss=de
+6	Ayiti	Ayiti	X	_	_	5	goeswith	_	Gloss=Haïti
 7	ogmante	ogmante	VERB	_	Tense=Pres	0	root	_	Gloss=augmenter
 8	pouvwa	pouvwa	NOUN	_	_	7	comp:obj	_	Gloss=pouvoir
 9	yo	yo	DET	_	Number=Sing|Poss=Yes	8	det	_	Gloss=DET

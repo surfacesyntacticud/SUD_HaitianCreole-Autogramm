@@ -53,7 +53,7 @@
 24	si	si	SCONJ	_	_	23	comp:obj	_	Gloss=si
 25	se	se	VERB	_	Tense=Pres	24	comp:obj	_	Gloss=être
 26	move	move	ADJ	_	_	27	mod	_	Gloss=mauvaise
-27	konduit	konduit	NOUN	_	_	25	comp:obj	_	Gloss=conduite
+27	konduit	konduit	NOUN	_	_	25	comp:pred	_	Gloss=conduite
 28	nan	nan	ADP	_	_	27	udep	_	Gloss=dans
 29	yon	yon	DET	_	Definite=Ind|Number=Sing	30	det	_	Gloss=un
 30	sant	sant	NOUN	_	_	28	comp:obj	_	Gloss=centre

@@ -150,7 +150,7 @@
 8	se	se	VERB	_	Tense=Pres	4	conj:coord	_	Gloss=être
 9	pa	pa	ADV	_	_	8	mod	_	Gloss=NEG
 10	yon	yon	DET	_	Definite=Ind|Number=Sing	11	det	_	Gloss=DET
-11	bagay	bagay	NOUN	_	_	8	comp:obj	_	Gloss=chose
+11	bagay	bagay	NOUN	_	_	8	comp:pred	_	Gloss=chose
 12	nou	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	13	subj	_	Gloss=1PL
 13	anvizaje	anvizaje	VERB	_	Tense=Pres	11	mod@relcl	_	Gloss=envisager
 14	fè	fè	VERB	_	VerbForm=Inf	13	comp:obj	_	Gloss=faire
@@ -271,14 +271,14 @@
 7	e	e	CCONJ	_	_	8	cc	_	Gloss=et
 8	se	se	VERB	_	Tense=Pres	6	conj:coord	_	Gloss=être
 9	yon	yon	DET	_	Definite=Ind|Number=Sing	10	det	_	Gloss=DET
-10	bagay	bagay	NOUN	_	_	8	comp:obj	_	Gloss=chose
+10	bagay	bagay	NOUN	_	_	8	comp:pred	_	Gloss=chose
 11	k	ki	PRON	_	_	13	subj	_	Gloss=qui|SpaceAfter=No
 12	ap	ap	AUX	_	_	13	aux	_	Gloss=PROG
 13	pran	pran	VERB	_	Tense=Pres	10	mod@relcl	_	Gloss=prrendre
 14	tan	tan	NOUN	_	_	13	comp:obj	_	Gloss=temps|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	se	se	VERB	_	Tense=Pres	0	root	_	Gloss=être
-17	ogmante	ogmante	VERB	_	VerbForm=Inf	16	comp:obj	_	Gloss=augmenter
+17	ogmante	ogmante	VERB	_	VerbForm=Inf	16	comp:pred	_	Gloss=augmenter
 18	kapasite	kapasite	NOUN	_	_	17	comp:obj	_	Gloss=capacité
 19	polis	polis	NOUN	_	_	22	subj	_	Gloss=police
 20	nasyonal	nasyonal	ADJ	_	_	19	mod	_	Gloss=national
@@ -336,7 +336,7 @@
 6	yon	yon	DET	_	Definite=Ind|Number=Sing	8	det	_	Gloss=DET
 7	gwo	gwo	ADJ	_	_	8	mod	_	Gloss=grand
 8	ke	kè	NOUN	_	_	9	subj	_	Gloss=coeur
-9	sote	sote	VERB	_	Tense=Pres	5	comp:obj	_	Gloss=sauter
+9	sote	sote	VERB	_	Tense=Pres	5	comp:pred	_	Gloss=sauter
 10	pou	pou	ADP	_	_	9	udep	_	Gloss=pour
 11	nou	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	10	comp:obj	_	Gloss=1PL|SpaceAfter=No
 12	."	."	PUNCT	_	_	5	punct	_	_

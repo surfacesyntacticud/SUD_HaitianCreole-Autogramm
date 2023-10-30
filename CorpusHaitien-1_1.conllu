@@ -9,7 +9,7 @@
 5	tonbe	tonbe	VERB	_	Tense=Pres	2	mod@relcl	_	Gloss=tomber
 6	sou	sou	ADP	_	_	5	udep	_	Gloss=sur
 7	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	6	comp:obj	_	Gloss=3SG
-8	a	a	DET	_	Number=Sing|Definite=Ind	5	det	_	SpaceAfter=No
+8	a	a	DET	_	Definite=Ind|Number=Sing	5	det	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	13	punct	_	_
 10	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	13	subj	_	Gloss=1SG
 11	pa	pa	ADV	_	_	13	mod	_	Gloss=NEG|SpaceAfter=No
@@ -108,7 +108,7 @@
 18	te	te	AUX	_	_	17	aux	_	Gloss=PAST
 19	yon	yon	DET	_	Definite=Ind|Number=Sing	21	det	_	_
 20	vye	vye	ADJ	_	_	21	mod	_	Gloss=vieux
-21	konpòtman	konpòtman	NOUN	_	_	17	comp:obj	_	Gloss=comportement|SpaceAfter=No
+21	konpòtman	konpòtman	NOUN	_	_	17	comp:pred	_	Gloss=comportement|SpaceAfter=No
 22	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 01__6
@@ -229,7 +229,7 @@
 17	pase	pase	NOUN	_	_	16	comp:obj	_	Gloss=passé|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
 19	se	se	VERB	_	Tense=Pres	14	mod	_	Gloss=être
-20	lè	lè	NOUN	_	_	19	comp:obj	_	Gloss=moment
+20	lè	lè	NOUN	_	_	19	comp:pred	_	Gloss=moment
 21	sa	sa	ADJ	_	PronType=Dem	20	mod	_	Gloss=ce
 22	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	23	subj	_	Gloss=1SG
 23	tande	tande	VERB	_	Tense=Pres	20	mod@relcl	_	Gloss=entendre
@@ -324,13 +324,13 @@
 20	moun	moun	NOUN	_	_	19	comp:obj	_	Gloss=personne
 21	ki	ki	PRON	_	_	22	subj	_	Gloss=qui
 22	pale	pale	VERB	_	Tense=Pres	20	mod@relcl	_	Gloss=parler
-23	a	a	DET	_	Number=Sing|Definite=Ind	22	det	_	Gloss=DET
+23	a	a	DET	_	Definite=Ind|Number=Sing	22	det	_	Gloss=DET
 24	mwen	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	25	subj	_	Gloss=1SG
 25	wè	wè	VERB	_	Tense=Pres	14	conj:coord	_	Gloss=voir
 26	se	se	VERB	_	VerbForm=Inf	25	comp:obj	_	Gloss=être
 27	yon	yon	DET	_	Definite=Ind|Number=Sing	28	det	_	Gloss=DET
-28	jennon	jennon	NOUN	_	_	26	comp:obj	_	Gloss=jeune homme
-29	m	m	X	_	_	28	goeswith	_	Gloss=m
+28	jennon	jennon	NOUN	_	_	26	comp:pred	_	Gloss=jeune homme|Typo=Yes
+29	m	m	X	_	_	28	goeswith	_	_
 30	wo	wo	ADJ	_	_	28	mod	_	Gloss=haut
 31	ak	ak	ADP	_	_	28	mod	_	Gloss=avec
 32	tout	tout	ADJ	_	_	33	mod	_	Gloss=tout
@@ -409,7 +409,7 @@
 2	jennonm	jennonm	NOUN	_	_	1	comp:obj	_	Gloss=jeune homme
 3	sa	sa	DET	_	Number=Sing|PronType=Dem	2	det	_	Gloss=ce
 4	se	se	VERB	_	Tense=Pres	0	root	_	Gloss=être
-5	Claudy	claudy	PROPN	_	_	4	comp:obj	_	Gloss=claudy|SpaceAfter=No
+5	Claudy	claudy	PROPN	_	_	4	comp:pred	_	Gloss=claudy|SpaceAfter=No
 6	...	...	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 01__18
@@ -448,7 +448,7 @@
 30	(	(	PUNCT	_	_	31	punct	_	SpaceAfter=No
 31	paske	paske	SCONJ	_	_	27	parataxis	_	Gloss=parce que
 32	se	se	VERB	_	Tense=Pres	31	comp:obj	_	Gloss=être
-33	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	32	comp:obj	_	Gloss=3SG
+33	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	32	comp:pred	_	Gloss=3SG
 34	ki	ki	PRON	_	_	36	subj	_	Gloss=qui
 35	te	te	AUX	_	_	36	aux	_	Gloss=PAST
 36	prezidan	prezidan	NOUN	_	_	33	mod@relcl	_	Gloss=président|SpaceAfter=No
@@ -473,7 +473,7 @@
 13	se	se	VERB	_	Tense=Pres	0	root	_	Gloss=être
 14	te	te	AUX	_	_	13	aux	_	Gloss=PAST
 15	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
-16	ale	ale	VERB	_	VerbForm=Inf	13	comp:obj	_	Gloss=aller
+16	ale	ale	VERB	_	VerbForm=Inf	13	comp:pred	_	Gloss=aller
 17	nan	nan	ADP	_	_	16	udep	_	Gloss=dans
 18	fèt	fèt	NOUN	_	_	17	comp:obj	_	Gloss=fête
 19	la	la	DET	_	_	18	det	_	Gloss=une|SpaceAfter=No

@@ -21,7 +21,7 @@
 3	konn	konnen	VERB	_	Tense=Pres	0	root	_	Gloss=savoir
 4	si	si	SCONJ	_	_	3	mod	_	Gloss=si
 5	se	se	VERB	_	Tense=Pres	4	comp:obj	_	Gloss=être
-6	sa	sa	PRON	_	Number=Sing|PronType=Dem	5	comp:obj	_	Gloss=ce
+6	sa	sa	PRON	_	Number=Sing|PronType=Dem	5	comp:pred	_	Gloss=ce
 7	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	8	subj	_	Gloss=3PL
 8	rele	rele	VERB	_	Tense=Pres	6	mod@relcl	_	Gloss=appeler
 9	kout	kout	NOUN	_	_	8	comp:obj	_	Gloss=coude
@@ -72,7 +72,7 @@
 # text_fr = C'est une coutume familiale que je ne peux pas rater.
 1	Se	se	VERB	_	_	0	root	_	Gloss=être
 2	yon	yon	DET	_	Definite=Ind|Number=Sing	3	det	_	Gloss=DET
-3	koutim	koutim	NOUN	_	_	1	comp:obj	_	Gloss=coutume
+3	koutim	koutim	NOUN	_	_	1	comp:pred	_	Gloss=coutume
 4	familyal	familyal	ADJ	_	_	3	mod	_	Gloss=familial
 5	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	8	subj	_	Gloss=1SG
 6	pa	pa	ADV	_	_	8	mod	_	Gloss=NEG
@@ -108,7 +108,7 @@
 21	pa	pa	ADV	_	_	24	mod	_	Gloss=NEG
 22	t	te	AUX	_	_	24	aux	_	Gloss=PAST
 23	ap	ap	AUX	_	_	24	aux	_	Gloss=PROG
-24	la	la	ADV	_	VerbFrom=Vadv	19	comp:obj	_	Gloss=être là|SpaceAfter=No
+24	la	la	ADV	_	_	19	comp:obj	_	Gloss=être là|SpaceAfter=No|VerbFrom=Vadv
 25	,	,	PUNCT	_	_	24	punct	_	_
 26	jis	jis	ADV	_	_	24	mod	_	Gloss=juste
 27	pou	pou	ADP	_	_	24	comp:obj	_	Gloss=pour
@@ -137,7 +137,7 @@
 12	sa	sa	DET	_	PronType=Dem	11	det	_	Gloss=cette
 13	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	14	subj	_	Gloss=1SG
 14	rate	rate	VERB	_	Tense=Pres	11	mod@relcl	_	Gloss=rater
-15	a	a	DET	_	Number=Sing|Definite=Ind	14	det	_	Gloss=DET|SpaceAfter=No
+15	a	a	DET	_	Definite=Ind|Number=Sing	14	det	_	Gloss=DET|SpaceAfter=No
 16	..."	..."	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 01__26
@@ -238,7 +238,7 @@
 13	pou	pou	ADP	_	_	12	udep	_	Gloss=pour
 14	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	15	subj	_	Gloss=1SG
 15	swiv	swiv	VERB	_	Tense=Pres	13	comp:obj	_	Gloss=suivre
-16	li	li	PRON	_	Person=3|Number=Sing|PronType=Prs	15	comp:obj	_	Gloss=3SG|SpaceAfter=No
+16	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	15	comp:obj	_	Gloss=3SG|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	_
 18	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	21	subj	_	Gloss=3SG
 19	gentan	gentan	ADV	_	_	21	mod	_	Gloss=déjà
@@ -271,7 +271,7 @@
 4	t	te	AUX	_	_	6	aux	_	Gloss=PAST
 5	ap	ap	AUX	_	_	6	aux	_	Gloss=PROG
 6	tonbe	tonbe	VERB	_	Tense=Past	2	mod@relcl	_	Gloss=tomber
-7	a	a	DET	_	Number=Sing|Definite=Ind	6	det	_	Gloss=DET|SpaceAfter=No
+7	a	a	DET	_	Definite=Ind|Number=Sing	6	det	_	Gloss=DET|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	_
 9	tan	tan	NOUN	_	_	12	subj	_	Gloss=temps
 10	an	an	DET	_	Definite=Def|Number=Sing	9	det	_	Gloss=le
@@ -372,7 +372,7 @@
 2	vrèman	vrèman	ADV	_	_	3	mod	_	Gloss=vraiment
 3	se	se	VERB	_	Tense=Pres	0	root	_	Gloss=être
 4	yon	yon	DET	_	Definite=Ind|Number=Sing	5	det	_	Gloss=DET
-5	enkoni	enkoni	NOUN	_	_	3	comp:obj	_	Gloss=inconnu
+5	enkoni	enkoni	NOUN	_	_	3	comp:pred	_	Gloss=inconnu
 6	ki	ki	PRON	_	_	8	subj	_	Gloss=qui
 7	te	te	AUX	_	_	8	aux	_	Gloss=PAST
 8	vin	vini	VERB	_	Tense=Past	5	mod@relcl	_	Gloss=venir

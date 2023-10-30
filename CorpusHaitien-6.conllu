@@ -178,7 +178,7 @@
 # text_fr = c'est pendant cet escale qu'il avait l'intention de rencontrer le leader de la chambre Kevin McCarthy.
 # Status = SILVER
 1	Se	se	VERB	_	Tense=Pres	0	root	_	Gloss=être
-2	pandan	pandan	ADV	_	_	1	mod	_	Gloss=pendant
+2	pandan	pandan	ADV	_	_	1	comp:pred	_	Gloss=pendant
 3	eskal	eskal	NOUN	_	_	2	comp:obj	_	Gloss=escale
 4	sa	sa	DET	_	Number=Sing|PronType=Dem	3	det	_	_
 5	a	a	DET	_	Definite=Def|Number=Sing	3	det	_	_

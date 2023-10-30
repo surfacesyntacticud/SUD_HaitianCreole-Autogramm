@@ -38,13 +38,13 @@
 5	anyen	anyen	PRON	_	_	4	comp:obj	_	Gloss=rien
 6	paske	paske	SCONJ	_	_	2	mod	_	Gloss=parce que
 7	l	li	PRON	_	Number=Sing|Person=3|PronType=Prs	8	subj	_	Gloss=3SG
-8	enposib	enposib	ADJ	_	VerbForm=Vadj	6	comp:obj	_	Gloss=impossible
+8	enposib	enposib	ADJ	_	_	6	comp:obj	_	Gloss=impossible
 9	pou	pou	ADP	_	_	8	udep	_	Gloss=pour
 10	mwen	mwen	PRON	_	Number=Sing|Person=1|Poss=Yes	9	comp:obj	_	Gloss=1SG
 11	pou	pou	ADP	_	_	8	udep	_	Gloss=pour
 12	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	14	subj	_	Gloss=1SG
 13	ta	ta	AUX	_	_	14	aux	_	Gloss=COND
-14	la	la	ADV	_	VerbForm=Vadv	11	comp:obj	_	Gloss=être là|SpaceAfter=No
+14	la	la	ADV	_	_	11	comp:obj	_	Gloss=là|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	sof	sof	ADP	_	_	8	mod	_	Gloss=sauf
 17	si	si	SCONJ	_	_	16	comp:obj	_	Gloss=si
@@ -55,7 +55,7 @@
 22	m	mwen	DET	_	Number=Sing|Person=1|PronType=Prs	21	det	_	Gloss=1SG
 23	se	se	VERB	_	Tense=Pres	20	comp:obj@T	_	Gloss=être
 24	yon	yon	DET	_	Definite=Ind|Number=Sing	25	det	_	Gloss=DET
-25	obligasyon	obligasyon	NOUN	_	_	23	comp:obj	_	Gloss=obligation
+25	obligasyon	obligasyon	NOUN	_	_	23	comp:pred	_	Gloss=obligation
 26	pou	pou	ADP	_	_	25	udep	_	Gloss=pour
 27	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	28	subj	_	Gloss=1SG
 28	rete	rete	VERB	_	Tense=Pres	26	comp:obj	_	Gloss=rester
@@ -118,7 +118,7 @@
 21	ki	ki	PRON	_	_	22	subj	_	Gloss=qui
 22	se	se	VERB	_	Tense=Pres	15	mod@relcl	_	Gloss=être
 23	"	"	PUNCT	_	_	24	punct	_	SpaceAfter=No
-24	NON	non	NOUN	_	_	22	comp:obj	_	Gloss=non|SpaceAfter=No
+24	NON	non	NOUN	_	_	22	comp:pred	_	Gloss=non|SpaceAfter=No
 25	".	".	PUNCT	_	_	24	punct	_	_
 
 # sent_id = 01__85
