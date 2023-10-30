@@ -3,10 +3,10 @@
 # text_fr = Qu'est-ce que tu dois connaitre sur Alvin Bragg, l'avocat du district de Manhattan
 # Status = SILVER
 1	Kisa	kisa	ADV	_	_	4	mod	_	Gloss=qu'est-ce que
-2	pou	pou	ADP	_	VerbForm=Inf	1	unk	_	Gloss=pour
+2	pou	pou	ADP	_	_	1	unk	_	Gloss=pour
 3	w	ou	PRON	_	Number=Sing|Person=2|PronType=Prs	4	subj	_	Gloss=2SG
 4	konnen	konnen	VERB	_	Tense=Pres	0	root	_	Gloss=connaître
-5	sou	sou	ADP	_	_	4	udep	_	Gloss=sur
+5	sou	sou	ADP	_	_	4	comp:obl	_	Gloss=sur
 6	Alvin	Alvin	PROPN	_	_	5	comp:obj	_	Gloss=Alvin
 7	Bragg	Bragg	PROPN	_	_	6	flat@name	_	Gloss=Bragg|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_

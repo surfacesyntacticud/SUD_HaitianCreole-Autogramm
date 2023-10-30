@@ -330,7 +330,7 @@
 26	se	se	VERB	_	VerbForm=Inf	25	comp:obj	_	Gloss=être
 27	yon	yon	DET	_	Definite=Ind|Number=Sing	28	det	_	Gloss=DET
 28	jennon	jennon	NOUN	_	_	26	comp:pred	_	Gloss=jeune homme|Typo=Yes
-29	m	m	X	_	_	28	goeswith	_	_
+29	m	_	X	_	_	28	goeswith	_	_
 30	wo	wo	ADJ	_	_	28	mod	_	Gloss=haut
 31	ak	ak	ADP	_	_	28	mod	_	Gloss=avec
 32	tout	tout	ADJ	_	_	33	mod	_	Gloss=tout
@@ -353,13 +353,13 @@
 1	Li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	4	subj	_	Gloss=3SG
 2	pa	pa	ADV	_	_	4	mod	_	Gloss=NEG
 3	t	te	AUX	_	_	4	aux	_	Gloss=PAST
-4	lòt	lòt	ADJ	_	VerbForm=Vadj	0	root	_	Gloss=autre
+4	lòt	lòt	ADJ	_	_	0	root	_	Gloss=autre
 5	ke	ke	SCONJ	_	_	4	comp:obj	_	Gloss=que
 6	yon	yon	DET	_	Definite=Ind|Number=Sing	7	det	_	Gloss=un
 7	enkoni	enkoni	NOUN	_	_	5	comp:obj	_	Gloss=inconnu
-8	ki	ki	PRON	_	_	9	subj	_	Gloss=qui
-9	te	te	AUX	_	_	7	mod@relcl	_	Gloss=PAST
-10	nan	nan	ADP	_	_	9	udep	_	Gloss=dans
+8	ki	ki	PRON	_	_	10	subj	_	Gloss=qui
+9	te	te	AUX	_	_	10	aux	_	Gloss=PAST
+10	nan	nan	ADP	_	_	7	mod@relcl	_	Gloss=dans
 11	dezyèm	dezyèm	ADJ	_	_	12	mod	_	Gloss=deuxième
 12	ane	ane	NOUN	_	_	10	comp:obj	_	Gloss=année
 13	a	a	DET	_	Definite=Def|Number=Sing	12	det	_	Gloss=DET|SpaceAfter=No

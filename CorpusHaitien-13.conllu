@@ -61,13 +61,13 @@
 # Status = SILVER
 1	Se	se	VERB	_	Tense=Pres	0	root	_	Gloss=être
 2	youn	youn	NUM	_	_	1	comp:pred	_	Gloss=l'un
-3	nan	nan	ADP	_	Definite=Ind|Number=Plur	2	udep	_	Gloss=de
+3	nan	nan	ADP	_	_	2	udep	_	Gloss=de
 4	ensidan	ensidan	NOUN	_	_	3	comp:obj	_	Gloss=incident
 5	kote	kote	PRON	_	PronType=Rel	8	mod	_	Gloss=où
 6	plis	plis	ADV	_	_	7	mod	_	Gloss=plus
 7	moun	moun	NOUN	_	_	8	subj	_	Gloss=gens, personne
 8	mouri	mouri	VERB	_	Tense=Pres	4	mod@relcl	_	Gloss=mourir
-9	nan	nan	ADP	_	_	8	udep	_	Gloss=dans
+9	nan	nan	ADP	_	_	8	mod	_	Gloss=dans
 10	yon	yon	DET	_	Definite=Ind|Number=Sing	11	det	_	Gloss=un
 11	sant	sant	NOUN	_	_	9	comp:obj	_	Gloss=centre
 12	pou	pou	ADP	_	_	11	udep	_	Gloss=pour

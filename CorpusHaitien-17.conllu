@@ -89,7 +89,7 @@
 3	von	von	PROPN	_	_	1	conj:coord	_	Gloss=von
 4	der	der	PROPN	_	_	3	flat@name	_	Gloss=der
 5	Leyen	Leyen	PROPN	_	_	4	flat@name	_	Gloss=Leyen
-6	pwal	pral	AUX	_	Tense=Pres	7	aux	_	Gloss=FUT
+6	pwal	pral	AUX	_	_	7	aux	_	Gloss=FUT
 7	pale	pale	VERB	_	VerbForm=Inf	0	root	_	Gloss=parler
 8	tou	tou	ADV	_	_	7	mod	_	Gloss=aussi
 9	sou	sou	ADP	_	_	7	udep	_	Gloss=sur

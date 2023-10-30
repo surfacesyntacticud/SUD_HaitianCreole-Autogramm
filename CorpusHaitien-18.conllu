@@ -199,7 +199,7 @@
 31	yon	yon	DET	_	Definite=Ind|Number=Sing	32	det	_	Gloss=DET
 32	pousantaj	pousantaj	NOUN	_	_	30	comp:obj	_	Gloss=pourcentage
 33	pi	pi	ADV	_	_	34	mod	_	Gloss=au minimum
-34	piti	piti	ADV	_	Tense=Pres	32	mod	_	_
+34	piti	piti	ADV	_	_	32	mod	_	_
 35	lontan	lontan	ADV	_	_	34	mod	_	Gloss=longtemps
 36	pase	pase	NOUN	_	_	35	comp:obj	_	Gloss=passé
 37	sa	sa	PRON	_	Number=Sing|PronType=Dem	36	det	_	_
@@ -258,7 +258,7 @@
 33	dapre	dapre	ADP	_	_	31	mod	_	Gloss=d'après
 34	Moskou	Moskou	PROPN	_	_	33	comp:obj	_	Gloss=Moscou|SpaceAfter=No
 35	,	,	PUNCT	_	_	33	punct	_	_
-36	travay	travay	NOUN	_	Tense=Pres	31	comp:pred	_	Gloss=travail
+36	travay	travay	NOUN	_	_	31	comp:pred	_	Gloss=travail
 37	sabotè	sabotè	NOUN	_	_	36	comp:obj	_	Gloss=saboteur
 38	ki	ki	PRON	_	_	40	subj	_	Gloss=qui
 39	te	te	AUX	_	_	40	aux	_	Gloss=PAST
