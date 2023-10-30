@@ -329,7 +329,7 @@
 25	wè	wè	VERB	_	Tense=Pres	14	conj:coord	_	Gloss=voir
 26	se	se	VERB	_	VerbForm=Inf	25	comp:obj	_	Gloss=être
 27	yon	yon	DET	_	Definite=Ind|Number=Sing	28	det	_	Gloss=DET
-28	jennon	jennon	NOUN	_	_	26	comp:pred	_	Gloss=jeune homme|Typo=Yes
+28	jennon	jennon	NOUN	_	Typo=Yes	26	comp:pred	_	Gloss=jeune homme
 29	m	_	X	_	_	28	goeswith	_	_
 30	wo	wo	ADJ	_	_	28	mod	_	Gloss=haut
 31	ak	ak	ADP	_	_	28	mod	_	Gloss=avec

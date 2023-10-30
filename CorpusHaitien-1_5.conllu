@@ -33,7 +33,7 @@
 # Status = SILVER
 1	M	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj	_	Gloss=1SG
 2	rete	rete	VERB	_	Tense=Pres	0	root	_	Gloss=rester
-3	san	san	ADP	_	Tense=Pres	2	udep	_	Gloss=sans
+3	san	san	ADP	_	_	2	udep	_	Gloss=sans
 4	di	di	VERB	_	Tense=Pres	3	comp:obj	_	Gloss=dire
 5	anyen	anyen	PRON	_	_	4	comp:obj	_	Gloss=rien
 6	paske	paske	SCONJ	_	_	2	mod	_	Gloss=parce que
@@ -71,7 +71,7 @@
 # text_fr = Toute la réflexion que j'ai faite a abouti à une seule conclusion, il faut que j'aille trouver mes  familles à Jacmel.
 # Status = SILVER
 1	Tout	tout	DET	_	_	2	det	_	Gloss=tout
-2	panse	panse	NOUN	_	Tense=Pres	6	subj	_	Gloss=penser
+2	panse	panse	NOUN	_	_	6	subj	_	Gloss=pensée
 3	m	mwen	PRON	_	Number=Sing|Person=1|Poss=Yes	4	subj	_	Gloss=1SG
 4	fè	fè	VERB	_	Number=Sing|Person=3|Tense=Pres	2	mod@relcl	_	_
 5	te	te	AUX	_	_	6	aux	_	Gloss=PAST

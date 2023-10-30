@@ -225,12 +225,12 @@
 18	gang	gang	NOUN	_	_	21	subj	_	Gloss=gang
 19	yo	yo	DET	_	Definite=Def|Number=Plur	18	det	_	_
 20	esansyèlman	esansyèlman	ADV	_	_	21	mod	_	Gloss=essentiellement
-21	ranplase	ranplase	VERB	_	Tense=Pres	15	mod@relcl	_	Gloss=remplir
-22	gouvènman	gouvènman	NOUN	_	_	21	comp:obj	_	_
+21	ranplase	ranplase	VERB	_	Tense=Pres	15	mod@relcl	_	Gloss=remplacer
+22	gouvènman	gouvènman	NOUN	_	_	21	comp:obj	_	Gloss=gouvernement
 23	an	an	DET	_	Definite=Def|Number=Sing	22	det	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	_
-25	an	an	ADP	_	Definite=Def|Number=Sing	21	mod	_	_
-26	efè	efè	ADV	_	_	25	unk	_	Gloss=effet
+25	an	an	ADP	_	_	21	mod	_	Gloss=en
+26	efè	efè	NOUN	_	_	25	unk	_	Gloss=effet
 27	y	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	29	subj	_	Gloss=3PL|SpaceAfter=No
 28	ap	ap	AUX	_	_	29	aux	_	Gloss=PROG
 29	dirije	dirije	VERB	_	_	26	comp:obj	_	Gloss=diriger
@@ -309,7 +309,7 @@
 10	la	la	DET	_	Definite=Def|Number=Sing	8	det	_	Gloss=DET
 11	pa	pa	ADP	_	_	8	mod	_	Gloss=par
 12	l	li	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	Gloss=3SG
-13	entèmedyè	entèmedyè	NOUN	_	Tense=Pres	11	comp:obj	_	Gloss=intermédiaire
+13	entèmedyè	entèmedyè	NOUN	_	_	11	comp:obj	_	Gloss=intermédiaire
 14	Nasyonzini	Nasyonzini	PROPN	_	_	13	comp:obj	_	Gloss=Nations Unies
 15	ta	ta	AUX	_	_	16	aux	_	Gloss=COND
 16	ka	ka	VERB	_	Mood=Cnd	7	comp:obj	_	Gloss=pouvoir|wordform=taka
