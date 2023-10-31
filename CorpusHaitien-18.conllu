@@ -3,7 +3,7 @@
 # text_fr = La Russie a lancé 6 missiles hyper sonique Kinzhal.
 # Status = SILVER
 1	LaRisi	Larisi	PROPN	_	_	2	subj	_	Gloss=Russie
-2	Tire	tire	VERB	_	Tense=Pres	0	root	_	Gloss=lancer
+2	Tire	tire	VERB	_	_	0	root	_	Gloss=lancer
 3	6	6	NUM	_	_	4	det	_	Gloss=6
 4	Misil	misil	NOUN	_	_	2	comp:obj	_	Gloss=missile
 5	Hypersonik	hypersonik	ADJ	_	_	4	mod	_	Gloss=hypersonique
@@ -20,15 +20,15 @@
 5	ke	ke	PRON	_	_	8	comp:obj	_	Gloss=que
 6	Lapolis	Lapolis	NOUN	_	_	8	subj	_	Gloss=police
 7	Ikreynen	Ikreynen	ADJ	_	_	6	mod	_	Gloss=ukrainien
-8	distribye	distribye	VERB	_	Tense=Pres	2	mod@relcl	_	Gloss=distribuer
+8	distribye	distribye	VERB	_	_	2	mod@relcl	_	Gloss=distribuer
 9	bay	bay	VERB	_	_	8	comp:obj	_	Gloss=donner
 10	lapres	lapres	NOUN	_	_	9	comp:obj	_	Gloss=presse
 11	ponpye	ponpye	NOUN	_	_	13	subj	_	Gloss=pompier
 12	ap	ap	AUX	_	_	13	aux	_	Gloss=PROG
-13	enspekte	enspekte	VERB	_	Tense=Pres	0	root	_	Gloss=inspecter
+13	enspekte	enspekte	VERB	_	_	0	root	_	Gloss=inspecter
 14	dega	dega	NOUN	_	_	13	comp:obj	_	Gloss=dégât
 15	ki	ki	PRON	_	_	16	subj	_	Gloss=qui
-16	fet	fet	VERB	_	Tense=Pres	14	mod@relcl	_	Gloss=faire
+16	fet	fet	VERB	_	_	14	mod@relcl	_	Gloss=faire
 17	nan	nan	ADP	_	_	16	udep	_	Gloss=dans
 18	yon	yon	DET	_	Definite=Ind|Number=Sing	19	det	_	_
 19	bilding	bilding	NOUN	_	_	17	comp:obj	_	Gloss=bâtiment
@@ -60,7 +60,7 @@
 5	ke	ke	PRON	_	_	8	comp:obj	_	Gloss=que
 6	LaRisi	Larisi	PROPN	_	_	8	subj	_	Gloss=Russie
 7	te	te	AUX	_	_	8	aux	_	Gloss=PAST
-8	lanse	lanse	VERB	_	Tense=Pres	3	mod@relcl	_	Gloss=lancer
+8	lanse	lanse	VERB	_	_	3	mod@relcl	_	Gloss=lancer
 9	jedi	jedi	NOUN	_	_	8	mod	_	Gloss=jeudi
 10	sou	sou	ADP	_	_	8	udep	_	Gloss=sur
 11	Ikrèn	Ikrèn	NOUN	_	_	10	comp:obj	_	Gloss=Ukraine|SpaceAfter=No
@@ -70,22 +70,22 @@
 15	Grand	grand	PROPN	_	_	14	mod	_	Gloss=Grande
 16	Bretay	Bretay	PROPN	_	_	15	flat@name	_	Gloss=Bretagne
 17	la	la	DET	_	Definite=Def|Number=Sing	13	det	_	Gloss=DET
-18	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
+18	di	di	VERB	_	_	0	root	_	Gloss=dire
 19	vandredi	vandredi	NOUN	_	_	18	mod	_	Gloss=vendredi
 20	ke	ke	SCONJ	_	_	18	comp:obj	_	Gloss=que
 21	pwal	pwal	AUX	_	_	22	aux	_	Gloss=FUT
-22	gen	gen	VERB	_	Tense=Pres	20	comp:obj	_	Gloss=avoir
+22	gen	gen	VERB	_	_	20	comp:obj	_	Gloss=avoir
 23	plis	plis	ADJ	_	_	24	mod	_	Gloss=plus
 24	tan	tan	NOUN	_	_	22	comp:obj	_	Gloss=temps
 25	ki	ki	PRON	_	_	26	subj	_	Gloss=qui
-26	pase	pase	VERB	_	Tense=Pres	24	mod@relcl	_	Gloss=passer
+26	pase	pase	VERB	_	_	24	mod@relcl	_	Gloss=passer
 27	anvan	anvan	NOUN	_	_	26	mod	_	Gloss=avant
 28	jan	jan	NOUN	_	_	27	comp:obj	_	Gloss=genre
 29	de	de	ADP	_	_	28	udep	_	Gloss=de
 30	frap	frap	NOUN	_	_	29	comp:obj	_	Gloss=frappe
 31	sa	sa	DET	_	Number=Sing|PronType=Dem	28	det	_	Gloss=DET
 32	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	33	subj	_	Gloss=3PL
-33	fèt	fèt	VERB	_	Tense=Pres	28	mod@relcl	_	Gloss=faire, réaliser|SpaceAfter=No
+33	fèt	fèt	VERB	_	_	28	mod@relcl	_	Gloss=faire, réaliser|SpaceAfter=No
 34	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 18__4
@@ -94,7 +94,7 @@
 # Status = SILVER
 1	Ministè	ministè	NOUN	_	_	3	subj	_	Gloss=ministre
 2	a	a	DET	_	Definite=Def|Number=Sing	1	det	_	Gloss=DET
-3	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
+3	di	di	VERB	_	_	0	root	_	Gloss=dire
 4	LaRisi	Larisi	PROPN	_	_	5	subj	_	Gloss=Russie
 5	bezwen	bezwen	NOUN	_	_	3	comp:obj	_	Gloss=besoin
 6	plis	plis	ADJ	_	_	7	mod	_	Gloss=plus
@@ -102,12 +102,12 @@
 8	«	«	PUNCT	_	_	9	punct	_	_
 9	pou	pou	ADP	_	_	7	udep	_	Gloss=pour
 10	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	11	subj	_	Gloss=3SG
-11	rasanble	rasanble	VERB	_	Tense=Pres	9	comp:obj	_	Gloss=rassembler
+11	rasanble	rasanble	VERB	_	_	9	comp:obj	_	Gloss=rassembler
 12	gwo	gwo	ADJ	_	_	13	mod	_	Gloss=grand
 13	mas	mas	NOUN	_	_	11	comp:obj	_	Gloss=masse
 14	misil	misil	NOUN	_	_	13	comp:obj	_	Gloss=missile
 15	ki	ki	PRON	_	_	16	subj	_	Gloss=qui
-16	fèk	fèk	VERB	_	Tense=Pres	13	mod@relcl	_	Gloss=venir tout juste
+16	fèk	fèk	VERB	_	_	13	mod@relcl	_	Gloss=venir tout juste
 17	soti	soti	ADV	_	_	16	mod	_	Gloss=à peine
 18	dirèkteman	dirèkteman	ADV	_	_	16	mod	_	Gloss=directement
 19	nan	nan	ADP	_	_	16	udep	_	Gloss=dans
@@ -115,12 +115,12 @@
 21	a	a	DET	_	Definite=Def|Number=Sing	20	det	_	Gloss=DET
 22	anvan	anvan	ADP	_	_	16	mod	_	Gloss=avant
 23	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	24	subj	_	Gloss=3SG
-24	gen	gen	VERB	_	Tense=Pres	22	comp:obj	_	Gloss=avoir
+24	gen	gen	VERB	_	_	22	comp:obj	_	Gloss=avoir
 25	ase	ase	ADV	_	_	24	mod	_	Gloss=assez
 26	resous	resous	NOUN	_	_	24	comp:obj	_	Gloss=ressource
 27	pou	pou	ADP	_	_	26	udep	_	Gloss=pour
 28	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	29	subj	_	Gloss=3SG
-29	debòde	debòde	VERB	_	Tense=Pres	27	comp:obj	_	Gloss=déborder
+29	debòde	debòde	VERB	_	_	27	comp:obj	_	Gloss=déborder
 30	kapasite	kapasite	NOUN	_	_	29	comp:obj	_	Gloss=capacité
 31	defans	defans	NOUN	_	_	30	comp:obj	_	Gloss=défense
 32	aeryen	aeryen	ADJ	_	_	31	mod	_	Gloss=aérienne
@@ -134,7 +134,7 @@
 # Status = SILVER
 1	LaRisi	Larisi	PROPN	_	_	3	subj	_	Gloss=Russie
 2	te	te	AUX	_	_	3	aux	_	Gloss=PAST
-3	lanse	lanse	VERB	_	Tense=Pres	0	root	_	Gloss=lancer
+3	lanse	lanse	VERB	_	_	0	root	_	Gloss=lancer
 4	yon	yon	DET	_	Definite=Ind|Number=Sing	5	det	_	Gloss=DET
 5	pakèt	pakèt	NOUN	_	_	3	comp:obj	_	Gloss=paquet
 6	atak	atak	NOUN	_	_	5	comp:obj	_	Gloss=attaque
@@ -146,14 +146,14 @@
 12	,	,	PUNCT	_	_	15	punct	_	_
 13	kote	kote	PRON	_	_	15	mod	_	Gloss=où
 14	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	15	subj	_	Gloss=3SG
-15	touye	touye	VERB	_	Tense=Pres	10	mod@relcl	_	Gloss=tuer
+15	touye	touye	VERB	_	_	10	mod@relcl	_	Gloss=tuer
 16	pou	pou	ADP	_	_	15	mod	_	Gloss=pour
 17	pi	pi	ADV	_	_	18	mod	_	Gloss=au moins
 18	piti	piti	VERB	_	_	16	comp:obj	_	Gloss=petit
 19	6	6	NUM	_	_	20	det	_	Gloss=6
 20	moun	moun	NOUN	_	_	15	comp:obj	_	Gloss=personne
 21	e	e	CCONJ	_	_	22	cc	_	Gloss=et
-22	kite	kite	VERB	_	Tense=Pres	15	conj:coord	_	Gloss=quitter
+22	kite	kite	VERB	_	_	15	conj:coord	_	Gloss=quitter
 23	dè	dè	ADP	_	_	22	udep	_	Gloss=des
 24	milye	milye	NOUN	_	_	23	comp:obj	_	Gloss=milliers
 25	san	san	ADP	_	_	22	udep	_	Gloss=sans
@@ -199,7 +199,7 @@
 31	yon	yon	DET	_	Definite=Ind|Number=Sing	32	det	_	Gloss=DET
 32	pousantaj	pousantaj	NOUN	_	_	30	comp:obj	_	Gloss=pourcentage
 33	pi	pi	ADV	_	_	34	mod	_	Gloss=au minimum
-34	piti	piti	ADV	_	_	32	mod	_	_
+34	piti	piti	ADJ	_	_	32	mod	_	Gloss=petit
 35	lontan	lontan	ADV	_	_	34	mod	_	Gloss=longtemps
 36	pase	pase	NOUN	_	_	35	comp:obj	_	Gloss=passé
 37	sa	sa	PRON	_	Number=Sing|PronType=Dem	36	det	_	_
@@ -227,7 +227,7 @@
 2	Defans	defans	NOUN	_	_	1	comp:obj	_	Gloss=défense
 3	ris	ris	ADJ	_	_	1	mod	_	Gloss=russe
 4	la	la	DET	_	Definite=Def|Number=Sing	1	det	_	Gloss=DET
-5	di	di	VERB	_	Tense=Pres	0	root	_	Gloss=dire
+5	di	di	VERB	_	_	0	root	_	Gloss=dire
 6	frap	frap	NOUN	_	_	8	subj	_	Gloss=frappe
 7	yo	yo	DET	_	Definite=Def|Number=Plur	6	det	_	Gloss=DET
 8	se	se	VERB	_	_	5	comp:obj	_	Gloss=être|SpaceAfter=No|wordform=sete
@@ -239,7 +239,7 @@
 14	atak	atak	NOUN	_	_	12	comp:obj	_	Gloss=attaque
 15	ki	ki	PRON	_	_	17	subj	_	Gloss=qui
 16	te	te	AUX	_	_	17	aux	_	Gloss=PAST
-17	fèt	fèt	VERB	_	Tense=Past	14	mod@relcl	_	Gloss=faire
+17	fèt	fèt	VERB	_	_	14	mod@relcl	_	Gloss=faire
 18	lòt	lòt	ADJ	_	_	19	mod	_	Gloss=autre
 19	jou	jou	NOUN	_	_	17	mod	_	Gloss=jour
 20	la	la	DET	_	Definite=Def|Number=Sing	19	det	_	Gloss=DET
@@ -253,7 +253,7 @@
 28	,	,	PUNCT	_	_	17	punct	_	_
 29	e	e	CCONJ	_	_	31	cc	_	Gloss=et
 30	ki	ki	PRON	_	_	31	subj	_	Gloss=qui
-31	se	se	VERB	_	Tense=Pres	17	conj:coord	_	Gloss=être|SpaceAfter=No
+31	se	se	VERB	_	_	17	conj:coord	_	Gloss=être|SpaceAfter=No
 32	,	,	PUNCT	_	_	31	punct	_	_
 33	dapre	dapre	ADP	_	_	31	mod	_	Gloss=d'après
 34	Moskou	Moskou	PROPN	_	_	33	comp:obj	_	Gloss=Moscou|SpaceAfter=No
@@ -276,7 +276,7 @@
 4	an	an	DET	_	Definite=Def|Number=Sing	3	det	_	Gloss=DET
 5	e	e	CCONJ	_	_	7	cc	_	Gloss=et
 6	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	7	subj	_	Gloss=3SG
-7	di	di	VERB	_	Tense=Pres	2	conj:coord	_	_
+7	di	di	VERB	_	Tense=Pres	2	conj:coord	_	Gloss=dire
 8	ke	ke	SCONJ	_	_	7	comp:obj	_	Gloss=que
 9	Moskou	Moskou	PROPN	_	_	10	subj	_	Gloss=Moscou
 10	ka	ka	VERB	_	Tense=Pres	8	comp:obj	_	Gloss=pouvoir
