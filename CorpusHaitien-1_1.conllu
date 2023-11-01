@@ -471,7 +471,7 @@
 11	tèt	tèt	NOUN	_	_	10	comp:obj	_	Gloss=tête
 12	mwen	mwen	DET	_	Number=Sing|Person=1|Poss=Yes	11	det	_	Gloss=DET
 13	se	se	AUX	_	_	0	root	_	Gloss=être
-14	te	te	AUX	_	Tense=Past	13	aux	_	Gloss=PAST
+14	te	te	AUX	_	Tense=Past	16	aux	_	Gloss=PAST
 15	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
 16	ale	ale	VERB	_	_	13	comp:pred	_	Gloss=aller
 17	nan	nan	ADP	_	_	16	udep	_	Gloss=dans
