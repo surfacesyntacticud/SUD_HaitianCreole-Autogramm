@@ -1,7 +1,6 @@
 # sent_id = 11__1
 # text = Meksik Arete 5 Moun an Koneksyon ak Dife ki Pete nan Sant pou Migran an
 # text_fr = Mexique arrête 5 personnes en rapport avec l'incendie qui a éclaté dans le centre du migrant
-# Status = SILVER
 1	Meksik	meksik	NOUN	_	_	2	subj	_	Gloss=Mexique
 2	Arete	arete	VERB	_	_	0	root	_	Gloss=arrêter
 3	5	5	NUM	_	_	4	det	_	Gloss=5
@@ -21,7 +20,6 @@
 # sent_id = 11__2
 # text = Otorite meksiken arete 5 moun pou swadizan koneksyon yo ak yon dife ki te pete nan yon sant meksiken ki kenbe migran, kote 30 migran pèdi lavi yo.
 # text_fr = L'autorité mexicaine arrête 5 personnes pour leur soi-disant connexion avec l'incendie qui a éclaté dans un centre mexicain qui accueille les migrants, où 30 migrants perdent leur vie
-# Status = SILVER
 1	Otorite	otorite	NOUN	_	_	3	subj	_	Gloss=autorité
 2	meksiken	meksiken	ADJ	_	_	1	mod	_	Gloss=mexicaine
 3	arete	arete	VERB	_	_	0	root	_	Gloss=arrêter
@@ -56,7 +54,6 @@
 # sent_id = 11__3
 # text = Anons arestasyon an fèt jedi, yon jou apre minis jistis Meksik la te anonse yon ankèt sou ansasinay nan kesyon dife a, apre yon video siveyans sanble moutre gad sekirite ki pa te fè anyen pou ede migran yo chape poul yo lè dife t ap anvayi selil kote yo te fèmen.
 # text_fr = L'annonce de l'arrestation est publiée jeudi, un jour après que le ministre de la justice de Mexique a annoncé une enquête sur l'assassinat dans la question de l'incendie, après qu'une vidéo de surveillance semble montrer l'agent de sécurité qui n'a rien fait pour aider les migrants à sauver leur peau quand l'incendie avait envahi la salle où ils ont été fermés.
-# Status = SILVER
 1	Anons	anons	NOUN	_	_	4	subj	_	Gloss=annonce
 2	arestasyon	arestasyon	NOUN	_	_	1	comp:obj	_	Gloss=arrestation
 3	an	an	DET	_	Definite=Def|Number=Sing	2	det	_	Gloss=l'

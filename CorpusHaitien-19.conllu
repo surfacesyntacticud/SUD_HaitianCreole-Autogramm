@@ -1,7 +1,6 @@
 # sent_id = 19__1
 # text = Anpil Ikrenyen Pa Konn sa pou yo Fè Akoz Pèmisyon yo te Genyen pou Rete nan Etazini Ekspire
 # text_fr = beaucoup d'ukrainiens ne savent pas ce qu'il faut faire à cause leur permis qu'il avait pour rester aux Etats-Unis est expiré.
-# Status = SILVER
 1	Anpil	anpil	ADV	_	_	2	mod	_	Gloss=beaucoup
 2	Ikrenyen	ikrenyen	NOUN	_	_	4	subj	_	Gloss=ukrainien
 3	Pa	pa	ADV	_	Polarity=Neg	4	mod	_	Gloss=NEG
@@ -24,7 +23,6 @@
 # sent_id = 19__2
 # text = SAN DIEGO (AP) — Plis pase 20,000 Ikrenyen ki te jwenn pèmisyon pou yo rete sou teritwa ameriken an pou yon ane, apre yo te kouri kite peyi yo akoz envazyon Larisi te lanse lakay yo, yo ap fè fas gwo pwoblèm akoz Pwogram Pawòl imanitè ki ekpire pou yo.
 # text_fr = San Diego,  plus que 20 000 ukrainiens qui trouvaient leur permis pour qu'ils restent  sur le territoire américain pour une année, après qu'ils ont couru de quitter leur pays à cause de l'invasion que la Russie avait lancé  chez eux.  Ils font face à une grande difficulté à cause du programme humanitaire qui est expiré pour  eux.
-# Status = SILVER
 1	SAN	San	PROPN	_	_	43	unk	_	Gloss=San
 2	DIEGO	Diego	PROPN	_	_	1	flat@name	_	Gloss=Diego
 3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
@@ -84,7 +82,6 @@
 # sent_id = 19__3
 # text = Moun ki ap defann imigran sa yo di ke administrasyon Biden nan enfòme yo ke li ap travay pou ranje sitiyasyon an, men ke li pa di ki sa moun yo ka fè pou yo pwolonje estati yo, ki mache ak avantaj tankou èd lòjman ak koupon manje, ki rele ann angle “Food Stamps”.
 # text_fr = La personne qui défend ces migrants disent que l'administration de Biden les informe qu'elle travaille arranger la situation, mais elle n'a pas dit  ce qu'ils peuvent faire pour changer leur statut, qui marche avec des avantages tels que des aides au logement,  kit  alimentaire,  qui s'appelle en anglais Food Stamps.
-# Status = SILVER
 1	Moun	moun	NOUN	_	_	8	subj	_	Gloss=personne
 2	ki	ki	PRON	_	_	4	subj	_	Gloss=qui
 3	ap	ap	AUX	_	Aspect=Prog	4	aux	_	Gloss=PROG
@@ -148,7 +145,6 @@
 
 # sent_id = 19__4
 # text = Pifò Ikrenyen te jwenn otorizasyon pou yo patisipe nan pwogram imanitè sa pou yon ane apre yo te fin travèse fwontyè Etazini ak Meksik pandan kèk mwa lè lagè a te koumanse.
-# Status = SILVER
 # text_fr = la majorité des ukrainiens ont trouvé l'autorisation pour participer à ce programme humanitaire pour une année après qu'ils ont fini de traverser la frontière des Etats-Unis avec le Mexique pendant quelques mois quand la guerre avait commencé.
 1	Pifò	Pifò	NOUN	_	_	2	mod	_	Gloss=majorité
 2	Ikrenyen	Ikrenyen	PROPN	_	_	4	subj	_	Gloss=ukrainien
@@ -187,7 +183,6 @@
 # sent_id = 19__5
 # text = Anpil moun di ensètitid la ba yo tèt-chaje.
 # text_fr = beaucoup de gens disent que l'incertitude leur donne du problème.
-# Status = SILVER
 1	Anpil	anpil	ADV	_	_	2	mod	_	Gloss=beaucoup
 2	moun	moun	NOUN	_	_	3	subj	_	Gloss=gens, personne
 3	di	di	VERB	_	_	0	root	_	Gloss=dire

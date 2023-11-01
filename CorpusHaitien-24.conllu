@@ -1,7 +1,6 @@
 # sent_id = 24__1
 # text = Yon pòt pawòl Depatman d Eta deklare Samdi, gouvènman Ameriken an o kouran de rapò ki di kòm kwa gen 2 sitwayen Ameriken ki disparèt an Ayiti, apre laprès nan eta Florid rapòte yo kidnape yon koup.
 # text_fr = Un porte-parole du département d'Etat américain déclare samedi, que le gouvernement est au courant du rapport qui dit comme quoi qu'il y a deux citoyens américains qui sont disparus en Haïti , après que la presse dans l'Etat Floride rapporte qu'ils ont kidnappé un couple.
-# Status = SILVER
 1	Yon	Yon	DET	_	Definite=Ind|Number=Sing	2	det	_	Gloss=Un
 2	pòt	pòt	NOUN	_	_	7	subj	_	Gloss=porte
 3	pawòl	pawòl	NOUN	_	_	2	comp:obj	_	Gloss=parole
@@ -46,7 +45,6 @@
 # sent_id = 24__2
 # text = Abigail Toussaint ak Jean-Dickens Toussaint, 33 zan, disparèt nan Pòtoprens e gang yo kenbe yo depi plizyè jou, dapre yon petisyon yon dam ki di li sa fanmi koup la pibliye sou entènèt.
 # text_fr = Abigail Toussaint et Jean-Dickens Toussaint, 33 ans, ont disparu à Port-au-Prince et les gangs qui les capturent depuis plusieurs jours, d'après une pétition d'une dame qui lui a dit ce que la famille du couple a publié sur internet.
-# Status = SILVER
 1	Abigail	Abigail	PROPN	_	_	10	subj	_	Gloss=abigail
 2	Toussaint	Toussaint	PROPN	_	_	1	flat@name	_	Gloss=toussaint
 3	ak	ak	CCONJ	_	_	4	cc	_	Gloss=et
@@ -88,7 +86,6 @@
 # sent_id = 24__3
 # text = Koup la tap vizite fanmi yo an Ayiti epi asiste yon festival lè yo te kidnape yo nan yon otobis, dapre sa yon manm fanmi yo di CNN.
 # text_fr = Le couple visitait leur famille en Haïti et assistait à un festival quand ils les ont kidnappés dans un autobus, d'après ce qu'un membre de leur famille a dit à CNN.
-# Status = SILVER
 1	Koup	Koup	NOUN	_	_	5	subj	_	Gloss=couple
 2	la	la	DET	_	Definite=Def|Number=Sing	1	det	_	Gloss=le
 3	t	te	AUX	_	Tense=Past	5	aux	_	Gloss=PAST|SpaceAfter=No
@@ -124,7 +121,6 @@
 # sent_id = 24__4
 # text = Pòtpawòl Depatman d Eta di: "Nou o kouran de rapò ki di gen 2 sitwayen Ameriken ki disparèt an Ayiti.
 # text_fr = Le porte du département d'Etat dit: "Nous sommes au courant du rapport qui dit qu'il y a deux citoyens américains qui ont disparus en Haïti.
-# Status = SILVER
 1	Pòtpawòl	Pòtpawòl	NOUN	_	_	5	subj	_	Gloss=Porte parole
 2	Depatman	Depatman	NOUN	_	_	1	comp:obj	_	Gloss=département
 3	d	de	NOUN	_	Typo=Yes	2	comp:obj	_	Gloss=d'Etat
@@ -152,7 +148,6 @@
 # sent_id = 24__5
 # text = Lè yon sitwayen Ameriken disparèt, nou travay sere-sere ak otorite lokal yo pandan yap chache moun sa yo e nou pataje enfòmasyon ak fanmi yo nempòt kijan nou kapab."
 # text_fr = Quand un citoyen américain disparait, nous travaillons étroitement avec les autorités locales pendant qu'ils cherchent ces gens et nous partageons des informations avec leur famille  n'importe quelle façon dont nous pouvons.
-# Status = SILVER
 1	Lè	Lè	ADV	_	_	8	mod	_	Gloss=Quand
 2	yon	yon	DET	_	Definite=Ind|Number=Sing	3	det	_	Gloss=un
 3	sitwayen	sitwayen	NOUN	_	_	5	subj	_	Gloss=citoyen
@@ -189,7 +184,6 @@
 # sent_id = 24__6
 # text = Yon pòt pawòl polis nasyonal Ayiti pat reponn demann Reuters te fè pou kòmantè.
 # text_fr = Un porte-parole de la police nationale d'Haïti n'avait pas répondu à la demande que Reuters  avait fait pour le commentaire.
-# Status = SILVER
 1	Yon	Yon	DET	_	Definite=Ind|Number=Sing	2	det	_	Gloss=Un
 2	pòt	pòt	NOUN	_	_	9	subj	_	Gloss=porte
 3	pawòl	pawòl	NOUN	_	_	2	comp:obj	_	Gloss=parole
@@ -210,7 +204,6 @@
 # sent_id = 24__7
 # text = Gang yo nan peyi d Ayiti ogmante pouvwa yo depi asasina Prezidan Jovenel Moise an 2021.
 # text_fr = Les gangs dans le pays d'Haïti augmentent leur pouvoir depuis l'assassinat du Président Jovenel Moise en 2021.
-# Status = SILVER
 1	Gang	Gang	NOUN	_	_	7	subj	_	Gloss=Gangs
 2	yo	yo	DET	_	Definite=Def|Number=Plur	1	det	_	Gloss=les
 3	nan	nan	ADP	_	_	7	mod	_	Gloss=dans
@@ -232,7 +225,6 @@
 # sent_id = 24__8
 # text = Kounyea yon kontwole yon gwo pòsyon kapital la ak pwovens yo.
 # text_fr = Maintenant, ils contrôlent une grande partie de la capitale et les provinces.
-# Status = SILVER
 1	Kounyea	Kounyea	ADV	_	_	3	mod	_	Gloss=Mantenant
 2	yon	yon	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj	_	Gloss=3PL
 3	kontwole	kontwole	VERB	_	_	0	root	_	Gloss=contrôler
@@ -249,7 +241,6 @@
 # sent_id = 24__9
 # text = Ensekirite a dejenere pi plis pandan mwa ki pase yo kote gang yo antre nan lese frape ak lapolis.
 # text_fr = L'insécurité dégénère beaucoup plus pendant les mois qui sont écoulés où les gangs se battent contre la police.
-# Status = SILVER
 1	Ensekirite	Ensekirite	NOUN	_	_	3	subj	_	Gloss=Insécurité
 2	a	a	DET	_	Definite=Def|Number=Sing	1	det	_	Gloss=l'
 3	dejenere	dejenere	VERB	_	_	0	root	_	Gloss=dégénérer
@@ -274,7 +265,6 @@
 # sent_id = 24__10
 # text = Batay ant gang yo pou kontwòl teritwa lakoz anpil san koule epi plizyè santèn milye moun oblije kouri kite kay yo.
 # text_fr = La lutte entre les gangs pour le contrôle des territoires  a fait couler beaucoup de sang et plusieurs  centaines de gens sont obligés de courir en laissant leur maison.
-# Status = SILVER
 1	Batay	Batay	NOUN	_	_	8	subj	_	Gloss=Lutte
 2	ant	ant	ADP	_	_	1	udep	_	Gloss=entre
 3	gang	gang	NOUN	_	_	2	comp:obj	_	Gloss=gangs
@@ -301,7 +291,6 @@
 # sent_id = 24__11
 # text = Gen 17 misyonè ki moun Etazini ak Kanada ke yon gang te kenbe pou ranson an 2021 pandan yo tap travay pou Christian Aid Ministries ki gen katye jeneral li nan eta Ohio nan sant wès Etazini.
 # text_fr = Il y a 17 missionnaires qui sont des américains et canadiens  qu'un gang a capturé pour de l'argent en 2021 pendant qu'ils étaient en train de travailler pour Christian Aid Ministrie qui a son quartier général dans l'Etat Ohio dans le  centre Ouest des Etats-Unis.
-# Status = SILVER
 1	Gen	Gen	VERB	_	_	0	root	_	Gloss=Avoir
 2	17	17	NUM	_	_	3	det	_	Gloss=17
 3	misyonè	misyonè	NOUN	_	_	1	comp:obj	_	Gloss=missionnaire

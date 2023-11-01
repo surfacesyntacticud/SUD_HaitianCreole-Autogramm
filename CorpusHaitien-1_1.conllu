@@ -1,6 +1,5 @@
 # sent_id = 01__1
 # text = Premye jou je m tonbe sou li a, m pat gen okenn presantiman lavi m ta pral chanje.
-# Status = SILVER
 # text_fr = Le premier jour que mes yeux tombent sur lui, je n'avais aucun présentiment que ma vie changerait.
 1	Premye	premye	ADJ	_	_	2	mod	_	Gloss=premier
 2	jou	jou	NOUN	_	_	13	mod	_	Gloss=jour
@@ -26,7 +25,6 @@
 
 # sent_id = 01__2
 # text = Jou sa lapli te kòmanse tonbe depi nan maten.
-# Status = SILVER
 # text_fr = Ce jour là, il commençait à pleuvoir dans la matinée.
 1	Jou	jou	NOUN	_	_	5	mod	_	Gloss=jour
 2	sa	sa	DET	_	PronType=Dem	1	mod	_	Gloss=DET
@@ -42,7 +40,6 @@
 # sent_id = 01__3
 # text = Yon fwa lè m te piti, m te anvi bwè dlo lapli a nan flè yo epi m te wè yon foumi ki mouri ladann.
 # text_fr = une fois quand j'étais petit, j'avais envie de boire de l'eau de pluie dans les fleurs et j'ai vu une fourmi qui y noyait (mourir).
-# Status = SILVER
 1	Yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	2	det	_	Gloss=un
 2	fwa	fwa	NOUN	_	_	10	mod	_	Gloss=fois
 3	lè	lè	SCONJ	_	_	10	mod	_	Gloss=quand
@@ -73,7 +70,6 @@
 
 # sent_id = 01__4
 # text = Yon ti souri parèt sou lèv mwen.
-# Status = SILVER
 # text_fr = un petit sourire apparait sur mes lèvres.
 1	Yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	3	det	_	Gloss=un
 2	ti	ti	ADJ	_	_	3	mod	_	Gloss=petit
@@ -87,7 +83,6 @@
 # sent_id = 01__5
 # text = M te krache nan dlo a, manman m te fache paske, pou li, se te yon vye konpòtman.
 # text_fr = je crachais dans l'eau, ma maman était fâchée parce que, pou elle,  c'était un mauvais comportement.
-# Status = SILVER
 1	M	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj	_	Gloss=1SG
 2	te	te	AUX	_	Tense=Past	3	aux	_	Gloss=PAST
 3	krache	krache	VERB	_	_	0	root	_	Gloss=cracher
@@ -114,7 +109,6 @@
 # sent_id = 01__6
 # text = Sa pase lontan sa.
 # text_fr = Cela s'est passé depuis longtemps.
-# Status = SILVER
 1	Sa	sa	PRON	_	Number=Sing|PronType=Dem	2	subj	_	Gloss=cela
 2	pase	pase	VERB	_	_	0	root	_	Gloss=passer
 3	lontan	lontan	ADV	_	_	2	mod	_	Gloss=longtemps
@@ -124,7 +118,6 @@
 # sent_id = 01__7
 # text = M te chita sou yon chèz devan pòt klas la nan Fakilte Lenguistik, m t ap pale ak lòt kamarad mwen yo de maryaj yon sè m mwen t ale nan Petyonvil, epi n te tou pwofite pale de amitye nou lè n te piti.
 # text_fr = je m'asseyais sur une chaise devant la porte de la classe dans la Faculté de Linguistique, je parlais à mes camarades du mariage de ma sœur que j'allais à Pétion-Ville, puis nous avions profité de notre amitié  quand  nous  étions petits.
-# Status = SILVER
 1	M	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj	_	Gloss=1SG
 2	te	te	AUX	_	Tense=Past	3	aux	_	Gloss=PAST
 3	chita	chita	VERB	_	_	0	root	_	Gloss=s'assoir
@@ -177,7 +170,6 @@
 # sent_id = 01__8
 # text = Fòk m di nou, m gen 2 gran frè ak yon ti sè bò manman epi plizyè gran sè ak yon ti frè bò papa...
 # text_fr = il faut que je vous dise que j'ai 2 grands frères  et une sœur maternels et un petit frère paternel
-# Status = SILVER
 1	Fòk	Fòk	VERB	_	_	0	root	_	Gloss=falloir
 2	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj	_	Gloss=1SG
 3	di	di	VERB	_	_	1	comp:obj	_	Gloss=dire
@@ -209,7 +201,6 @@
 # sent_id = 01__9
 # text = Pandan je m fèmen, m t ap panse ak sa k te rive m nan pase, se lè sa m tande pòt klas la ouvè.
 # text_fr = Pendant que mes yeux sont fermés, j'étais en train de penser à ce qui m'est arrivé dans le passé , c'est à ce moment que j'entend la porte de la classe s'ouvre.
-# Status = SILVER
 1	Pandan	Pandan	ADP	_	_	9	mod	_	Gloss=pendant
 2	je	je	NOUN	_	_	4	subj	_	Gloss=yeux
 3	m	mwen	DET	_	Number=Sing|Person=1|Poss=Yes	2	det	_	Gloss=DET
@@ -242,7 +233,6 @@
 # sent_id = 01__10
 # text = Menm moman an, tout moun fè silans.
 # text_fr = le même moment, tout le monde fait silence.
-# Status = SILVER
 1	Menm	menm	ADJ	_	_	2	mod	_	Gloss=même
 2	moman	moman	NOUN	_	_	7	mod	_	Gloss=moment
 3	an	an	DET	_	Definite=Def|Number=Sing	2	det	_	Gloss=le|SpaceAfter=No
@@ -255,7 +245,6 @@
 
 # sent_id = 01__11
 # text = Mwen m toujou ret je fèmen epi tèt mwen bese sou biwo a.
-# Status = SILVER
 # text_fr = Moi , j''e reste toujours aux yeux fermés et ma tête baisse sur le bureau.
 1	Mwen	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	4	dislocated	_	Gloss=1SG
 2	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	4	subj	_	Gloss=1SG
@@ -275,7 +264,6 @@
 # sent_id = 01__12
 # text = "Bonswa, m ka fè yon ti pale pandan kèk minit ak nou si sa p ap deranje n?"
 # text_fr = bonsoir, je peux faire un petit échange pendant quelques minutes avec vous si ça vous dérange pas?
-# Status = SILVER
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Bonswa	Bonswa	INTJ	_	_	0	root	_	Gloss=bonsoir|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
@@ -301,7 +289,6 @@
 # sent_id = 01__13
 # text = Mwen santi yon frison vyolan pran m nan tout kò m lè m ouvè je m pou m gade moun ki pale a mwen wè se yon jennon m wo ak tout souri sou lèv li ki te rantre epi l kanpe.
 # text_fr = je sens un violent frisson qui me traverse dans tout mon corps quand j'ouvre mes yeux pour que je regarde la personne qui parle, je vois que c'est jeune homme haut avec tout un sourire sur ses lèvres qui rentrait puis il se tenait débout.
-# Status = SILVER
 1	Mwen	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj	_	Gloss=1SG
 2	santi	santi	VERB	_	_	0	root	_	Gloss=sentir
 3	yon	yon	DET	_	Definite=Ind|Number=Sing	4	det	_	Gloss=DET
@@ -349,7 +336,6 @@
 # sent_id = 01__14
 # text = Li pa t lòt ke yon enkoni ki te nan dezyèm ane a.
 # text_fr = Il n'est autre qu'un inconnu qui était dans la deuxième année.
-# Status = SILVER
 1	Li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	4	subj	_	Gloss=3SG
 2	pa	pa	ADV	_	Polarity=Neg	4	mod	_	Gloss=NEG
 3	t	te	AUX	_	Tense=Past	4	aux	_	Gloss=PAST
@@ -368,7 +354,6 @@
 # sent_id = 01__15
 # text = "Wi, avanse non mesye," klas la reponn.
 # text_fr = Oui, "avancez monsieur," la classe a répondu.
-# Status = SILVER
 1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
 2	Wi	wi	INTJ	_	_	4	discourse	_	Gloss=oui|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -384,7 +369,6 @@
 # sent_id = 01__16
 # text = Pawòl li yo t ap repete nan tèt mwen chak fwa m gade l.
 # text_fr = ses paroles remontaient dans ma tête à chaque que fois je lui regarde .
-# Status = SILVER
 1	Pawòl	Pawòl	NOUN	_	_	6	subj	_	Gloss=parole
 2	li	li	DET	_	Number=Sing|Person=3|Poss=Yes	1	det	_	Gloss=3SG
 3	yo	yo	DET	_	Number=Plur|Person=3|Poss=Yes	1	det	_	Gloss=3PL
@@ -404,7 +388,6 @@
 # sent_id = 01__17
 # text = Non jennonm sa se Claudy...
 # text_fr = Le nom de ce jeune homme est Claudy.
-# Status = SILVER
 1	Non	non	NOUN	_	_	4	subj	_	Gloss=nom
 2	jennonm	jennonm	NOUN	_	_	1	comp:obj	_	Gloss=jeune homme
 3	sa	sa	DET	_	Number=Sing|PronType=Dem	2	det	_	Gloss=ce
@@ -415,7 +398,6 @@
 # sent_id = 01__18
 # text = Aprè kèk mwa nou rantre nan Fakilte Lengwistik Aplike a, li te vin envite n nan fèt li t ap òganize nan mwa desanm pou klas li a (paske se li ki te prezidan).
 # text_fr = Après quelques nous rentrons à la Faculté de Linguistique Appliquée, il nous a invité à une fête qu'il organisait au mois de décembre pour sa  promotion (parce c'est lui qui était le président)
-# Status = SILVER
 1	Aprè	aprè	ADV	_	_	14	mod	_	Gloss=après
 2	kèk	kèk	DET	_	_	3	det	_	Gloss=quelques
 3	mwa	mwa	NOUN	_	_	1	comp:obj	_	Gloss=mois
@@ -457,7 +439,6 @@
 # sent_id = 01__19
 # text = Yon sèl kou a, sèl panse ki monte nan tèt mwen se te "ale nan fèt la" pou m te ka wè l ankò.
 # text_fr = D'un coup, la seule chose qui m'est montée dans la tête était "d'aller à la fête" afin de le  voir à nouveau.
-# Status = SILVER
 1	Yon	yon	DET	_	_	3	det	_	Gloss=un
 2	sèl	sèl	ADJ	_	_	3	mod	_	Gloss=seul
 3	kou	kou	NOUN	_	_	13	mod	_	Gloss=coup
@@ -490,7 +471,6 @@
 # sent_id = 01__20
 # text = Je l ak cheve l yo te atire m anpil.
 # text_fr = Ses yeux et ses cheveux m'ont beaucoup attiré.
-# Status = SILVER
 1	Je	je	NOUN	_	_	8	subj	_	Gloss=yeux
 2	l	li	DET	_	Poss=Yes|PronType=Prs	1	det	_	Gloss=3SG
 3	ak	ak	CCONJ	_	_	4	cc	_	Gloss=et
