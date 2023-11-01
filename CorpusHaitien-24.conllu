@@ -91,8 +91,8 @@
 # Status = SILVER
 1	Koup	Koup	NOUN	_	_	5	subj	_	Gloss=couple
 2	la	la	DET	_	Definite=Def|Number=Sing	1	det	_	Gloss=le
-3	t	te	AUX	_	_	5	aux	_	Gloss=PAST|SpaceAfter=No
-4	ap	ap	AUX	_	_	5	aux	_	Gloss=PROG
+3	t	te	AUX	_	Tense=Past	5	aux	_	Gloss=PAST|SpaceAfter=No
+4	ap	ap	AUX	_	Aspect=Prog	5	aux	_	Gloss=PROG
 5	vizite	vizite	VERB	_	_	0	root	_	Gloss=visiter
 6	fanmi	fanmi	NOUN	_	_	5	comp:obj	_	Gloss=famille
 7	yo	yo	DET	_	Number=Sing|Person=3|Poss=Yes	6	det	_	Gloss=DET
@@ -104,7 +104,7 @@
 13	festival	festival	NOUN	_	_	11	comp:obj	_	Gloss=festival
 14	lè	lè	SCONJ	_	_	11	mod	_	Gloss=quand
 15	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	17	subj	_	Gloss=PRON
-16	te	te	AUX	_	_	17	aux	_	Gloss=PAST
+16	te	te	AUX	_	Tense=Past	17	aux	_	Gloss=PAST
 17	kidnape	kidnape	VERB	_	_	14	comp:obj	_	Gloss=kidnapper
 18	yo	yo	PRON	_	Definite=Def|Number=Plur	17	comp:obj	_	Gloss=les
 19	nan	nan	ADP	_	_	17	udep	_	Gloss=dans
@@ -168,7 +168,7 @@
 13	yo	yo	DET	_	Definite=Def|Number=Plur	11	det	_	Gloss=les
 14	pandan	pandan	ADP	_	_	8	mod	_	Gloss=pendant
 15	y	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	17	subj	_	Gloss=3PL|SpaceAfter=No
-16	ap	ap	AUX	_	_	17	aux	_	Gloss=PROG|wordform=yap
+16	ap	ap	AUX	_	Aspect=Prog	17	aux	_	Gloss=PROG|wordform=yap
 17	chache	chache	VERB	_	_	14	comp:obj	_	Gloss=chercher
 18	moun	moun	NOUN	_	_	17	comp:obj	_	Gloss=gens
 19	sa	sa	DET	_	PronType=Dem	18	mod	_	Gloss=DET
@@ -196,12 +196,12 @@
 4	polis	polis	NOUN	_	_	3	comp:obj	_	Gloss=police
 5	nasyonal	nasyonal	ADJ	_	_	4	mod	_	Gloss=nationale
 6	Ayiti	Ayiti	PROPN	_	_	4	mod	_	Gloss=Haïti
-7	pa	pa	ADV	_	_	9	mod	_	Gloss=NEG|SpaceAfter=No
-8	t	te	AUX	_	_	9	aux	_	Gloss=PAST
+7	pa	pa	ADV	_	Polarity=Neg	9	mod	_	Gloss=NEG|SpaceAfter=No
+8	t	te	AUX	_	Tense=Past	9	aux	_	Gloss=PAST
 9	reponn	reponn	VERB	_	_	0	root	_	Gloss=répondre
 10	demann	demann	NOUN	_	_	9	comp:obl	_	Gloss=demande
 11	Reuters	Reuters	PROPN	_	_	13	subj	_	Gloss=Reuters
-12	te	te	AUX	_	_	13	aux	_	Gloss=PAST
+12	te	te	AUX	_	Tense=Past	13	aux	_	Gloss=PAST
 13	fè	fè	VERB	_	_	10	mod@relcl	_	Gloss=faire
 14	pou	pou	ADP	_	_	13	udep	_	Gloss=pour
 15	kòmantè	kòmantè	NOUN	_	_	14	comp:obj	_	Gloss=commentaire|SpaceAfter=No
@@ -313,7 +313,7 @@
 9	ke	ke	PRON	_	_	13	comp:obj	_	Gloss=que
 10	yon	yon	DET	_	_	11	det	_	Gloss=un
 11	gang	gang	NOUN	_	_	13	subj	_	Gloss=gang
-12	te	te	AUX	_	_	13	aux	_	Gloss=PAST
+12	te	te	AUX	_	Tense=Past	13	aux	_	Gloss=PAST
 13	kenbe	kenbe	VERB	_	_	5	mod@relcl	_	Gloss=capturer
 14	pou	pou	ADP	_	_	13	udep	_	Gloss=pour
 15	ranson	ranson	NOUN	_	_	14	comp:obj	_	Gloss=raison
@@ -321,8 +321,8 @@
 17	2021	2021	NUM	_	_	16	comp:obj	_	Gloss=2021
 18	pandan	pandan	ADP	_	_	13	mod	_	Gloss=pendant
 19	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	22	subj	_	Gloss=3PL
-20	t	te	AUX	_	_	22	aux	_	Gloss=PAST|SpaceAfter=No
-21	ap	ap	AUX	_	_	22	aux	_	Gloss=PROG
+20	t	te	AUX	_	Tense=Past	22	aux	_	Gloss=PAST|SpaceAfter=No
+21	ap	ap	AUX	_	Aspect=Prog	22	aux	_	Gloss=PROG
 22	travay	travay	VERB	_	_	18	comp:obj	_	Gloss=travailler
 23	pou	pou	ADP	_	_	22	udep	_	Gloss=pour
 24	Christian	Christian	PROPN	_	_	23	comp:obj	_	Gloss=Christian

@@ -13,7 +13,7 @@
 9	yon	yon	DET	_	Definite=Ind|Number=Sing	10	det	_	_
 10	Rankont	rankont	NOUN	_	_	8	comp:obj	_	Gloss=rencontre
 11	li	li	PRON	_	Number=Sing|Person=3|Poss=Yes	13	subj	_	Gloss=3SG
-12	Pral	pral	AUX	_	_	13	aux	_	Gloss=FUT
+12	Pral	pral	AUX	_	Tense=Fut	13	aux	_	Gloss=FUT
 13	Fè	fè	VERB	_	_	10	mod@relcl	_	Gloss=faire
 14	ak	ak	ADP	_	_	13	udep	_	Gloss=avec
 15	Responsab	responsab	NOUN	_	_	14	comp:obj	_	Gloss=responsable
@@ -80,7 +80,7 @@
 12	prezidan	prezidan	NOUN	_	_	16	subj	_	Gloss=président
 13	Taiwan	taiwan	PROPN	_	_	12	mod	_	Gloss=Taiwan
 14	nan	nan	DET	_	Definite=Def|Number=Sing	12	det	_	Gloss=le
-15	ap	ap	AUX	_	_	16	aux	_	Gloss=PAST
+15	ap	ap	AUX	_	Aspect=Prog	16	aux	_	Gloss=PAST
 16	planifye	planifye	VERB	_	_	11	mod@relcl	_	_
 17	pou	pou	ADP	_	_	16	udep	_	Gloss=pour
 18	fè	fè	VERB	_	_	17	comp:obj	_	Gloss=faire
@@ -118,7 +118,7 @@
 14	oken	oken	DET	_	_	15	det	_	Gloss=aucun
 15	responsab	responsab	NOUN	_	_	18	subj	_	Gloss=responsable
 16	Ameriken	ameriken	ADJ	_	_	15	mod	_	Gloss=américain
-17	pa	pa	ADV	_	_	18	mod	_	Gloss=NEG
+17	pa	pa	ADV	_	Polarity=Neg	18	mod	_	Gloss=NEG
 18	rankontre	rankontre	VERB	_	_	13	comp:obj	_	Gloss=rencontrer
 19	Prezidan	prezidan	NOUN	_	_	18	comp:obj	_	Gloss=présidente
 20	Taiwanèz	taiwanèz	ADJ	_	_	19	mod	_	Gloss=taiwanaise
@@ -132,7 +132,7 @@
 # Status = SILVER
 1	Tsai	tsai	PROPN	_	_	2	subj	_	Gloss=Tsai
 2	pati	pati	VERB	_	_	0	root	_	Gloss=partir
-3	kite	kite	VERB	_	_	2	comp:obj	_	Gloss=quitter
+3	kite	kite	VERB	_	_	2	compound:svc	_	Gloss=quitter
 4	Taiwan	Taiwan	PROPN	_	_	3	comp:obj	_	Gloss=Taiwan
 5	Mekredi	mekredi	NOUN	_	_	2	mod	_	Gloss=mercredi
 6	pou	pou	ADP	_	_	2	udep	_	Gloss=pour
@@ -145,7 +145,7 @@
 # text_fr = Elle visitera le Guatemala et la Belize.
 # Status = SILVER
 1	Li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	3	subj	_	Gloss=3SG
-2	pral	pral	AUX	_	_	3	aux	_	Gloss=FUT
+2	pral	pral	AUX	_	Tense=Fut	3	aux	_	Gloss=FUT
 3	vizite	vizite	VERB	_	_	0	root	_	Gloss=visiter
 4	Guatemala	Guatemala	PROPN	_	_	3	comp:obj	_	Gloss=Guatemala
 5	ak	ak	CCONJ	_	_	6	cc	_	Gloss=et
@@ -177,7 +177,7 @@
 # text = Se pandan eskal sa a ke li gen entansyon rankontre Lidè Lachanm Kevin McCarthy.
 # text_fr = c'est pendant cet escale qu'il avait l'intention de rencontrer le leader de la chambre Kevin McCarthy.
 # Status = SILVER
-1	Se	se	VERB	_	_	0	root	_	Gloss=être
+1	Se	se	AUX	_	_	0	root	_	Gloss=être
 2	pandan	pandan	ADV	_	_	1	comp:pred	_	Gloss=pendant
 3	eskal	eskal	NOUN	_	_	2	comp:obj	_	Gloss=escale
 4	sa	sa	DET	_	Number=Sing|PronType=Dem	3	det	_	_
@@ -220,7 +220,7 @@
 # Status = SILVER
 1	Li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	2	subj	_	Gloss=3SG
 2	di	di	VERB	_	_	0	root	_	Gloss=dire
-3	se	se	VERB	_	_	2	comp:obj	_	Gloss=être
+3	se	se	AUX	_	_	2	comp:obj	_	Gloss=être
 4	paske	paske	SCONJ	_	_	3	comp:pred	_	Gloss=parce que
 5	Washington	Washington	PROPN	_	_	6	subj	_	Gloss=Washington
 6	ogmante	ogmante	VERB	_	_	4	comp:obj	_	Gloss=augmenter
@@ -235,7 +235,7 @@
 # text_fr = Taiwan a été séparé avec la Chine après la guerre civile en 1949.
 # Status = SILVER
 1	Taiwan	Taiwan	PROPN	_	_	3	subj	_	Gloss=Taiwan
-2	te	te	AUX	_	_	3	aux	_	Gloss=PAST
+2	te	te	AUX	_	Tense=Past	3	aux	_	Gloss=PAST
 3	separe	separe	VERB	_	_	0	root	_	Gloss=séparer
 4	ak	ak	ADP	_	_	3	mod	_	Gloss=avec
 5	Lachin	Lachin	PROPN	_	_	4	comp:obj	_	Gloss=Chine

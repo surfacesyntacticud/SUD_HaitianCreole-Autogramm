@@ -19,7 +19,7 @@
 15	kidnape	kidnape	VERB	_	_	11	mod@relcl	_	Gloss=kidnapper
 16	ann	ann	ADP	_	_	15	udep	_	Gloss=en
 17	Ayiti	Ayiti	PROPN	_	_	16	comp:obj	_	Gloss=Haïti
-18	ap	ap	AUX	_	_	19	aux	_	Gloss=PROG
+18	ap	ap	AUX	_	Aspect=Prog	19	aux	_	Gloss=PROG
 19	plede	plede	VERB	_	_	0	root	_	Gloss=demander
 20	pou	pou	ADP	_	_	19	udep	_	Gloss=pour
 21	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	22	subj	_	Gloss=3PL
@@ -36,7 +36,7 @@
 3	di	di	VERB	_	_	0	root	_	Gloss=dire
 4	ke	ke	SCONJ	_	_	3	comp:obj	_	Gloss=que
 5	gang	gang	NOUN	_	_	7	subj	_	Gloss=gang
-6	te	te	AUX	_	_	7	aux	_	Gloss=PAST
+6	te	te	AUX	_	Tense=Past	7	aux	_	Gloss=PAST
 7	kidnape	kidnape	VERB	_	_	4	comp:obj	_	Gloss=Kidnapper
 8	frè	frè	NOUN	_	_	7	comp:obj	_	Gloss=frère
 9	l	li	DET	_	Number=Sing|Person=3|Poss=Yes	8	det	_	Gloss=3SG|SpaceAfter=No
@@ -48,8 +48,8 @@
 15	twazyèm	twazyèm	ADJ	_	_	16	mod	_	Gloss=troisième
 16	moun	moun	NOUN	_	_	11	conj:coord	_	Gloss=personne
 17	ki	ki	PRON	_	_	20	subj	_	Gloss=qui
-18	t	te	AUX	_	_	20	aux	_	Gloss=PAST
-19	ap	ap	AUX	_	_	20	aux	_	Gloss=PROG
+18	t	te	AUX	_	Tense=Past	20	aux	_	Gloss=PAST
+19	ap	ap	AUX	_	Aspect=Prog	20	aux	_	Gloss=PROG
 20	vwayaje	vwayaje	VERB	_	_	16	mod@relcl	_	Gloss=voyager
 21	avèk	avèk	ADP	_	_	20	udep	_	Gloss=avec
 22	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	21	comp:obj	_	Gloss=3PL
@@ -84,7 +84,7 @@
 20	ke	ke	SCONJ	_	_	9	conj:coord	_	Gloss=que
 21	fanmi	fanmi	NOUN	_	_	24	subj	_	Gloss=famille
 22	li	li	DET	_	Number=Sing|Person=3|Poss=Yes	21	det	_	Gloss=3SG
-23	pa	pa	ADV	_	_	24	mod	_	Gloss=NEG
+23	pa	pa	ADV	_	Polarity=Neg	24	mod	_	Gloss=NEG
 24	gen	gen	VERB	_	_	20	comp:obj	_	Gloss=avoir
 25	kalite	kalite	NOUN	_	_	26	mod	_	Gloss=volume
 26	lajan	lajan	NOUN	_	_	24	comp:obj	_	Gloss=argent
@@ -97,13 +97,13 @@
 # text_fr = Il disait que le FBI aiderait à trouver leur libération.
 # Status = SILVER
 1	Li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	3	subj	_	Gloss=3SG
-2	te	te	AUX	_	_	3	aux	_	Gloss=PAST
+2	te	te	AUX	_	Tense=Past	3	aux	_	Gloss=PAST
 3	di	di	VERB	_	_	0	root	_	Gloss=dire
 4	ke	ke	SCONJ	_	_	3	comp:obj	_	Gloss=que
 5	FBI	FBI	PROPN	_	_	7	subj	_	Gloss=FBI
-6	ap	ap	AUX	_	_	7	aux	_	Gloss=PROG
+6	ap	ap	AUX	_	Aspect=Prog	7	aux	_	Gloss=PROG
 7	ede	ede	VERB	_	_	4	comp:obj	_	Gloss=aider
-8	jwenn	jwenn	VERB	_	_	7	comp:obj	_	Gloss=trouver
+8	jwenn	jwenn	VERB	_	_	7	compound:svc	_	Gloss=trouver
 9	liberasyon	liberasyon	NOUN	_	_	8	comp:obj	_	Gloss=libération
 10	yo	yo	DET	_	Number=Plur|Person=3|Poss=Yes	9	det	_	Gloss=3PL|SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_

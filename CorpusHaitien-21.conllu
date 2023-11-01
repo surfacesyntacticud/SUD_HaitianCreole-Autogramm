@@ -23,7 +23,7 @@
 5	—	—	PUNCT	_	_	1	punct	_	_
 6	Lame	lame	NOUN	_	_	9	subj	_	Gloss=armée
 7	Ris	ris	PROPN	_	_	6	mod	_	Gloss=russe
-8	ap	ap	AUX	_	_	9	aux	_	Gloss=PROG
+8	ap	ap	AUX	_	Aspect=Prog	9	aux	_	Gloss=PROG
 9	fè	fè	VERB	_	_	0	root	_	Gloss=faire
 10	egzèsis	egzèsis	NOUN	_	_	9	comp:obj	_	Gloss=exercice
 11	ak	ak	ADP	_	_	10	udep	_	Gloss=avec
@@ -56,7 +56,7 @@
 9	misil	misil	NOUN	_	_	8	mod	_	Gloss=missile
 10	mobil	mobil	ADJ	_	_	9	mod	_	Gloss=mobile
 11	Yars	yars	PROPN	_	_	8	conj:appos	_	Gloss=Yars
-12	pral	pral	AUX	_	_	13	aux	_	Gloss=FUT
+12	pral	pral	AUX	_	Tense=Fut	13	aux	_	Gloss=FUT
 13	fè	fè	VERB	_	_	7	comp:obj	_	Gloss=faire
 14	mannèv	mannèv	NOUN	_	_	13	comp:obj	_	Gloss=manœuvre
 15	nan	nan	ADP	_	_	14	udep	_	Gloss=dans
@@ -72,7 +72,7 @@
 # Status = SILVER
 1	Ministè	ministè	NOUN	_	_	4	subj	_	Gloss=ministère
 2	a	a	DET	_	_	1	det	_	Gloss=le
-3	pa	pa	ADV	_	_	4	mod	_	Gloss=ne pas
+3	pa	pa	ADV	_	Polarity=Neg	4	mod	_	Gloss=ne pas
 4	pale	pale	VERB	_	_	0	root	_	Gloss=parler
 5	de	de	ADP	_	_	4	udep	_	Gloss=de
 6	okenn	okenn	DET	_	_	7	det	_	Gloss=aucun

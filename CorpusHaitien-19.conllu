@@ -4,7 +4,7 @@
 # Status = SILVER
 1	Anpil	anpil	ADV	_	_	2	mod	_	Gloss=beaucoup
 2	Ikrenyen	ikrenyen	NOUN	_	_	4	subj	_	Gloss=ukrainien
-3	Pa	pa	ADV	_	_	4	mod	_	Gloss=NEG
+3	Pa	pa	ADV	_	Polarity=Neg	4	mod	_	Gloss=NEG
 4	Konn	konnen	VERB	_	_	0	root	_	Gloss=savoir, connaitre
 5	sa	sa	PRON	_	Number=Sing|PronType=Dem	4	comp:obj	_	Gloss=ce
 6	pou	pou	VERB	_	_	5	comp:obj	_	Gloss=falloir, devoir
@@ -13,7 +13,7 @@
 9	Akoz	akoz	ADP	_	_	8	mod	_	Gloss=à cause de
 10	Pèmisyon	pèmisyon	NOUN	_	_	18	subj	_	Gloss=permit
 11	yo	yo	DET	_	Definite=Def|Number=Plur	10	det	_	_
-12	te	te	AUX	_	_	13	aux	_	Gloss=PAST
+12	te	te	AUX	_	Tense=Past	13	aux	_	Gloss=PAST
 13	Genyen	genyen	VERB	_	_	10	mod@relcl	_	Gloss=avoir
 14	pou	pou	ADP	_	_	13	udep	_	Gloss=pour
 15	Rete	rete	VERB	_	_	14	comp:obj	_	Gloss=rester
@@ -36,7 +36,7 @@
 9	20,000	20,000	NUM	_	_	10	det	_	Gloss=20 000
 10	Ikrenyen	ikrenyen	NOUN	_	_	43	dislocated	_	Gloss=ukrainien
 11	ki	ki	PRON	_	_	13	subj	_	Gloss=qui
-12	te	te	AUX	_	_	13	aux	_	Gloss=PAST
+12	te	te	AUX	_	Tense=Past	13	aux	_	Gloss=PAST
 13	jwenn	jwenn	VERB	_	_	10	mod@relcl	_	Gloss=trouver
 14	pèmisyon	pèmisyon	NOUN	_	_	13	comp:obj	_	Gloss=permis
 15	pou	pou	ADP	_	_	14	udep	_	Gloss=pour
@@ -52,21 +52,21 @@
 25	,	,	PUNCT	_	_	26	punct	_	_
 26	apre	apre	ADP	_	_	13	mod	_	Gloss=après
 27	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	29	subj	_	Gloss=3PL
-28	te	te	AUX	_	_	29	aux	_	Gloss=PAST
+28	te	te	AUX	_	Tense=Past	29	aux	_	Gloss=PAST
 29	kouri	kouri	VERB	_	_	26	comp:obj	_	Gloss=courir
-30	kite	kite	VERB	_	_	29	comp:obj	_	Gloss=quitter
+30	kite	kite	VERB	_	_	29	compound:svc	_	Gloss=quitter
 31	peyi	peyi	NOUN	_	_	30	comp:obj	_	Gloss=pays
 32	yo	yo	DET	_	Definite=Def|Number=Plur	31	det	_	Gloss=3PL
 33	akoz	akoz	ADP	_	_	30	mod	_	Gloss=à cause de
 34	envazyon	envazyon	NOUN	_	_	33	comp:obj	_	Gloss=invasion
 35	Larisi	larisi	PROPN	_	_	37	subj	_	Gloss=Russie
-36	te	te	AUX	_	_	37	aux	_	Gloss=PAST
+36	te	te	AUX	_	Tense=Past	37	aux	_	Gloss=PAST
 37	lanse	lanse	VERB	_	_	34	mod@relcl	_	Gloss=lancer
 38	lakay	lakay	NOUN	_	_	37	comp:obj	_	Gloss=maison
 39	yo	yo	DET	_	Definite=Def|Number=Plur	38	det	_	Gloss=DET|SpaceAfter=No
 40	,	,	PUNCT	_	_	43	punct	_	_
 41	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	43	subj	_	Gloss=3PL
-42	ap	ap	AUX	_	_	43	aux	_	Gloss=PAST
+42	ap	ap	AUX	_	Aspect=Prog	43	aux	_	Gloss=PAST
 43	fè	fè	VERB	_	_	0	root	_	Gloss=faire
 44	fas	fas	NOUN	_	_	43	comp:obj	_	Gloss=face
 45	gwo	gwo	ADJ	_	_	46	mod	_	Gloss=gros
@@ -87,7 +87,7 @@
 # Status = SILVER
 1	Moun	moun	NOUN	_	_	8	subj	_	Gloss=personne
 2	ki	ki	PRON	_	_	4	subj	_	Gloss=qui
-3	ap	ap	AUX	_	_	4	aux	_	Gloss=PROG
+3	ap	ap	AUX	_	Aspect=Prog	4	aux	_	Gloss=PROG
 4	defann	defann	VERB	_	_	1	mod@relcl	_	Gloss=défendre
 5	imigran	imigran	NOUN	_	_	4	comp:obj	_	Gloss=immigrant
 6	sa	sa	DET	_	Definite=Def|Number=Sing	5	det	_	_
@@ -101,7 +101,7 @@
 14	yo	yo	PRON	_	Definite=Def|Number=Plur	13	comp:obj	_	Gloss=les
 15	ke	ke	SCONJ	_	_	13	comp:obj	_	Gloss=que
 16	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	18	subj	_	Gloss=3SG
-17	ap	ap	AUX	_	_	18	aux	_	Gloss=PROG
+17	ap	ap	AUX	_	Aspect=Prog	18	aux	_	Gloss=PROG
 18	travay	travay	VERB	_	_	15	comp:obj	_	Gloss=travailler
 19	pou	pou	ADP	_	_	18	udep	_	Gloss=pour
 20	ranje	ranje	VERB	_	_	19	comp:obj	_	Gloss=arranger
@@ -111,7 +111,7 @@
 24	men	men	CCONJ	_	_	25	cc	_	Gloss=mais
 25	ke	ke	SCONJ	_	_	15	conj:coord	_	Gloss=que
 26	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	28	subj	_	Gloss=3SG
-27	pa	pa	ADV	_	_	28	mod	_	Gloss=NEG
+27	pa	pa	ADV	_	Polarity=Neg	28	mod	_	Gloss=NEG
 28	di	di	VERB	_	_	25	comp:obj	_	Gloss=dire
 29	ki	ki	PRON	_	_	28	comp:obj	_	Gloss=qui
 30	sa	sa	PRON	_	Number=Sing|PronType=Dem	29	comp:obj	_	_
@@ -152,7 +152,7 @@
 # text_fr = la majorité des ukrainiens ont trouvé l'autorisation pour participer à ce programme humanitaire pour une année après qu'ils ont fini de traverser la frontière des Etats-Unis avec le Mexique pendant quelques mois quand la guerre avait commencé.
 1	Pifò	Pifò	NOUN	_	_	2	mod	_	Gloss=majorité
 2	Ikrenyen	Ikrenyen	PROPN	_	_	4	subj	_	Gloss=ukrainien
-3	te	te	AUX	_	_	4	aux	_	Gloss=PAST
+3	te	te	AUX	_	Tense=Past	4	aux	_	Gloss=PAST
 4	jwenn	jwenn	VERB	_	_	0	root	_	Gloss=trouver
 5	otorizasyon	otorizasyon	NOUN	_	_	4	comp:obj	_	Gloss=autorisation
 6	pou	pou	ADP	_	_	5	udep	_	Gloss=pour
@@ -167,7 +167,7 @@
 15	ane	ane	NOUN	_	_	13	comp:obj	_	Gloss=année
 16	apre	apre	ADP	_	_	4	mod	_	Gloss=après
 17	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	19	subj	_	Gloss=3PL
-18	te	te	AUX	_	_	19	aux	_	Gloss=PAST
+18	te	te	AUX	_	Tense=Past	19	aux	_	Gloss=PAST
 19	fin	fini	VERB	_	_	16	comp:obj	_	Gloss=finir
 20	travèse	travèse	VERB	_	_	19	comp:obj	_	Gloss=traverser
 21	fwontyè	fwontyè	NOUN	_	_	20	comp:obj	_	Gloss=frontière
@@ -180,7 +180,7 @@
 28	lè	lè	ADP	_	_	27	mod	_	Gloss=quand
 29	lagè	lagè	NOUN	_	_	32	subj	_	Gloss=guerre
 30	a	a	DET	_	Definite=Def|Number=Sing	29	det	_	Gloss=la
-31	te	te	AUX	_	_	32	aux	_	Gloss=PAST
+31	te	te	AUX	_	Tense=Past	32	aux	_	Gloss=PAST
 32	koumanse	koumanse	VERB	_	_	28	comp:obj	_	Gloss=commencer|SpaceAfter=No
 33	.	.	PUNCT	_	_	4	punct	_	_
 

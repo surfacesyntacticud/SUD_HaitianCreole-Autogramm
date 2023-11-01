@@ -100,13 +100,13 @@
 17	Suisse	suisse	PROPN	_	_	16	flat@name	_	Gloss=Suisse
 18	yo	yo	DET	_	Definite=Def|Number=Plur	15	det	_	Gloss=DET
 19	-	-	PUNCT	_	_	13	punct	_	_
-20	te	te	AUX	_	_	21	aux	_	Gloss=PAST
+20	te	te	AUX	_	Tense=Past	21	aux	_	Gloss=PAST
 21	di	di	VERB	_	_	6	comp:obj	_	Gloss=dire
 22	jounalis	jounalis	NOUN	_	_	21	comp:obj@R	_	Gloss=journalist
 23	yo	yo	DET	_	Definite=Def|Number=Plur	22	det	_	Gloss=DET
 24	li	li	PRON	_	Number=Sing|Person=3|Poss=Yes	27	subj	_	Gloss=3SG
-25	p	pa	ADV	_	_	27	mod	_	Gloss=NEG|SpaceAfter=No
-26	ap	ap	AUX	_	_	27	aux	_	Gloss=PROG|wordform=pap
+25	p	pa	ADV	_	Polarity=Neg	27	mod	_	Gloss=NEG|SpaceAfter=No
+26	ap	ap	AUX	_	Aspect=Prog	27	aux	_	Gloss=PROG|wordform=pap
 27	bay	bay	VERB	_	_	21	comp:obj@T	_	Gloss=donner
 28	bank	bank	NOUN	_	_	27	comp:obj@R	_	Gloss=banque
 29	Suis	suis	PROPN	_	_	28	mod	_	Gloss=suisse
@@ -128,7 +128,7 @@
 1	Desizyon	desizyon	NOUN	_	_	5	subj	_	Gloss=décision
 2	sa	sa	DET	_	Number=Sing|PronType=Dem	1	det	_	_
 3	a	a	DET	_	Definite=Def|Number=Sing	1	det	_	_
-4	te	te	AUX	_	_	5	aux	_	Gloss=PAST
+4	te	te	AUX	_	Tense=Past	5	aux	_	Gloss=PAST
 5	pran	pran	VERB	_	_	0	root	_	Gloss=prendre
 6	byen	byen	ADV	_	_	5	mod	_	Gloss=bien
 7	lontan	lontan	ADV	_	_	5	mod	_	Gloss=longtemps
@@ -137,7 +137,7 @@
 10	bank	bank	NOUN	_	_	14	subj	_	Gloss=banque
 11	Ameriken	ameriken	ADJ	_	_	10	mod	_	Gloss=américain
 12	yo	yo	DET	_	Definite=Def|Number=Plur	10	det	_	_
-13	te	te	AUX	_	_	14	aux	_	Gloss=PAST
+13	te	te	AUX	_	Tense=Past	14	aux	_	Gloss=PAST
 14	fè	fè	VERB	_	_	8	comp:obj	_	Gloss=faire
 15	fayit	fayit	NOUN	_	_	14	comp:obj	_	Gloss=faillite|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	_
@@ -150,10 +150,10 @@
 2	sa	sa	DET	_	Number=Sing|PronType=Dem	1	det	_	Gloss=DET
 3	koze	koze	VERB	_	_	1	mod	_	Gloss=occasionne
 4	Mèkredi	mèkredi	NOUN	_	_	3	mod	_	Gloss=mercredi
-5	te	te	AUX	_	_	6	aux	_	Gloss=PAST
+5	te	te	AUX	_	Tense=Past	6	aux	_	Gloss=PAST
 6	lakoz	lakoz	VERB	_	_	0	root	_	Gloss=susciter
 7	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	9	subj	_	Gloss=3PL
-8	te	te	AUX	_	_	9	aux	_	Gloss=PAST
+8	te	te	AUX	_	Tense=Past	9	aux	_	Gloss=PAST
 9	kanpe	kanpe	VERB	_	_	6	comp:obj	_	Gloss=cesser
 10	lavant	lavant	NOUN	_	_	9	comp:obj	_	Gloss=vente
 11	aksyon	aksyon	NOUN	_	_	10	comp:obj	_	Gloss=action
@@ -174,7 +174,7 @@
 2	menm	menm	ADJ	_	_	3	mod	_	Gloss=même
 3	tan	tan	NOUN	_	_	1	comp:obj	_	Gloss=temps
 4	sa	sa	PRON	_	Number=Sing|PronType=Dem	6	subj	_	Gloss=3SG
-5	te	te	AUX	_	_	6	aux	_	Gloss=PAST
+5	te	te	AUX	_	Tense=Past	6	aux	_	Gloss=PAST
 6	lakoz	lakoz	VERB	_	_	0	root	_	Gloss=causer
 7	valè	valè	NOUN	_	_	6	comp:obj	_	Gloss=valeur
 8	aksyon	aksyon	NOUN	_	_	7	comp:obj	_	Gloss=action
@@ -182,8 +182,8 @@
 10	bank	bank	NOUN	_	_	8	comp:obj	_	Gloss=banque
 11	Ewopeyen	ewopeyen	ADJ	_	_	10	mod	_	Gloss=européenne
 12	yo	yo	PRON	_	Definite=Def|Number=Plur	14	subj	_	Gloss=3PL
-13	te	te	AUX	_	_	14	aux	_	Gloss=PAST
+13	te	te	AUX	_	Tense=Past	14	aux	_	Gloss=PAST
 14	plonje	plonje	VERB	_	_	10	mod@relcl	_	Gloss=plonger
-15	desann	desann	VERB	_	_	14	comp:obj	_	Gloss=descendre|SpaceAfter=No
+15	desann	desann	VERB	_	_	14	compound:svc	_	Gloss=descendre|SpaceAfter=No
 16	.	.	PUNCT	_	_	6	punct	_	_
 

@@ -23,7 +23,7 @@
 4	New	new	PROPN	_	_	3	mod	_	Gloss=New
 5	York	york	PROPN	_	_	4	flat@name	_	Gloss=York
 6	k	ke	PRON	_	_	8	subj	_	Gloss=qui
-7	ap	ap	AUX	_	_	8	aux	_	Gloss=PROG
+7	ap	ap	AUX	_	Aspect=Prog	8	aux	_	Gloss=PROG
 8	mennen	mennen	VERB	_	_	3	mod@relcl	_	Gloss=mener
 9	ankèt	ankèt	NOUN	_	_	8	comp:obj	_	Gloss=enquête
 10	sou	sou	ADP	_	_	9	udep	_	Gloss=sur
@@ -31,7 +31,7 @@
 12	anba	anba	ADP	_	_	11	udep	_	Gloss=sous
 13	tab	tab	NOUN	_	_	12	comp:obj	_	Gloss=table
 14	ki	ki	PRON	_	_	16	subj	_	Gloss=qui
-15	te	te	AUX	_	_	16	aux	_	Gloss=PAST
+15	te	te	AUX	_	Tense=Past	16	aux	_	Gloss=PAST
 16	fèt	fèt	VERB	_	_	11	mod@relcl	_	Gloss=faire
 17	sou	sou	ADP	_	_	16	udep	_	Gloss=sous
 18	non	non	NOUN	_	_	17	comp:obj	_	Gloss=nom
@@ -52,7 +52,7 @@
 33	Manhattan	manhattan	PROPN	_	_	32	comp:obj	_	Gloss=Manhattan
 34	nan	nan	DET	_	_	31	det	_	Gloss=le
 35	k	ki	PRON	_	_	37	subj	_	Gloss=qui
-36	ap	ap	AUX	_	_	37	aux	_	Gloss=PROG
+36	ap	ap	AUX	_	Aspect=Prog	37	aux	_	Gloss=PROG
 37	jere	jere	VERB	_	_	31	mod@relcl	_	Gloss=Gérer
 38	dosye	dosye	NOUN	_	_	37	comp:obj	_	Gloss=dossier
 39	a	a	DET	_	_	38	det	_	Gloss=le|SpaceAfter=No
@@ -95,7 +95,7 @@
 # Status = SILVER
 # text_fr = Ils ont élu Bragg comme le premier avocat noir dans le district Manhattan en novembre 2021.
 1	Yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj	_	Gloss=3PL
-2	te	te	AUX	_	_	3	aux	_	Gloss=PAST
+2	te	te	AUX	_	Tense=Past	3	aux	_	Gloss=PAST
 3	eli	eli	VERB	_	_	0	root	_	Gloss=élire
 4	Bragg	bragg	PROPN	_	_	3	comp:obj	_	Gloss=Bragg
 5	kòm	kòm	SCONJ	_	_	3	mod	_	Gloss=comme
@@ -120,7 +120,7 @@
 5	ladan	ladan	NOUN	_	_	6	mod	_	Gloss=intérieur
 6	travay	travay	NOUN	_	_	4	comp:obj	_	Gloss=travail
 7	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	9	subj	_	Gloss=3SG
-8	te	te	AUX	_	_	9	aux	_	Gloss=PAST
+8	te	te	AUX	_	Tense=Past	9	aux	_	Gloss=PAST
 9	fè	fè	VERB	_	_	6	mod@relcl	_	Gloss=faire
 10	kòm	kòm	ADV	_	_	9	mod	_	Gloss=comme
 11	yon	yon	DET	_	Definite=Ind|Number=Sing	12	det	_	Gloss=un
@@ -131,7 +131,7 @@
 16	dwa	dwa	NOUN	_	_	15	comp:obj	_	Gloss=droit
 17	sivik	sivik	ADJ	_	_	16	mod	_	Gloss=civique
 18	ki	ki	PRON	_	_	20	subj	_	Gloss=qui
-19	te	te	AUX	_	_	20	aux	_	Gloss=PAST
+19	te	te	AUX	_	Tense=Past	20	aux	_	Gloss=PAST
 20	reprezante	reprezante	VERB	_	_	12	mod@relcl	_	Gloss=représenter
 21	manman	manman	NOUN	_	_	20	comp:obj	_	Gloss=maman
 22	Eric	Eric	PROPN	_	_	21	comp:obj	_	Gloss=Eric

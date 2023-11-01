@@ -83,7 +83,7 @@
 11	e	e	CCONJ	_	_	12	cc	_	Gloss=et
 12	ke	ke	SCONJ	_	_	3	conj:coord	_	Gloss=que
 13	Etazini	Etazini	PROPN	_	_	15	subj	_	Gloss=Etats-Unis
-14	pral	pral	AUX	_	_	15	aux	_	Gloss=FUT
+14	pral	pral	AUX	_	Tense=Fut	15	aux	_	Gloss=FUT
 15	kontinye	kontinye	VERB	_	_	12	comp:obj	_	Gloss=continuer
 16	travay	travay	NOUN	_	_	15	comp:obj	_	Gloss=travail
 17	ak	ak	ADP	_	_	16	udep	_	Gloss=avec
@@ -95,7 +95,7 @@
 # text_fr = Patel refusait de donner d'autres détails sur le dossier.
 # Status = SILVER
 1	Patel	Patel	PROPN	_	_	3	subj	_	Gloss=Patel
-2	te	te	AUX	_	_	3	aux	_	Gloss=PAST
+2	te	te	AUX	_	Tense=Past	3	aux	_	Gloss=PAST
 3	refize	refize	VERB	_	_	0	root	_	Gloss=refuser
 4	bay	bay	VERB	_	_	3	comp:obj	_	Gloss=donner
 5	okenn	okenn	DET	_	_	7	det	_	Gloss=aucun

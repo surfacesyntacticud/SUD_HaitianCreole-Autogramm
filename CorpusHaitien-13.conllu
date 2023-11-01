@@ -59,7 +59,7 @@
 # text = Se youn nan ensidan kote plis moun mouri nan yon sant pou kenbe migran nan peyi a.
 # text_fr = C'est l'un des incidents où beaucoup de gens meurent dans un centre pour accueillir les migrant du pays.
 # Status = SILVER
-1	Se	se	VERB	_	_	0	root	_	Gloss=être
+1	Se	se	AUX	_	_	0	root	_	Gloss=être
 2	youn	youn	NUM	_	_	1	comp:pred	_	Gloss=l'un
 3	nan	nan	ADP	_	_	2	udep	_	Gloss=dans
 4	ensidan	ensidan	NOUN	_	_	3	comp:obj	_	Gloss=incident
@@ -87,19 +87,19 @@
 3	apre	apre	ADP	_	_	2	mod	_	Gloss=après
 4	dife	dife	NOUN	_	_	7	subj	_	Gloss=incendie
 5	a	a	DET	_	Definite=Def|Number=Sing	4	det	_	Gloss=l'
-6	te	te	AUX	_	_	7	aux	_	Gloss=PAST
+6	te	te	AUX	_	Tense=Past	7	aux	_	Gloss=PAST
 7	eklate	eklate	VERB	_	_	3	comp:obj	_	Gloss=éclater
 8	Lendi	Lendi	NOUN	_	_	7	mod	_	Gloss=lundi
 9	swa	swa	NOUN	_	_	8	mod	_	Gloss=soir|SpaceAfter=No
 10	,	,	PUNCT	_	_	2	punct	_	_
 11	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	13	subj	_	Gloss=3PL
-12	te	te	AUX	_	_	13	aux	_	Gloss=PAST
+12	te	te	AUX	_	Tense=Past	13	aux	_	Gloss=PAST
 13	aliyen	aliyen	VERB	_	_	0	root	_	Gloss=aligner
 14	kèk	kèk	DET	_	_	15	det	_	Gloss=quelques
 15	kadav	kadav	NOUN	_	_	13	comp:obj	_	Gloss=cadavre
 16	ke	ke	PRON	_	PronType=Rel	19	comp:obj	_	Gloss=que
 17	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	19	subj	_	Gloss=3PL
-18	te	te	AUX	_	_	19	aux	_	Gloss=PAST
+18	te	te	AUX	_	Tense=Past	19	aux	_	Gloss=PAST
 19	kouvri	kouvri	VERB	_	_	15	mod@relcl	_	Gloss=couvrir
 20	anba	anba	ADP	_	_	19	mod	_	Gloss=sous
 21	dra	dra	NOUN	_	_	20	comp:obj	_	Gloss=drap
@@ -132,7 +132,7 @@
 9	nan	nan	ADP	_	_	8	udep	_	Gloss=dans
 10	mòg	mòg	NOUN	_	_	9	comp:obj	_	Gloss=morgue
 11	la	la	DET	_	Definite=Def|Number=Sing	10	det	_	Gloss=la
-12	te	te	AUX	_	_	13	aux	_	Gloss=PAST
+12	te	te	AUX	_	Tense=Past	13	aux	_	Gloss=PAST
 13	anvayi	anvayi	VERB	_	_	0	root	_	Gloss=envahir
 14	lye	lye	NOUN	_	_	13	comp:obj	_	Gloss=lieu
 15	ensidan	ensidan	NOUN	_	_	14	comp:obj	_	Gloss=incident
