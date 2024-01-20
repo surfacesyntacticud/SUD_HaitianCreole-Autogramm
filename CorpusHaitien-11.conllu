@@ -30,7 +30,7 @@
 6	pou	pou	ADP	_	_	3	udep	_	Gloss=pour
 7	swadizan	swadizan	ADJ	_	_	8	mod	_	Gloss=soi-disant
 8	koneksyon	koneksyon	NOUN	_	_	6	comp:obj	_	Gloss=connection
-9	yo	yo	DET	_	Number=Plur|Person=3|PronType=Art	8	det	_	Gloss=les
+9	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	8	udep	_	Gloss=les
 10	ak	ak	ADP	_	_	8	udep	_	Gloss=avec
 11	yon	yon	DET	_	PronType=Art	12	det	_	Gloss=un
 12	dife	dife	NOUN	_	_	10	comp:obj	_	Gloss=incendie
@@ -50,7 +50,7 @@
 26	migran	migran	NOUN	_	_	27	subj	_	Gloss=migrant
 27	pèdi	pèdi	VERB	_	_	18	mod@relcl	_	Gloss=perdre
 28	lavi	lavi	NOUN	_	_	27	comp:obj	_	Gloss=vie
-29	yo	yo	DET	_	Number=Plur|Person=3|PronType=Art	28	det	_	Gloss=les|SpaceAfter=No
+29	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	28	udep	_	Gloss=les|SpaceAfter=No
 30	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 11__3
@@ -100,7 +100,7 @@
 41	yo	yo	DET	_	Definite=Def|Number=Plur|PronType=Art	40	det	_	Gloss=les
 42	chape	chape	VERB	_	_	39	compound:svc	_	Gloss=sauver
 43	poul	poul	NOUN	_	_	42	comp:obj	_	Gloss=peau
-44	yo	yo	DET	_	Number=Plur|Person=3|PronType=Art	43	det	_	Gloss=les
+44	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	43	udep	_	Gloss=les
 45	lè	lè	SCONJ	_	_	36	mod	_	Gloss=quand
 46	dife	dife	NOUN	_	_	49	subj	_	Gloss=incendie
 47	t	te	AUX	_	Tense=Past	49	aux	_	Gloss=PAST

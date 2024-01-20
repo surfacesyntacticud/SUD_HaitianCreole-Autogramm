@@ -202,7 +202,7 @@
 34	piti	piti	ADJ	_	_	32	mod	_	Gloss=petit
 35	lontan	lontan	ADV	_	_	34	mod	_	Gloss=longtemps
 36	pase	pase	NOUN	_	_	35	comp:obj	_	Gloss=passé
-37	sa	sa	PRON	_	Number=Sing|PronType=Dem	36	det	_	Gloss=ça
+37	sa	sa	PRON	_	Number=Sing|PronType=Dem	36	udep	_	Gloss=ça
 38	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	39	subj	_	Gloss=3SG
 39	konn	konnen	VERB	_	_	32	mod@relcl	_	Gloss=savoir
 40	bare	bare	VERB	_	_	39	comp:obj	_	Gloss=intercepter|SpaceAfter=No

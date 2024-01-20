@@ -87,7 +87,7 @@
 15	jwenn	jwenn	VERB	_	_	14	compound:svc	_	Gloss=trouver
 16	fanmi	fanmi	NOUN	_	_	15	comp:obj	_	Gloss=famille
 17	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	16	udep	_	Gloss=1SG
-18	yo	yo	DET	_	Number=Plur|Person=3|PronType=Art	16	det	_	Gloss=les
+18	yo	yo	DET	_	Number=Plur|PronType=Art	16	det	_	Gloss=les
 19	Jakmèl	Jakmèl	PROPN	_	_	14	comp:obl	_	Gloss=Jakmèl|SpaceAfter=No
 20	.	.	PUNCT	_	_	6	punct	_	_
 

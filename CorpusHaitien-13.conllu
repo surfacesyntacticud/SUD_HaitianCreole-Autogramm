@@ -33,7 +33,7 @@
 11	migran	migran	NOUN	_	_	10	comp:obj	_	Gloss=migrant
 12	pèdi	pèdi	VERB	_	_	0	root	_	Gloss=perdre
 13	lavi	lavi	NOUN	_	_	12	comp:obj	_	Gloss=vie
-14	yo	yo	DET	_	Number=Plur|Person=3|PronType=Art	13	det	_	Gloss=les
+14	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	13	udep	_	Gloss=les
 15	nan	nan	ADP	_	_	12	udep	_	Gloss=dans
 16	yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	17	det	_	Gloss=un
 17	dife	dife	NOUN	_	_	15	comp:obj	_	Gloss=incendie

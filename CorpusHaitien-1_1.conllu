@@ -167,7 +167,7 @@
 40	pale	pale	VERB	_	_	39	comp:obj	_	Gloss=parler
 41	de	de	ADP	_	_	40	comp:obj	_	Gloss=de
 42	amitye	amitye	NOUN	_	_	41	comp:obj	_	Gloss=amitié
-43	nou	nou	DET	_	Number=Plur|Person=1|PronType=Prs	42	det	_	Gloss=1PL
+43	nou	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	42	udep	_	Gloss=1PL
 44	lè	lè	SCONJ	_	_	42	mod	_	Gloss=quand
 45	n	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	47	subj	_	Gloss=1PL
 46	te	te	AUX	_	Tense=Past	47	aux	_	Gloss=PAST
@@ -212,7 +212,7 @@
 # Status = SILVER
 1	Pandan	Pandan	ADP	_	_	9	mod	_	Gloss=pendant
 2	je	je	NOUN	_	_	4	subj	_	Gloss=yeux
-3	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	2	udep	_	Gloss=1SG
+3	m	mwen	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	udep	_	Gloss=1SG
 4	fèmen	fèmen	VERB	_	_	1	comp:obj	_	Gloss=fermer|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	9	subj	_	Gloss=1SG
@@ -221,7 +221,7 @@
 9	panse	panse	VERB	_	_	0	root	_	Gloss=penser
 10	ak	ak	ADP	_	_	9	udep	_	Gloss=à
 11	sa	sa	PRON	_	Number=Sing|PronType=Dem	10	comp:obj	_	Gloss=ça
-12	k	ki	PRON	_	PronType=Rel	14	subj	_	Gloss=qui
+12	k	ki	PRON	_	_	14	subj	_	Gloss=qui
 13	te	te	AUX	_	Tense=Past	14	aux	_	Gloss=PAST
 14	rive	rive	VERB	_	_	11	mod@relcl	_	Gloss=arriver
 15	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	14	comp:obj	_	Gloss=1SG
@@ -387,7 +387,7 @@
 # Status = SILVER
 1	Pawòl	pawòl	NOUN	_	_	6	subj	_	Gloss=parole
 2	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	1	udep	_	Gloss=3SG
-3	yo	yo	DET	_	Number=Plur|Person=3|PronType=Art	1	det	_	Gloss=les
+3	yo	yo	DET	_	Number=Plur|PronType=Art	1	det	_	Gloss=les
 4	t	te	AUX	_	Tense=Past	6	aux	_	Gloss=PAST
 5	ap	ap	AUX	_	Aspect=Prog	6	aux	_	Gloss=PROG
 6	repete	repete	VERB	_	_	0	root	_	Gloss=répéter, remonter
@@ -496,7 +496,7 @@
 3	ak	ak	CCONJ	_	_	4	cc	_	Gloss=et
 4	cheve	cheve	NOUN	_	_	1	conj:coord	_	Gloss=cheveux
 5	l	li	PRON	_	Person=3|PronType=Prs	4	udep	_	Gloss=3SG
-6	yo	yo	DET	_	Number=Plur|Person=3|PronType=Prs	4	det	_	Gloss=les
+6	yo	yo	DET	_	Number=Plur|PronType=Art	4	det	_	Gloss=les
 7	te	te	AUX	_	Tense=Past	8	aux	_	Gloss=PAST
 8	atire	atire	VERB	_	_	0	root	_	Gloss=attirer
 9	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	8	comp:obj	_	Gloss=1SG

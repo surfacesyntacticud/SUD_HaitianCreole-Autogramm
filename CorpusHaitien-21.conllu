@@ -10,7 +10,7 @@
 6	Misil	misil	NOUN	_	_	5	comp:obj	_	Gloss=missile
 7	Nikleyè	nikleyè	ADJ	_	_	6	mod	_	Gloss=nucléaire
 8	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	5	udep	_	Gloss=3SG
-9	yo	yo	DET	_	Number=Plur|Person=3|PronType=Art	5	det	_	Gloss=les
+9	yo	yo	DET	_	Number=Plur|PronType=Art	5	det	_	Gloss=les
 
 # sent_id = 21__2
 # text = MOSCOU (AP) — Lame Ris ap fè egzèsis ak fòs misil estratejik li yo pou montre gwo kapasite nikleyè peyi a.
@@ -30,8 +30,8 @@
 12	fòs	fòs	NOUN	_	_	11	comp:obj	_	Gloss=force
 13	misil	misil	NOUN	_	_	12	comp:obj	_	Gloss=missile
 14	estratejik	estratejik	ADJ	_	_	12	mod	_	Gloss=stratégique
-15	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	12	udep	_	Gloss=3SG
-16	yo	yo	DET	_	Number=Plur|Person=3|PronType=Art	12	det	_	Gloss=les
+15	li	li	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	udep	_	Gloss=3SG
+16	yo	yo	DET	_	Number=Plur|Poss=Yes|PronType=Art	12	det	_	Gloss=les
 17	pou	pou	ADP	_	_	9	udep	_	Gloss=pour
 18	montre	montre	VERB	_	_	17	comp:obj	_	Gloss=montrer
 19	gwo	gwo	ADJ	_	_	20	mod	_	Gloss=grande

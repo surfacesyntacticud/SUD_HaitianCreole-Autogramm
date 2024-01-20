@@ -95,7 +95,7 @@
 4	ap	ap	AUX	_	Aspect=Prog	5	aux	_	Gloss=PROG
 5	vizite	vizite	VERB	_	_	0	root	_	Gloss=visiter
 6	fanmi	fanmi	NOUN	_	_	5	comp:obj	_	Gloss=famille
-7	yo	yo	DET	_	Number=Sing|Person=3|PronType=Art	6	det	_	Gloss=les
+7	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	6	udep	_	Gloss=3PL
 8	an	an	ADP	_	_	5	udep	_	Gloss=en
 9	Ayiti	Ayiti	PROPN	_	_	8	comp:obj	_	Gloss=Haïti
 10	epi	epi	CCONJ	_	_	11	cc	_	Gloss=et puis
@@ -106,7 +106,7 @@
 15	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	17	subj	_	Gloss=3PL
 16	te	te	AUX	_	Tense=Past	17	aux	_	Gloss=PAST
 17	kidnape	kidnape	VERB	_	_	14	comp:obj	_	Gloss=kidnapper
-18	yo	yo	PRON	_	Definite=Def|Number=Plur|PronType=Prs	17	comp:obj	_	Gloss=3PL
+18	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	17	comp:obj	_	Gloss=3PL
 19	nan	nan	ADP	_	_	17	udep	_	Gloss=dans
 20	yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	21	det	_	Gloss=un
 21	otobis	otobis	NOUN	_	_	19	comp:obj	_	Gloss=autobus|SpaceAfter=No
@@ -234,7 +234,7 @@
 # text_fr = Maintenant, ils contrôlent une grande partie de la capitale et les provinces.
 # Status = SILVER
 1	Kounyea	kounyea	ADV	_	_	3	mod	_	Gloss=maintenant
-2	yon	yon	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj	_	Gloss=3PL
+2	yon	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj	_	Gloss=3PL
 3	kontwole	kontwole	VERB	_	_	0	root	_	Gloss=contrôler
 4	yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	6	det	_	Gloss=un
 5	gwo	gwo	ADJ	_	_	6	mod	_	Gloss=grand
@@ -295,7 +295,7 @@
 18	kouri	kouri	VERB	_	_	17	comp:obl	_	Gloss=courir
 19	kite	kite	VERB	_	_	18	compound:svc	_	Gloss=quitter
 20	kay	kay	NOUN	_	_	19	comp:obj	_	Gloss=maison
-21	yo	yo	DET	_	Number=Plur|Person=3|PronType=Art	20	det	_	Gloss=les|SpaceAfter=No
+21	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	20	udep	_	Gloss=les|SpaceAfter=No
 22	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 24__11

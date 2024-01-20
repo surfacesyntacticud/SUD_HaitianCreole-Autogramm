@@ -26,7 +26,7 @@
 # Status = SILVER
 1	Yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	2	det	_	Gloss=un
 2	afich	afich	NOUN	_	_	8	subj	_	Gloss=affiche
-3	ki	ki	PRON	_	PronType=Rel	4	subj	_	Gloss=qui
+3	ki	ki	PRON	_	_	4	subj	_	Gloss=qui
 4	gen	gen	VERB	_	_	2	mod@relcl	_	Gloss=avoir
 5	non	non	NOUN	_	_	4	comp:obj	_	Gloss=nom
 6	Credit	Credit	PROPN	_	_	5	comp:obj	_	Gloss=Crédit
@@ -69,7 +69,7 @@
 9	yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Gloss=un
 10	ka	ka	NOUN	_	_	6	comp:obj	_	Gloss=quart
 11	valè	valè	NOUN	_	_	10	udep	_	Gloss=valeur
-12	yo	yo	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	Gloss=les
+12	yo	yo	DET	_	Definite=Def|Number=Plur|Poss=Yes|PronType=Art	11	det	_	Gloss=les
 13	sou	sou	ADP	_	_	6	udep	_	Gloss=sur
 14	mache	mache	NOUN	_	_	13	comp:obj	_	Gloss=marché
 15	d	d	ADP	_	_	14	udep	_	Gloss=de
@@ -92,7 +92,7 @@
 9	Saoudyen	saoudyen	ADJ	_	_	7	mod	_	Gloss=saoudien
 10	an	la	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	Gloss=le
 11	-	-	PUNCT	_	_	13	punct	_	_
-12	ki	ki	PRON	_	PronType=Rel	13	subj	_	Gloss=qui
+12	ki	ki	PRON	_	_	13	subj	_	Gloss=qui
 13	kontwole	kontwole	VERB	_	_	7	mod@relcl	_	Gloss=contrôler
 14	majorite	majorite	NOUN	_	_	13	comp:obj	_	Gloss=majorité
 15	aksyon	aksyon	NOUN	_	_	14	udep	_	Gloss=action
@@ -104,7 +104,7 @@
 21	di	di	VERB	_	_	6	comp:obj	_	Gloss=dire
 22	jounalis	jounalis	NOUN	_	_	21	comp:obj@R	_	Gloss=journaliste
 23	yo	yo	DET	_	Definite=Def|Number=Plur|PronType=Art	22	det	_	Gloss=les
-24	li	li	PRON	_	Number=Sing|Person=3	27	subj	_	Gloss=3SG
+24	li	li	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	subj	_	Gloss=3SG
 25	p	pa	ADV	_	Polarity=Neg	27	mod	_	Gloss=NEG|SpaceAfter=No
 26	ap	ap	AUX	_	Aspect=Prog	27	aux	_	Gloss=PROG|wordform=pap
 27	bay	bay	VERB	_	_	21	comp:obj@T	_	Gloss=donner
@@ -117,7 +117,7 @@
 34	pou	pou	ADP	_	_	33	udep	_	Gloss=pour
 35	kontrekare	kontrekare	VERB	_	_	34	comp:obj	_	Gloss=contrecarrer
 36	pwoblèm	pwoblèm	NOUN	_	_	35	comp:obj	_	Gloss=problème
-37	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	36	udep	_	Gloss=3SG
+37	li	li	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	36	udep	_	Gloss=3SG
 38	yo	yo	DET	_	Definite=Def|Number=Plur|PronType=Art	36	det	_	Gloss=les|SpaceAfter=No
 39	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -181,7 +181,7 @@
 9	lòt	lòt	ADJ	_	_	10	mod	_	Gloss=autre
 10	bank	bank	NOUN	_	_	8	udep	_	Gloss=banque
 11	Ewopeyen	ewopeyen	ADJ	_	_	10	mod	_	Gloss=européen
-12	yo	yo	PRON	_	Definite=Def|Number=Plur	14	subj	_	Gloss=3PL
+12	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	14	subj	_	Gloss=3PL
 13	te	te	AUX	_	Tense=Past	14	aux	_	Gloss=PAST
 14	plonje	plonje	VERB	_	_	10	mod@relcl	_	Gloss=plonger
 15	desann	desann	VERB	_	_	14	compound:svc	_	Gloss=descendre|SpaceAfter=No
