@@ -69,7 +69,7 @@
 9	yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Gloss=un
 10	ka	ka	NOUN	_	_	6	comp:obj	_	Gloss=quart
 11	valè	valè	NOUN	_	_	10	udep	_	Gloss=valeur
-12	yo	yo	DET	_	Definite=Def|Number=Plur|Poss=Yes|PronType=Art	11	det	_	Gloss=les
+12	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	11	det	_	Gloss=3PL
 13	sou	sou	ADP	_	_	6	udep	_	Gloss=sur
 14	mache	mache	NOUN	_	_	13	comp:obj	_	Gloss=marché
 15	d	d	ADP	_	_	14	udep	_	Gloss=de
@@ -168,7 +168,7 @@
 
 # sent_id = 16__7
 # text = An menm tan sa te lakoz valè aksyon lòt bank Ewopeyen yo te plonje desann.
-# text_fr = Au  ce même moment, cela a  suscité la chute de beaucoup d'autre banque européenne.
+# text_fr = En même temps, cela a  provoqué la chute des autres banques européennes.
 # Status = SILVER
 1	An	an	ADP	_	_	6	mod	_	Gloss=en
 2	menm	menm	ADJ	_	_	3	mod	_	Gloss=même
@@ -176,14 +176,14 @@
 4	sa	sa	PRON	_	Number=Sing|PronType=Dem	6	subj	_	Gloss=ça
 5	te	te	AUX	_	Tense=Past	6	aux	_	Gloss=PAST
 6	lakoz	lakoz	VERB	_	_	0	root	_	Gloss=causer
-7	valè	valè	NOUN	_	_	6	comp:obj	_	Gloss=valeur
+7	valè	valè	NOUN	_	_	14	subj	_	Gloss=valeur
 8	aksyon	aksyon	NOUN	_	_	7	udep	_	Gloss=action
 9	lòt	lòt	ADJ	_	_	10	mod	_	Gloss=autre
 10	bank	bank	NOUN	_	_	8	udep	_	Gloss=banque
 11	Ewopeyen	ewopeyen	ADJ	_	_	10	mod	_	Gloss=européen
-12	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	14	subj	_	Gloss=3PL
+12	yo	yo	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	Gloss=les
 13	te	te	AUX	_	Tense=Past	14	aux	_	Gloss=PAST
-14	plonje	plonje	VERB	_	_	10	mod@relcl	_	Gloss=plonger
+14	plonje	plonje	VERB	_	_	6	comp:obj	_	Gloss=plonger
 15	desann	desann	VERB	_	_	14	compound:svc	_	Gloss=descendre|SpaceAfter=No
 16	.	.	PUNCT	_	_	6	punct	_	_
 

@@ -93,7 +93,7 @@
 6	sa	sa	DET	_	Definite=Def|Number=Sing|PronType=Dem	5	det	_	Gloss=cet
 7	yo	yo	DET	_	Number=Plur|PronType=Art	5	det	_	Gloss=les
 8	di	di	VERB	_	_	0	root	_	Gloss=dire
-9	ke	ke	SCONJ	_	PronType=Rel	8	comp:obj	_	Gloss=que
+9	ke	ke	SCONJ	_	_	8	comp:obj	_	Gloss=que
 10	administrasyon	administrasyon	NOUN	_	_	13	subj	_	Gloss=administration
 11	Biden	Biden	PROPN	_	_	10	comp:obj	_	Gloss=Biden
 12	nan	la	DET	_	PronType=Art	10	det	_	Gloss=le
@@ -123,7 +123,7 @@
 36	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	37	subj	_	Gloss=3PL
 37	pwolonje	pwolonje	VERB	_	_	35	comp:obj	_	Gloss=prolonger
 38	estati	estati	NOUN	_	_	37	comp:obj	_	Gloss=statut
-39	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	38	udep	_	Gloss=les|SpaceAfter=No
+39	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	38	udep	_	Gloss=3PL|SpaceAfter=No
 40	,	,	PUNCT	_	_	42	punct	_	_
 41	ki	ki	PRON	_	PronType=Rel	42	subj	_	Gloss=qui
 42	mache	mache	VERB	_	_	38	mod@relcl	_	Gloss=marcher

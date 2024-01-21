@@ -31,7 +31,7 @@
 12	foto	foto	NOUN	_	_	10	comp:obj	_	Gloss=photo
 13	jou	jou	NOUN	_	_	9	mod	_	Gloss=jour
 14	maryaj	maryaj	NOUN	_	_	13	mod	_	Gloss=mariage
-15	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	14	udep	_	Gloss=les
+15	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	14	udep	_	Gloss=3PL
 16	nan	nan	ADP	_	_	9	udep	_	Gloss=dans
 17	Pompano	Pompano	PROPN	_	_	16	comp:obj	_	Gloss=Pompano
 18	Beach	Beach	PROPN	_	_	17	flat@name	_	Gloss=Beach|SpaceAfter=No

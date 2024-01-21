@@ -117,7 +117,7 @@
 32	Lèzetazini	Lèzetazini	PROPN	_	_	31	comp:obj	_	Gloss=Etats-Unis
 33	nan	nan	ADP	_	_	20	mod	_	Gloss=dans
 34	espwa	espwa	NOUN	_	_	33	comp:obj	_	Gloss=espoir
-35	ke	ke	SCONJ	_	PronType=Rel	34	comp:obj	_	Gloss=que
+35	ke	ke	SCONJ	_	_	34	udep	_	Gloss=que
 36	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	38	subj	_	Gloss=3PL
 37	ka	ka	AUX	_	_	38	aux	_	Gloss=pouvoir
 38	travèse	travèse	VERB	_	_	35	comp:obj	_	Gloss=traverser
