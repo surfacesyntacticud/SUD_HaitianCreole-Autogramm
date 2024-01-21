@@ -30,7 +30,7 @@
 8	pase	pase	ADV	_	_	7	unk	_	Gloss=passé (que)
 9	twa	twa	NUM	_	_	10	det	_	Gloss=trois
 10	douzèn	douzèn	NOUN	_	_	12	subj	_	Gloss=douzaine
-11	migran	migran	NOUN	_	_	10	comp:obj	_	Gloss=migrant
+11	migran	migran	NOUN	_	_	10	udep	_	Gloss=migrant
 12	pèdi	pèdi	VERB	_	_	0	root	_	Gloss=perdre
 13	lavi	lavi	NOUN	_	_	12	comp:obj	_	Gloss=vie
 14	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	13	udep	_	Gloss=3PL
@@ -52,7 +52,7 @@
 30	Meksiken	Meksiken	ADJ	_	_	29	mod	_	Gloss=mexicain
 31	toupre	toupre	ADP	_	_	19	mod	_	Gloss=tout prêt
 32	fwontyè	fwontyè	NOUN	_	_	31	comp:obj	_	Gloss=frontière
-33	Etazini	Etazini	PROPN	_	_	32	comp:obj	_	Gloss=États-Unis|SpaceAfter=No
+33	Etazini	Etazini	PROPN	_	_	32	udep	_	Gloss=États-Unis|SpaceAfter=No
 34	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = 13__3
@@ -75,7 +75,7 @@
 14	migran	migran	NOUN	_	_	13	comp:obj	_	Gloss=migrant
 15	nan	nan	ADP	_	_	13	udep	_	Gloss=dans
 16	peyi	peyi	NOUN	_	_	15	comp:obj	_	Gloss=pays
-17	a	la	DET	_	PronType=Art	16	det	_	Gloss=le|SpaceAfter=No
+17	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	16	det	_	Gloss=le|SpaceAfter=No
 18	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 13__4
@@ -135,7 +135,7 @@
 12	te	te	AUX	_	Tense=Past	13	aux	_	Gloss=PAST
 13	anvayi	anvayi	VERB	_	_	0	root	_	Gloss=envahir
 14	lye	lye	NOUN	_	_	13	comp:obj	_	Gloss=lieu
-15	ensidan	ensidan	NOUN	_	_	14	comp:obj	_	Gloss=incident
+15	ensidan	ensidan	NOUN	_	_	14	udep	_	Gloss=incident
 16	an	la	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	Gloss=le|SpaceAfter=No
 17	.	.	PUNCT	_	_	13	punct	_	_
 

@@ -69,7 +69,7 @@
 40	pran	pran	VERB	_	_	38	mod@relcl	_	Gloss=prendre
 41	lavi	lavi	NOUN	_	_	40	comp:obj	_	Gloss=vie
 42	39	39	NUM	_	_	43	det	_	Gloss=39
-43	moun	moun	NOUN	_	_	41	comp:obj	_	Gloss=personne
+43	moun	moun	NOUN	_	_	41	udep	_	Gloss=personne
 44	ki	ki	PRON	_	PronType=Rel	46	subj	_	Gloss=qui
 45	te	te	AUX	_	Tense=Past	46	aux	_	Gloss=PAST
 46	anba	anba	VERB	_	_	43	mod@relcl	_	Gloss=arrêter, emprisonner
@@ -91,7 +91,7 @@
 6	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	Gloss=le
 7	nan	nan	ADP	_	_	5	udep	_	Gloss=dans
 8	vil	vil	NOUN	_	_	7	comp:obj	_	Gloss=ville
-9	Ciudad	Ciudad	PROPN	_	_	8	comp:obj	_	Gloss=Ciudad
+9	Ciudad	Ciudad	PROPN	_	_	8	udep	_	Gloss=Ciudad
 10	Juarez	Juarez	PROPN	_	_	9	flat@name	_	Gloss=Juarez
 11	te	te	AUX	_	Tense=Past	12	aux	_	Gloss=PAST
 12	kontinye	kontinye	VERB	_	_	0	root	_	Gloss=continuer
@@ -99,7 +99,7 @@
 14	pandan	pandan	ADP	_	_	12	mod	_	Gloss=pendant
 15	plizyè	plizyè	DET	_	Number=Plur	16	det	_	Gloss=plusieurs
 16	santèn	santèn	NOUN	_	_	20	subj	_	Gloss=centaine
-17	imigran	imigran	NOUN	_	_	16	comp:obj	_	Gloss=immigrant
+17	imigran	imigran	NOUN	_	_	16	udep	_	Gloss=immigrant
 18	t	te	AUX	_	Tense=Past	20	aux	_	Gloss=PAST
 19	ap	ap	AUX	_	Aspect=Prog	20	aux	_	Gloss=PROG
 20	mache	mache	VERB	_	_	14	comp:obj	_	Gloss=marcher
@@ -111,7 +111,7 @@
 26	ki	ki	PRON	_	PronType=Rel	28	subj	_	Gloss=qui
 27	toupre	toupre	ADV	_	_	28	mod	_	Gloss=tout prêt de
 28	fwontyè	fwontyè	NOUN	_	_	25	mod@relcl	_	Gloss=frontière
-29	peyi	peyi	NOUN	_	_	28	comp:obj	_	Gloss=pays
+29	peyi	peyi	NOUN	_	_	28	udep	_	Gloss=pays
 30	a	la	DET	_	Definite=Ind|Number=Sing|PronType=Art	28	det	_	Gloss=le
 31	ak	ak	ADP	_	_	28	udep	_	Gloss=avec
 32	Lèzetazini	Lèzetazini	PROPN	_	_	31	comp:obj	_	Gloss=Etats-Unis
@@ -135,7 +135,7 @@
 4	sanble	sanble	VERB	_	_	0	root	_	Gloss=sembler
 5	lage	lage	VERB	_	_	4	comp:obj	_	Gloss=donner
 6	responsablite	responsablite	NOUN	_	_	5	comp:obl	_	Gloss=responsabilité
-7	lanmò	lanmò	NOUN	_	_	6	comp:obj	_	Gloss=mort
+7	lanmò	lanmò	NOUN	_	_	6	udep	_	Gloss=mort
 8	yo	yo	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	Gloss=les
 9	sou	sou	ADP	_	_	5	comp:obj	_	Gloss=sur
 10	kontraktè	kontraktè	NOUN	_	_	9	comp:obj	_	Gloss=contracteur
@@ -146,7 +146,7 @@
 15	travay	travay	VERB	_	_	10	mod@relcl	_	Gloss=travailler
 16	kòm	kòm	ADP	_	_	15	mod	_	Gloss=comme
 17	gad	gad	NOUN	_	_	16	comp:obj	_	Gloss=garde
-18	sekirite	sekirite	NOUN	_	_	17	comp:obj	_	Gloss=sécurité|SpaceAfter=No
+18	sekirite	sekirite	NOUN	_	_	17	udep	_	Gloss=sécurité|SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 12__5

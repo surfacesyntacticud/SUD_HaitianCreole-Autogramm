@@ -29,7 +29,7 @@
 3	ki	ki	PRON	_	_	4	subj	_	Gloss=qui
 4	gen	gen	VERB	_	_	2	mod@relcl	_	Gloss=avoir
 5	non	non	NOUN	_	_	4	comp:obj	_	Gloss=nom
-6	Credit	Credit	PROPN	_	_	5	comp:obj	_	Gloss=Crédit
+6	Credit	Credit	PROPN	_	_	5	udep	_	Gloss=Crédit
 7	Suisse	Suisse	PROPN	_	_	6	flat@name	_	Gloss=Suisse
 8	make	make	VERB	_	_	0	root	_	Gloss=marquer
 9	sou	sou	ADP	_	_	8	udep	_	Gloss=sur
@@ -69,7 +69,7 @@
 9	yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Gloss=un
 10	ka	ka	NOUN	_	_	6	comp:obj	_	Gloss=quart
 11	valè	valè	NOUN	_	_	10	udep	_	Gloss=valeur
-12	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	11	det	_	Gloss=3PL
+12	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	11	det	_	Gloss=les
 13	sou	sou	ADP	_	_	6	udep	_	Gloss=sur
 14	mache	mache	NOUN	_	_	13	comp:obj	_	Gloss=marché
 15	d	d	ADP	_	_	14	udep	_	Gloss=de

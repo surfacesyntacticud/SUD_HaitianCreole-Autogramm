@@ -7,7 +7,7 @@
 3	Egzèsis	egzèsis	NOUN	_	_	2	comp:obj	_	Gloss=exercice
 4	ak	ak	ADP	_	_	3	udep	_	Gloss=avec
 5	Fòs	fòs	NOUN	_	_	4	comp:obj	_	Gloss=force
-6	Misil	misil	NOUN	_	_	5	comp:obj	_	Gloss=missile
+6	Misil	misil	NOUN	_	_	5	udep	_	Gloss=missile
 7	Nikleyè	nikleyè	ADJ	_	_	6	mod	_	Gloss=nucléaire
 8	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	5	udep	_	Gloss=3SG
 9	yo	yo	DET	_	Number=Plur|PronType=Art	5	det	_	Gloss=les
@@ -28,7 +28,7 @@
 10	egzèsis	egzèsis	NOUN	_	_	9	comp:obj	_	Gloss=exercice
 11	ak	ak	ADP	_	_	10	udep	_	Gloss=avec
 12	fòs	fòs	NOUN	_	_	11	comp:obj	_	Gloss=force
-13	misil	misil	NOUN	_	_	12	comp:obj	_	Gloss=missile
+13	misil	misil	NOUN	_	_	12	udep	_	Gloss=missile
 14	estratejik	estratejik	ADJ	_	_	12	mod	_	Gloss=stratégique
 15	li	li	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	udep	_	Gloss=3SG
 16	yo	yo	DET	_	Number=Plur|Poss=Yes|PronType=Art	12	det	_	Gloss=les
@@ -37,8 +37,8 @@
 19	gwo	gwo	ADJ	_	_	20	mod	_	Gloss=grande
 20	kapasite	kapasite	NOUN	_	_	18	comp:obj	_	Gloss=capacité
 21	nikleyè	nikleyè	ADJ	_	_	20	mod	_	Gloss=nucléaire
-22	peyi	peyi	NOUN	_	_	20	comp:obj	_	Gloss=pays
-23	a	la	DET	_	PronType=Art	22	det	_	Gloss=le|SpaceAfter=No
+22	peyi	peyi	NOUN	_	_	20	udep	_	Gloss=pays
+23	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	22	det	_	Gloss=le|SpaceAfter=No
 24	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 21__3
@@ -46,12 +46,12 @@
 # text_fr = Le ministère de la défense russe dit mercredi que la lance missile mobile Yars fera des manœuvres dans trois régions  en Sibérie.
 # Status = SILVER
 1	Ministè	ministè	NOUN	_	_	5	subj	_	Gloss=ministère
-2	Defans	defans	NOUN	_	_	1	comp:obj	_	Gloss=défense
+2	Defans	defans	NOUN	_	_	1	udep	_	Gloss=défense
 3	Ris	ris	PROPN	_	_	2	mod	_	Gloss=russe
 4	la	la	DET	_	Definite=Def|Number=Sing|PronType=Art	1	det	_	Gloss=le
 5	di	di	VERB	_	_	0	root	_	Gloss=dire
 6	Mèkredi	mèkredi	NOUN	_	_	5	mod	_	Gloss=mercredi
-7	ke	ke	SCONJ	_	PronType=Rel	5	comp:obj	_	Gloss=que
+7	ke	ke	SCONJ	_	_	5	comp:obj	_	Gloss=que
 8	lans	lans	NOUN	_	_	13	subj	_	Gloss=lance
 9	misil	misil	NOUN	_	_	8	mod	_	Gloss=missile
 10	mobil	mobil	ADJ	_	_	9	mod	_	Gloss=mobile
@@ -71,7 +71,7 @@
 # text_fr = le ministère n'a parlé d'aucun plan pour pratiquer le lancement mais il dit que les manœuvres impliquent à peu près 300 véhicules avec 3000 soldats dans l'ouest de Sibérie.
 # Status = SILVER
 1	Ministè	ministè	NOUN	_	_	4	subj	_	Gloss=ministère
-2	a	la	DET	_	PronType=Art	1	det	_	Gloss=le
+2	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	1	det	_	Gloss=le
 3	pa	pa	ADV	_	Polarity=Neg	4	mod	_	Gloss=NEG
 4	pale	pale	VERB	_	_	0	root	_	Gloss=parler
 5	de	de	ADP	_	_	4	udep	_	Gloss=de

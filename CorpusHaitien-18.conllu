@@ -72,7 +72,7 @@
 17	la	la	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	Gloss=le
 18	di	di	VERB	_	_	0	root	_	Gloss=dire
 19	vandredi	vandredi	NOUN	_	_	18	mod	_	Gloss=vendredi
-20	ke	ke	SCONJ	_	PronType=Rel	18	comp:obj	_	Gloss=que
+20	ke	ke	SCONJ	_	_	18	comp:obj	_	Gloss=que
 21	pwal	pral	AUX	_	Tense=Fut	22	aux	_	Gloss=FUT
 22	gen	gen	VERB	_	_	20	comp:obj	_	Gloss=avoir
 23	plis	plis	ADJ	_	_	24	mod	_	Gloss=plus
@@ -98,14 +98,14 @@
 4	LaRisi	Larisi	PROPN	_	_	5	subj	_	Gloss=Russie
 5	bezwen	bezwen	NOUN	_	_	3	comp:obj	_	Gloss=besoin
 6	plis	plis	ADJ	_	_	7	mod	_	Gloss=plus
-7	tan	tan	NOUN	_	_	5	comp:obj	_	Gloss=temps
+7	tan	tan	NOUN	_	_	5	udep	_	Gloss=temps
 8	«	«	PUNCT	_	_	9	punct	_	_
 9	pou	pou	ADP	_	_	7	udep	_	Gloss=pour
 10	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	11	subj	_	Gloss=3SG
 11	rasanble	rasanble	VERB	_	_	9	comp:obj	_	Gloss=rassembler
 12	gwo	gwo	ADJ	_	_	13	mod	_	Gloss=grand
 13	mas	mas	NOUN	_	_	11	comp:obj	_	Gloss=masse
-14	misil	misil	NOUN	_	_	13	comp:obj	_	Gloss=missile
+14	misil	misil	NOUN	_	_	13	udep	_	Gloss=missile
 15	ki	ki	PRON	_	PronType=Rel	16	subj	_	Gloss=qui
 16	fèk	fèk	VERB	_	_	13	mod@relcl	_	Gloss=venir tout juste
 17	soti	soti	ADV	_	_	16	mod	_	Gloss=à peine
@@ -122,7 +122,7 @@
 28	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	29	subj	_	Gloss=3SG
 29	debòde	debòde	VERB	_	_	27	comp:obj	_	Gloss=déborder
 30	kapasite	kapasite	NOUN	_	_	29	comp:obj	_	Gloss=capacité
-31	defans	defans	NOUN	_	_	30	comp:obj	_	Gloss=défense
+31	defans	defans	NOUN	_	_	30	udep	_	Gloss=défense
 32	aeryen	aeryen	ADJ	_	_	31	mod	_	Gloss=aérienne
 33	Ikrèn	Ikrèn	PROPN	_	_	30	mod	_	Gloss=Ukraine|SpaceAfter=No
 34	.	.	PUNCT	_	_	3	punct	_	_
@@ -137,7 +137,7 @@
 3	lanse	lanse	VERB	_	_	0	root	_	Gloss=lancer
 4	yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	5	det	_	Gloss=un
 5	pakèt	pakèt	NOUN	_	_	3	comp:obj	_	Gloss=paquet
-6	atak	atak	NOUN	_	_	5	comp:obj	_	Gloss=attaque
+6	atak	atak	NOUN	_	_	5	udep	_	Gloss=attaque
 7	misil	misil	NOUN	_	_	6	mod	_	Gloss=missile
 8	toupatou	toupatou	ADJ	_	_	6	mod	_	Gloss=partout
 9	nan	nan	ADP	_	_	3	mod	_	Gloss=dans
@@ -171,7 +171,7 @@
 3	pi	pi	ADV	_	_	5	mod	_	Gloss=plus
 4	gwo	gwo	ADJ	_	_	5	mod	_	Gloss=grand
 5	atak	atak	NOUN	_	_	1	comp:obj	_	Gloss=attaque
-6	konsa	konsa	NOUN	_	_	5	comp:obj	_	Gloss=ainsi
+6	konsa	konsa	NOUN	_	_	5	udep	_	Gloss=ainsi
 7	ki	ki	PRON	_	PronType=Rel	8	subj	_	Gloss=qui
 8	fèt	fèt	VERB	_	_	6	mod@relcl	_	Gloss=faire
 9	sou	sou	ADP	_	_	8	udep	_	Gloss=sur
@@ -224,7 +224,7 @@
 # text_fr = Le ministère de la défense ruse  dit que ces frappes étaient un revanche contre une attaque qui a été faite sur la région l'ouest de la Russie, et qui c'est, d'après Moscou, travail du saboteur qui sortait en Ukraine .
 # Status = SILVER
 1	Ministè	ministè	NOUN	_	_	5	subj	_	Gloss=ministère
-2	Defans	defans	NOUN	_	_	1	comp:obj	_	Gloss=défense
+2	Defans	defans	NOUN	_	_	1	udep	_	Gloss=défense
 3	ris	ris	ADJ	_	_	1	mod	_	Gloss=russe
 4	la	la	DET	_	Definite=Def|Number=Sing|PronType=Art	1	det	_	Gloss=le
 5	di	di	VERB	_	_	0	root	_	Gloss=dire
@@ -246,10 +246,10 @@
 21	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	19	det	_	Gloss=le
 22	sou	sou	ADP	_	_	17	udep	_	Gloss=sur
 23	rejyon	rejyon	NOUN	_	_	22	comp:obj	_	Gloss=région
-24	Bryansk	Bryansk	PROPN	_	_	23	comp:obj	_	Gloss=Briansk
+24	Bryansk	Bryansk	PROPN	_	_	23	udep	_	Gloss=Briansk
 25	nan	nan	ADP	_	_	23	mod	_	Gloss=dans
 26	lwès	lwès	NOUN	_	_	25	comp:obj	_	Gloss=ouest
-27	LaRisi	Larisi	PROPN	_	_	26	comp:obj	_	Gloss=Russie|SpaceAfter=No
+27	LaRisi	Larisi	PROPN	_	_	26	udep	_	Gloss=Russie|SpaceAfter=No
 28	,	,	PUNCT	_	_	17	punct	_	_
 29	e	e	CCONJ	_	_	31	cc	_	Gloss=et
 30	ki	ki	PRON	_	PronType=Rel	31	subj	_	Gloss=qui
@@ -259,7 +259,7 @@
 34	Moskou	Moskou	PROPN	_	_	33	comp:obj	_	Gloss=Moscou|SpaceAfter=No
 35	,	,	PUNCT	_	_	33	punct	_	_
 36	travay	travay	NOUN	_	_	31	comp:pred	_	Gloss=travail
-37	sabotè	sabotè	NOUN	_	_	36	comp:obj	_	Gloss=saboteur
+37	sabotè	sabotè	NOUN	_	_	36	udep	_	Gloss=saboteur
 38	ki	ki	PRON	_	PronType=Rel	40	subj	_	Gloss=qui
 39	te	te	AUX	_	Tense=Past	40	aux	_	Gloss=PAST
 40	soti	soti	VERB	_	_	37	mod@relcl	_	Gloss=sortir

@@ -70,10 +70,10 @@
 43	fè	fè	VERB	_	_	0	root	_	Gloss=faire
 44	fas	fas	NOUN	_	_	43	comp:obj	_	Gloss=face
 45	gwo	gwo	ADJ	_	_	46	mod	_	Gloss=grand
-46	pwoblèm	pwoblèm	NOUN	_	_	44	comp:obj	_	Gloss=problème
+46	pwoblèm	pwoblèm	NOUN	_	_	44	udep	_	Gloss=problème
 47	akoz	akoz	ADP	_	_	44	udep	_	Gloss=à cause de
 48	Pwogram	pwogram	NOUN	_	_	47	comp:obj	_	Gloss=programme
-49	Pawòl	pawòl	NOUN	_	_	48	comp:obj	_	Gloss=parole
+49	Pawòl	pawòl	NOUN	_	_	48	udep	_	Gloss=parole
 50	imanitè	imanitè	NOUN	_	_	49	mod	_	Gloss=humanitaire
 51	ki	ki	PRON	_	PronType=Rel	52	subj	_	Gloss=qui
 52	ekpire	ekpire	VERB	_	_	48	mod@relcl	_	Gloss=expirer
@@ -96,10 +96,10 @@
 9	ke	ke	SCONJ	_	_	8	comp:obj	_	Gloss=que
 10	administrasyon	administrasyon	NOUN	_	_	13	subj	_	Gloss=administration
 11	Biden	Biden	PROPN	_	_	10	comp:obj	_	Gloss=Biden
-12	nan	la	DET	_	PronType=Art	10	det	_	Gloss=le
+12	nan	la	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	Gloss=le
 13	enfòme	enfòme	VERB	_	_	9	comp:obj	_	Gloss=informer
 14	yo	yo	DET	_	Definite=Def|Number=Plur	13	comp:obj	_	Gloss=les
-15	ke	ke	SCONJ	_	PronType=Rel	13	comp:obj	_	Gloss=que
+15	ke	ke	SCONJ	_	_	13	comp:obj	_	Gloss=que
 16	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	18	subj	_	Gloss=3SG
 17	ap	ap	AUX	_	Aspect=Prog	18	aux	_	Gloss=PROG
 18	travay	travay	VERB	_	_	15	comp:obj	_	Gloss=travailler
@@ -109,7 +109,7 @@
 22	an	la	DET	_	Definite=Def|Number=Sing|PronType=Art	21	det	_	Gloss=le|SpaceAfter=No
 23	,	,	PUNCT	_	_	25	punct	_	_
 24	men	men	CCONJ	_	_	25	cc	_	Gloss=mais
-25	ke	ke	SCONJ	_	PronType=Rel	15	conj:coord	_	Gloss=que
+25	ke	ke	SCONJ	_	_	15	conj:coord	_	Gloss=que
 26	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	28	subj	_	Gloss=3SG
 27	pa	pa	ADV	_	Polarity=Neg	28	mod	_	Gloss=NEG
 28	di	di	VERB	_	_	25	comp:obj	_	Gloss=dire
@@ -171,7 +171,7 @@
 19	fin	fini	VERB	_	_	16	comp:obj	_	Gloss=finir
 20	travèse	travèse	VERB	_	_	19	comp:obj	_	Gloss=traverser
 21	fwontyè	fwontyè	NOUN	_	_	20	comp:obj	_	Gloss=frontière
-22	Etazini	Etazini	PROPN	_	_	21	comp:obj	_	Gloss=États-Unis
+22	Etazini	Etazini	PROPN	_	_	21	udep	_	Gloss=États-Unis
 23	ak	ak	ADP	_	_	21	udep	_	Gloss=avec
 24	Meksik	Meksik	PROPN	_	_	23	comp:obj	_	Gloss=Mexique
 25	pandan	pandan	ADP	_	_	20	mod	_	Gloss=pendant

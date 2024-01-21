@@ -150,8 +150,8 @@
 23	yo	yo	DET	_	Number=Plur	21	det	_	Gloss=les
 24	de	de	ADP	_	_	18	comp:obj	_	Gloss=de
 25	maryaj	maryaj	NOUN	_	_	24	comp:obj	_	Gloss=mariage
-26	yon	yon	DET	_	Definite=Ind|Number=Sing	25	det	_	Gloss=un
-27	sè	sè	NOUN	_	_	25	comp:obj	_	Gloss=sœur
+26	yon	yon	DET	_	Definite=Ind|Number=Sing	27	det	_	Gloss=un
+27	sè	sè	NOUN	_	_	25	udep	_	Gloss=sœur
 28	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	27	udep	_	Gloss=1SG
 29	mwen	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	31	subj	_	Gloss=1SG
 30	t	te	AUX	_	Tense=Past	31	aux	_	Gloss=PAST
@@ -234,7 +234,7 @@
 22	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	23	subj	_	Gloss=1SG
 23	tande	tande	VERB	_	_	20	mod@relcl	_	Gloss=entendre
 24	pòt	pòt	NOUN	_	_	27	comp:obj	_	Gloss=porte
-25	klas	klas	NOUN	_	_	24	comp:obj	_	Gloss=classe
+25	klas	klas	NOUN	_	_	24	udep	_	Gloss=classe
 26	la	la	DET	_	Definite=Def|Number=Sing|PronType=Art	24	det	_	Gloss=le
 27	ouvè	ouvè	VERB	_	_	23	comp:obj	_	Gloss=ouvrir|SpaceAfter=No
 28	.	.	PUNCT	_	_	9	punct	_	_
@@ -406,7 +406,7 @@
 # text_fr = Le nom de ce jeune homme est Claudy.
 # Status = SILVER
 1	Non	non	NOUN	_	_	4	subj	_	Gloss=nom
-2	jennonm	jennonm	NOUN	_	_	1	comp:obj	_	Gloss=jeune homme
+2	jennonm	jennonm	NOUN	_	_	1	udep	_	Gloss=jeune homme
 3	sa	sa	DET	_	Number=Sing|PronType=Dem	2	det	_	Gloss=cet
 4	se	se	AUX	_	_	0	root	_	Gloss=être
 5	Claudy	claudy	PROPN	_	_	4	comp:pred	_	Gloss=claudy|SpaceAfter=No
@@ -423,7 +423,7 @@
 5	rantre	rantre	VERB	_	_	3	comp:obj	_	Gloss=rentrer
 6	nan	nan	ADP	_	_	5	udep	_	Gloss=dans
 7	Fakilte	fakilte	NOUN	_	_	6	comp:obj	_	Gloss=faculté
-8	Lengwistik	lengwistik	NOUN	_	_	7	comp:obj	_	Gloss=linguistique
+8	Lengwistik	lengwistik	NOUN	_	_	7	udep	_	Gloss=linguistique
 9	Aplike	aplike	ADJ	_	_	8	mod	_	Gloss=appliquée
 10	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	Gloss=le|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	_
@@ -440,7 +440,7 @@
 22	òganize	òganize	VERB	_	_	18	mod@relcl	_	Gloss=organiser
 23	nan	nan	ADP	_	_	22	udep	_	Gloss=dans
 24	mwa	mwa	NOUN	_	_	23	comp:obj	_	Gloss=mois
-25	desanm	desanm	NOUN	_	_	24	comp:obj	_	Gloss=décembre
+25	desanm	desanm	NOUN	_	_	24	udep	_	Gloss=décembre
 26	pou	pou	ADP	_	_	22	udep	_	Gloss=pour
 27	klas	klas	NOUN	_	_	26	comp:obj	_	Gloss=classe
 28	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	27	udep	_	Gloss=3SG
@@ -476,7 +476,7 @@
 16	ale	ale	VERB	_	_	13	comp:pred	_	Gloss=aller
 17	nan	nan	ADP	_	_	16	udep	_	Gloss=dans
 18	fèt	fèt	NOUN	_	_	17	comp:obj	_	Gloss=fête
-19	la	la	DET	_	PronType=Art	18	det	_	Gloss=le|SpaceAfter=No
+19	la	la	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	Gloss=le|SpaceAfter=No
 20	"	"	PUNCT	_	_	18	punct	_	_
 21	pou	pou	ADP	_	_	16	mod	_	Gloss=pour
 22	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	25	subj	_	Gloss=1SG

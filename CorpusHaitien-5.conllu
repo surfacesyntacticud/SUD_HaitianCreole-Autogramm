@@ -23,7 +23,7 @@
 # text_fr = Le président Joe Biden parle pendant une conférence pour la presse, avec le premier ministre canadien Justin Trudeau à Ottawa, Canada, le 24 mars, 2023.
 # Status = SILVER
 1	Prezidan	prezidan	NOUN	_	_	4	subj	_	Gloss=président
-2	Joe	Joe	PROPN	_	_	1	comp:obj	_	Gloss=Joe
+2	Joe	Joe	PROPN	_	_	1	udep	_	Gloss=Joe
 3	Biden	Biden	PROPN	_	_	2	flat@name	_	Gloss=Biden
 4	pale	pale	VERB	_	_	0	root	_	Gloss=parler
 5	pandan	pandan	ADP	_	_	4	mod	_	Gloss=pendant
@@ -57,7 +57,7 @@
 4	sipò	sipò	NOUN	_	_	3	comp:obj	_	Gloss=support
 5	pou	pou	ADP	_	_	4	udep	_	Gloss=pour
 6	fòs	fòs	NOUN	_	_	5	comp:obj	_	Gloss=force
-7	polis	polis	NOUN	_	_	6	comp:obj	_	Gloss=police
+7	polis	polis	NOUN	_	_	6	udep	_	Gloss=police
 8	nasyonal	nasyonal	ADJ	_	_	7	mod	_	Gloss=national
 9	Ayiti	Ayiti	PROPN	_	_	7	mod	_	Gloss=Haïti
 10	e	e	CCONJ	_	_	13	cc	_	Gloss=et
@@ -75,7 +75,7 @@
 22	jefò	jefò	NOUN	_	_	21	comp:obj	_	Gloss=effort
 23	pou	pou	ADP	_	_	20	udep	_	Gloss=pour
 24	tabli	tabli	NOUN	_	_	23	comp:obj	_	Gloss=établir, mettre
-25	lape	lape	NOUN	_	_	24	comp:obj	_	Gloss=paix
+25	lape	lape	NOUN	_	_	24	udep	_	Gloss=paix
 26	an	an	ADP	_	_	24	mod	_	Gloss=en
 27	Ayiti	Ayiti	PROPN	_	_	26	comp:obj	_	Gloss=Haïti|SpaceAfter=No
 28	.	.	PUNCT	_	_	3	punct	_	_
@@ -87,7 +87,7 @@
 1	Se	se	AUX	_	_	0	root	_	Gloss=être
 2	sa	sa	PRON	_	Number=Sing|PronType=Dem	1	comp:pred	_	Gloss=ça
 3	Prezidan	prezidan	NOUN	_	_	6	subj	_	Gloss=président
-4	Joe	Joe	PROPN	_	_	3	comp:obj	_	Gloss=Joe
+4	Joe	Joe	PROPN	_	_	3	udep	_	Gloss=Joe
 5	Biden	Biden	PROPN	_	_	4	flat@name	_	Gloss=Biden
 6	fe	fe	VERB	_	_	2	mod@relcl	_	Gloss=faire
 7	konnen	konnen	VERB	_	_	6	comp:obj	_	Gloss=savoir
@@ -96,7 +96,7 @@
 10	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	9	udep	_	Gloss=3SG
 11	nan	nan	ADP	_	_	9	udep	_	Gloss=dans
 12	peyi	peyi	NOUN	_	_	11	comp:obj	_	Gloss=pays
-13	Kanada	Kanada	PROPN	_	_	12	comp:obj	_	Gloss=Kanada
+13	Kanada	Kanada	PROPN	_	_	12	udep	_	Gloss=Kanada
 14	Vandredi	vandredi	NOUN	_	_	6	mod	_	Gloss=vendredi
 15	24	24	NUM	_	_	14	mod	_	Gloss=24
 16	Mas	mas	NOUN	_	_	15	mod	_	Gloss=mars
@@ -196,7 +196,7 @@
 3	pale	pale	VERB	_	_	0	root	_	Gloss=parler
 4	de	de	ADP	_	_	3	udep	_	Gloss=de
 5	aktivite	aktivite	NOUN	_	_	4	comp:obj	_	Gloss=activité
-6	gang	gang	NOUN	_	_	5	comp:obj	_	Gloss=gang
+6	gang	gang	NOUN	_	_	5	udep	_	Gloss=gang
 7	yo	yo	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	Gloss=les
 8	tou	tou	ADV	_	_	3	mod	_	Gloss=tout|SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
@@ -310,7 +310,7 @@
 11	pa	pa	ADP	_	_	8	mod	_	Gloss=par
 12	l	li	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	udep	_	Gloss=3SG
 13	entèmedyè	entèmedyè	NOUN	_	_	11	comp:obj	_	Gloss=intermédiaire
-14	Nasyonzini	Nasyonzini	PROPN	_	_	13	comp:obj	_	Gloss=Nations Unies
+14	Nasyonzini	Nasyonzini	PROPN	_	_	13	udep	_	Gloss=Nations Unies
 15	ta	ta	AUX	_	Mood=Cnd	17	aux	_	Gloss=COND|SpaceAfter=No
 16	ka	ka	AUX	_	_	17	aux	_	Gloss=pouvoir|wordform=taka
 17	jwe	jwe	VERB	_	_	7	comp:obj	_	Gloss=jouer
@@ -321,7 +321,7 @@
 22	nan	nan	ADP	_	_	21	udep	_	Gloss=dans
 23	jefò	jefò	NOUN	_	_	22	comp:obj	_	Gloss=effort
 24	sa	sa	DET	_	_	23	det	_	Gloss=cet
-25	a	la	DET	_	PronType=Art	23	det	_	Gloss=le|SpaceAfter=No
+25	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	23	det	_	Gloss=le|SpaceAfter=No
 26	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 05__13
@@ -353,14 +353,14 @@
 6	kestyon	kestyon	NOUN	_	_	5	comp:obj	_	Gloss=question
 7	prensipal	prensipal	ADJ	_	_	6	mod	_	Gloss=principal
 8	Prezidan	prezidan	NOUN	_	_	12	subj	_	Gloss=président
-9	Joe	Joe	PROPN	_	_	8	comp:obj	_	Gloss=Joe
+9	Joe	Joe	PROPN	_	_	8	udep	_	Gloss=Joe
 10	Biden	Biden	PROPN	_	_	9	flat@name	_	Gloss=Biden
 11	te	te	AUX	_	Tense=Past	12	aux	_	Gloss=PAST
 12	diskite	diskite	VERB	_	_	6	mod@relcl	_	Gloss=discuter
 13	ak	ak	ADP	_	_	12	udep	_	Gloss=avec
 14	Premye	premye	ADJ	_	_	15	mod	_	Gloss=premier
 15	Minis	minis	NOUN	_	_	13	comp:obj	_	Gloss=ministre
-16	Justin	Justin	PROPN	_	_	15	comp:obj	_	Gloss=Justin
+16	Justin	Justin	PROPN	_	_	15	udep	_	Gloss=Justin
 17	Trudeau	Trudeau	PROPN	_	_	16	flat@name	_	Gloss=Trudeau
 18	pandan	pandan	ADP	_	_	12	mod	_	Gloss=pendant
 19	vizit	vizit	NOUN	_	_	18	comp:obj	_	Gloss=visite

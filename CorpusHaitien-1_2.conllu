@@ -25,7 +25,7 @@
 7	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	8	subj	_	Gloss=3PL
 8	rele	rele	VERB	_	_	6	mod@relcl	_	Gloss=appeler
 9	kout	kout	NOUN	_	_	8	comp:obj	_	Gloss=coup
-10	foud	foud	NOUN	_	_	9	comp:obj	_	Gloss=foudre
+10	foud	foud	NOUN	_	_	9	udep	_	Gloss=foudre
 11	la	la	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	Gloss=le|SpaceAfter=No
 12	,	,	PUNCT	_	_	21	punct	_	_
 13	men	men	CCONJ	_	_	21	cc	_	Gloss=mais
@@ -54,7 +54,7 @@
 6	la	la	ADV	_	_	5	comp:obl	_	Gloss=là
 7	nan	nan	ADP	_	_	6	mod	_	Gloss=dans
 8	fèt	fèt	NOUN	_	_	7	comp:obj	_	Gloss=fête
-9	la	la	DET	_	Definite=Def|PronType=Art	8	det	_	Gloss=le
+9	la	la	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	Gloss=le
 10	paske	paske	SCONJ	_	_	5	mod	_	Gloss=parce que
 11	fòk	fòk	VERB	_	_	10	comp:obj	_	Gloss=falloir
 12	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	14	subj	_	Gloss=1SG
@@ -396,7 +396,7 @@
 9	ki	ki	PRON	_	PronType=Rel	10	subj	_	Gloss=qui
 10	kache	kache	VERB	_	_	8	mod@relcl	_	Gloss=cacher
 11	dèyè	dèyè	NOUN	_	_	10	comp:obj	_	Gloss=derrière
-12	stati	stati	NOUN	_	_	11	comp:obj	_	Gloss=statut
+12	stati	stati	NOUN	_	_	11	udep	_	Gloss=statut
 13	sa	sa	PRON	_	Number=Sing|Person=3|PronType=Prs	12	udep	_	Gloss=cet|SpaceAfter=No
 14	,	,	PUNCT	_	_	18	punct	_	_
 15	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	18	subj	_	Gloss=1SG
@@ -464,7 +464,7 @@
 16	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	15	udep	_	Gloss=1SG
 17	sou	sou	ADP	_	_	14	udep	_	Gloss=sur
 18	kabann	kabann	NOUN	_	_	17	comp:obj	_	Gloss=lit
-19	nan	la	DET	_	PronType=Art	18	det	_	Gloss=le
+19	nan	la	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	Gloss=le
 20	pou	pou	ADP	_	_	14	udep	_	Gloss=pour
 21	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	22	subj	_	Gloss=1SG
 22	repase	repase	VERB	_	_	20	comp:obj	_	Gloss=revoir
@@ -473,7 +473,7 @@
 25	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	27	subj	_	Gloss=1SG
 26	te	te	AUX	_	Tense=Past	27	aux	_	Gloss=PAST
 27	wè	wè	VERB	_	_	23	mod@relcl	_	Gloss=voir
-28	a	la	DET	_	PronType=Art	27	det	_	Gloss=le
+28	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	27	det	_	Gloss=le
 29	nan	nan	ADP	_	_	27	udep	_	Gloss=dans
 30	panse	panse	NOUN	_	_	29	comp:obj	_	Gloss=pensée
 31	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	30	udep	_	Gloss=1SG|SpaceAfter=No

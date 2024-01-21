@@ -100,7 +100,7 @@
 41	yo	yo	DET	_	Definite=Def|Number=Plur|PronType=Art	40	det	_	Gloss=les
 42	chape	chape	VERB	_	_	39	compound:svc	_	Gloss=sauver
 43	poul	poul	NOUN	_	_	42	comp:obj	_	Gloss=peau
-44	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	43	udep	_	Gloss=3PL
+44	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	43	udep	_	Gloss=les
 45	lè	lè	SCONJ	_	_	36	mod	_	Gloss=quand
 46	dife	dife	NOUN	_	_	49	subj	_	Gloss=incendie
 47	t	te	AUX	_	Tense=Past	49	aux	_	Gloss=PAST

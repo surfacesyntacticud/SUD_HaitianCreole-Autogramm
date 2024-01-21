@@ -60,10 +60,10 @@
 27	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	28	subj	_	Gloss=1SG
 28	rete	rete	VERB	_	_	26	comp:obj	_	Gloss=rester
 29	pou	pou	ADP	_	_	28	udep	_	Gloss=pour
-30	fen	fen	NOUN	_	_	31	mod	_	Gloss=fin
-31	desanm	desanm	NOUN	_	_	29	comp:obj	_	Gloss=décembre
+30	fen	fen	NOUN	_	_	29	comp:obj	_	Gloss=fin
+31	desanm	desanm	NOUN	_	_	30	udep	_	Gloss=décembre
 32	sa	sa	DET	_	Number=Sing|PronType=Dem	31	det	_	Gloss=cet
-33	a	la	DET	_	Number=Sing|PronType=Dem	31	det	_	Gloss=le|SpaceAfter=No
+33	a	la	DET	_	Definite=Def|Number=Sing|PronType=Dem	30	det	_	Gloss=le|SpaceAfter=No
 34	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 01__83
@@ -113,7 +113,7 @@
 16	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	17	subj	_	Gloss=1SG
 17	ba	bay	VERB	_	_	15	mod@relcl	_	Gloss=donner
 18	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	17	comp:obj	_	Gloss=3SG
-19	a	la	DET	_	PronType=Art	17	det	_	Gloss=le|SpaceAfter=No
+19	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	15	det	_	Gloss=le|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	_
 21	ki	ki	PRON	_	PronType=Rel	22	subj	_	Gloss=qui
 22	se	se	AUX	_	_	15	mod@relcl	_	Gloss=être

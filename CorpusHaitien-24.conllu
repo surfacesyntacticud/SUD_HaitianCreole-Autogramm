@@ -4,9 +4,9 @@
 # Status = SILVER
 1	Yon	yon	DET	_	Definite=Ind|Number=Sing	2	det	_	Gloss=un
 2	pòt	pòt	NOUN	_	_	7	subj	_	Gloss=porte
-3	pawòl	pawòl	NOUN	_	_	2	comp:obj	_	Gloss=parole
-4	Depatman	Depatman	NOUN	_	_	3	comp:obj	_	Gloss=département
-5	d	de	NOUN	_	Typo=Yes	4	comp:obj	_	Gloss=d'Etat
+3	pawòl	pawòl	NOUN	_	_	2	udep	_	Gloss=parole
+4	Depatman	Depatman	NOUN	_	_	3	udep	_	Gloss=département
+5	d	de	NOUN	_	Typo=Yes	4	udep	_	Gloss=d'Etat
 6	Eta	_	X	_	_	5	goeswith	_	_
 7	deklare	deklare	VERB	_	_	0	root	_	Gloss=déclarer
 8	Samdi	Samdi	NOUN	_	_	7	mod	_	Gloss=samedi|SpaceAfter=No
@@ -35,7 +35,7 @@
 31	laprès	laprès	NOUN	_	_	35	subj	_	Gloss=presse
 32	nan	nan	ADP	_	_	31	udep	_	Gloss=dans
 33	eta	eta	NOUN	_	_	32	comp:obj	_	Gloss=état
-34	Florid	Florid	PROPN	_	_	33	comp:obj	_	Gloss=Floride
+34	Florid	Florid	PROPN	_	_	33	udep	_	Gloss=Floride
 35	rapòte	rapòte	VERB	_	_	7	conj:coord	_	Gloss=rapporter
 36	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	37	subj	_	Gloss=3PL
 37	kidnape	kidnape	VERB	_	_	35	comp:obj	_	Gloss=kidnapper
@@ -76,11 +76,11 @@
 27	ki	ki	PRON	_	PronType=Rel	28	subj	_	Gloss=qui
 28	di	di	VERB	_	_	24	mod@relcl	_	Gloss=dire
 29	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	28	comp:obl	_	Gloss=3SG
-30	sa	sa	DET	_	PronType=Dem	31	det	_	Gloss=cet
+30	sa	sa	PRON	_	PronType=Dem	28	comp:obj	_	Gloss=ça
 31	fanmi	fanmi	NOUN	_	_	34	subj	_	Gloss=famille
 32	koup	koup	NOUN	_	_	31	comp:obj	_	Gloss=couple
-33	la	la	DET	_	PronType=Art	32	det	_	Gloss=le
-34	pibliye	pibliye	VERB	_	_	28	comp:obj	_	Gloss=publier
+33	la	la	DET	_	Definite=Def|Number=Sing|PronType=Art	32	det	_	Gloss=le
+34	pibliye	pibliye	VERB	_	_	30	mod@relcl	_	Gloss=publier
 35	sou	sou	ADP	_	_	34	udep	_	Gloss=sur
 36	entènèt	entènèt	NOUN	_	_	35	comp:obj	_	Gloss=internet|SpaceAfter=No
 37	.	.	PUNCT	_	_	10	punct	_	_
@@ -115,7 +115,7 @@
 24	sa	sa	PRON	_	PronType=Dem	23	comp:obj	_	Gloss=ça
 25	yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	26	det	_	Gloss=un
 26	manm	manm	NOUN	_	_	29	subj	_	Gloss=membre
-27	fanmi	fanmi	NOUN	_	_	26	comp:obj	_	Gloss=famille
+27	fanmi	fanmi	NOUN	_	_	26	udep	_	Gloss=famille
 28	yo	yo	DET	_	Definite=Def|Number=Plur|PronType=Art	27	det	_	Gloss=les
 29	di	di	VERB	_	_	24	mod@relcl	_	Gloss=dire
 30	CNN	CNN	PROPN	_	_	29	comp:obj	_	Gloss=CNN|SpaceAfter=No
@@ -126,8 +126,8 @@
 # text_fr = Le porte du département d'Etat dit: "Nous sommes au courant du rapport qui dit qu'il y a deux citoyens américains qui ont disparus en Haïti.
 # Status = SILVER
 1	Pòtpawòl	Pòtpawòl	NOUN	_	_	5	subj	_	Gloss=Porte parole
-2	Depatman	Depatman	NOUN	_	_	1	comp:obj	_	Gloss=département
-3	d	de	NOUN	_	Typo=Yes	2	comp:obj	_	Gloss=d'Etat
+2	Depatman	Depatman	NOUN	_	_	1	udep	_	Gloss=département
+3	d	de	NOUN	_	Typo=Yes	2	udep	_	Gloss=d'Etat
 4	Eta	_	X	_	_	3	goeswith	_	_
 5	di	di	VERB	_	_	0	root	_	Gloss=dire|SpaceAfter=No
 6	:	:	PUNCT	_	_	5	punct	_	_
@@ -192,8 +192,8 @@
 # Status = SILVER
 1	Yon	yon	DET	_	Definite=Ind|Number=Sing	2	det	_	Gloss=un
 2	pòt	pòt	NOUN	_	_	9	subj	_	Gloss=porte
-3	pawòl	pawòl	NOUN	_	_	2	comp:obj	_	Gloss=parole
-4	polis	polis	NOUN	_	_	3	comp:obj	_	Gloss=police
+3	pawòl	pawòl	NOUN	_	_	2	udep	_	Gloss=parole
+4	polis	polis	NOUN	_	_	3	udep	_	Gloss=police
 5	nasyonal	nasyonal	ADJ	_	_	4	mod	_	Gloss=national
 6	Ayiti	Ayiti	PROPN	_	_	4	mod	_	Gloss=Haïti
 7	pa	pa	ADV	_	Polarity=Neg	9	mod	_	Gloss=NEG|SpaceAfter=No
@@ -219,7 +219,7 @@
 6	Ayiti	_	X	_	_	5	goeswith	_	_
 7	ogmante	ogmante	VERB	_	_	0	root	_	Gloss=augmenter
 8	pouvwa	pouvwa	NOUN	_	_	7	comp:obj	_	Gloss=pouvoir
-9	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	8	udep	_	Gloss=3PL
+9	yo	yo	PRON	_	Number=Plur|Person=3|PronType=Prs	8	udep	_	Gloss=les
 10	depi	depi	ADV	_	_	7	mod	_	Gloss=depuis
 11	asasina	asasina	NOUN	_	_	10	comp:obj	_	Gloss=assassinat
 12	Prezidan	prezidan	PROPN	_	_	11	comp:obj	_	Gloss=président
@@ -281,7 +281,7 @@
 4	yo	yo	DET	_	Definite=Def|Number=Plur|PronType=Art	3	det	_	Gloss=les
 5	pou	pou	ADP	_	_	1	udep	_	Gloss=pour
 6	kontwòl	kontwòl	NOUN	_	_	5	comp:obj	_	Gloss=contrôle
-7	teritwa	teritwa	NOUN	_	_	6	comp:obj	_	Gloss=territoire
+7	teritwa	teritwa	NOUN	_	_	6	udep	_	Gloss=territoire
 8	lakoz	lakoz	ADP	_	_	0	root	_	Gloss=à cause
 9	anpil	anpil	ADJ	_	_	10	mod	_	Gloss=beaucoup
 10	san	san	NOUN	_	_	8	comp:obj	_	Gloss=sang
@@ -289,8 +289,8 @@
 12	epi	epi	CCONJ	_	_	17	cc	_	Gloss=et puis
 13	plizyè	plizyè	DET	_	Number=Plur	14	det	_	Gloss=plusieurs
 14	santèn	santèn	NOUN	_	_	17	subj	_	Gloss=centaine
-15	milye	milye	NOUN	_	_	14	comp:obj	_	Gloss=milliers
-16	moun	moun	NOUN	_	_	15	comp:obj	_	Gloss=personne
+15	milye	milye	NOUN	_	_	14	udep	_	Gloss=milliers
+16	moun	moun	NOUN	_	_	15	udep	_	Gloss=personne
 17	oblije	oblije	VERB	_	_	8	conj:coord	_	Gloss=obliger
 18	kouri	kouri	VERB	_	_	17	comp:obl	_	Gloss=courir
 19	kite	kite	VERB	_	_	18	compound:svc	_	Gloss=quitter
