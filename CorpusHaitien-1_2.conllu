@@ -382,7 +382,7 @@
 12	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 01__38
-# text = Nou pa imajine n kijanm anvi konn moun ki kache dèyè stati sa, m pa ka tann pou l ekri m-- byenke m pat gen asirans sa.
+# text = Nou pa imajine n kijanm anvi konn moun ki kache dèyè stati sa, m pa ka tann pou l ekri m -- byenke m pat gen asirans sa.
 # text_fr = Nous nous n'imaginons pas comment j'ai envie de connaitre la personne qui se cache derrière ce statut, je ne peux pas attendre pour qu'il m'écrive - bien que je n'avais pas cette assurance.
 # Status = SILVER
 1	Nou	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	3	subj	_	Gloss=1PL
@@ -427,7 +427,7 @@
 4	la	la	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	Gloss=le
 5	tou	tou	ADV	_	_	6	mod	_	Gloss=tout
 6	dezole	dezole	ADJ	_	_	2	mod	_	Gloss=désolé
-7	paske	paske	SCONJ	_	_	6	mod	_	ExtPos=SCONJ|Gloss=parce que
+7	paske	paske	SCONJ	_	_	6	mod	_	Gloss=parce que
 8	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	11	subj	_	Gloss=1SG
 9	pa	pa	ADV	_	_	11	mod	_	Gloss=NEG
 10	t	te	AUX	_	Tense=Past	11	aux	_	Gloss=PAST

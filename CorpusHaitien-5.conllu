@@ -335,7 +335,7 @@
 5	se	se	AUX	_	_	0	root	_	Gloss=être
 6	yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	8	det	_	Gloss=un
 7	gwo	gwo	ADJ	_	_	8	mod	_	Gloss=grand
-8	ke	kè	NOUN	_	PronType=Rel	9	subj	_	Gloss=coeur
+8	ke	kè	NOUN	_	_	9	subj	_	Gloss=coeur
 9	sote	sote	VERB	_	_	5	comp:pred	_	Gloss=sauter
 10	pou	pou	ADP	_	_	9	udep	_	Gloss=pour
 11	nou	nou	PRON	_	Number=Plur|Person=1|PronType=Prs	10	comp:obj	_	Gloss=1PL|SpaceAfter=No

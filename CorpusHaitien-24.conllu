@@ -20,7 +20,7 @@
 16	rapò	rapò	NOUN	_	_	15	comp:obj	_	Gloss=rapport
 17	ki	ki	PRON	_	PronType=Rel	18	subj	_	Gloss=qui
 18	di	di	VERB	_	_	16	mod@relcl	_	Gloss=dire
-19	kòm	kòm	SCONJ	_	_	18	comp:obj	_	ExtPos=CCONJ|Gloss=comme|Idiom=Yes
+19	kòm	kòm	SCONJ	_	ExtPos=CCONJ	18	comp:obj	_	Gloss=comme|Idiom=Yes
 20	kwa	kwa	PRON	_	_	19	unk	_	Gloss=quoi|InIdiom=Yes
 21	gen	gen	VERB	_	_	19	comp:obj	_	Gloss=avoir
 22	2	2	NUM	_	_	23	det	_	Gloss=2

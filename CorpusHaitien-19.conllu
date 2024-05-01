@@ -98,7 +98,7 @@
 11	Biden	Biden	PROPN	_	_	10	comp:obj	_	Gloss=Biden
 12	nan	la	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	Gloss=le
 13	enfòme	enfòme	VERB	_	_	9	comp:obj	_	Gloss=informer
-14	yo	yo	DET	_	Definite=Def|Number=Plur	13	comp:obj	_	Gloss=les
+14	yo	yo	DET	_	Definite=Def|Number=Plur	13	unk	_	Gloss=les
 15	ke	ke	SCONJ	_	_	13	comp:obj	_	Gloss=que
 16	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	18	subj	_	Gloss=3SG
 17	ap	ap	AUX	_	Aspect=Prog	18	aux	_	Gloss=PROG
